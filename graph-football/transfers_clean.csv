@@ -1,0 +1,4625 @@
+from_team_name,to_team_name,weight,transfer_fee
+1.FC Magdeburg,G. Halberstadt,15,0
+1.FC Nuremberg,B. Leverkusen,13,20730000
+1.FC Nuremberg,VfB Stuttgart,12,17000000
+1.FSV Mainz 05,1.FC Köln,9,24750000
+1.FSV Mainz 05,FC Schalke 04,15,33950000
+1.JFS Köln Jgd.,1.FC Köln Yth.,9,0
+1.SC Znojmo,Sigma Olomouc,9,0
+1461 Trabzon,Trabzonspor,49,0
+1461 Trabzon ,Trabzonspor,10,0
+1860 Munich,Arm. Bielefeld,9,0
+A. Klagenfurt,Viktoria Berlin,9,0
+A. Lustenau,Clermont Foot,11,0
+A. Lustenau,FC Dornbirn,10,0
+A. Lustenau,SCR Altach,15,100000
+A. Malagueño,Málaga CF,46,0
+A. Selcukluspor,Konyaspor,10,0
+A. Selcukspor,Konyaspor,19,0
+A. Vienna Res.,Austria Vienna,36,0
+A.Sebatspor,Trabzonspor,17,0
+ABC FC,América-RN,9,0
+ABC FC,Atlético-PR,10,0
+ABC FC,Caxias-RS,9,0
+ABC FC,EC Vitória,10,0
+ABC FC,Tombense,9,0
+AC Ajaccio,FC Lorient,13,1450000
+AC Ajaccio B,AC Ajaccio,37,0
+AC Arles B,AC Arles-Avignon,9,0
+AC Bellinzona,FC Chiasso,17,0
+AC Bellinzona,FC Locarno,14,0
+AC Bellinzona,FC Lugano,18,0
+AC Bellinzona,FC Paradiso,10,0
+AC Bellinzona,FC Sion,13,690000
+AC Carpenedolo,Parma,9,0
+AC Cesena Youth,Bologna Youth,12,0
+AC Horsens,FC Midtjylland,15,600000
+AC Milan,AS Roma,12,23000000
+AC Milan,Atalanta BC,15,34500000
+AC Milan,Bologna,10,6400000
+AC Milan,Chelsea,10,43880000
+AC Milan,Como,10,0
+AC Milan,FC Empoli,13,7750000
+AC Milan,Fiorentina,12,1300000
+AC Milan,Genoa,27,36050000
+AC Milan,Juventus,9,65800000
+AC Milan,Lecce,12,0
+AC Milan,Parma,9,3000000
+AC Milan,Sampdoria,13,9300000
+AC Milan,Torino,11,16150000
+AC Pisa,AS Roma,10,0
+AC Siena,Chievo Verona,9,3000000
+AC Siena,Genoa,14,13280000
+AC Siena,Hellas Verona,12,275000
+AC Siena,Juventus,17,8150000
+AC Siena,Torino,13,3900000
+AC Venezia 1907,Chievo Verona,10,0
+AD Alcorcón,CF Fuenlabrada,11,0
+AD Alcorcón B,AD Alcorcón,16,0
+AD Bahia-BA,EC Vitória,9,0
+ADO Den Haag,FC Dordrecht,13,0
+ADO Den Haag,Feyenoord,10,2300000
+ADO Den Haag,Sparta R.,10,0
+AE Larisa,AO Trikala,10,0
+AEK Athens,AEK Athens B,12,0
+AFC Tubize,R Charleroi SC,10,0
+AFC Wimbledon,Hampton & Rich.,10,0
+AFC Wimbledon,Newport County,10,0
+AFC Wimbledon,Woking,9,0
+AFC Youth,AZ Alkmaar Yth.,26,0
+AFC Youth,Ajax Youth ,16,0
+AIK,GIF Sundsvall,18,125000
+AJ Auxerre,Dijon,9,0
+AJ Auxerre,LB Châteauroux,11,0
+AJ Auxerre B,AJ Auxerre,86,0
+AO Chaidariou,AO Egaleo,9,0
+AO Egaleo,AO Chaidariou,9,0
+APO Levadiakos,Olympiacos,13,1000000
+APO Levadiakos,Panathinaikos,11,4500000
+AS Gubbio,Bari,9,60000
+AS Gubbio,Fiorentina,9,0
+AS Gubbio,Parma,26,0
+AS Livorno,AS Roma,10,0
+AS Livorno,Alessandria,9,0
+AS Livorno,Inter,11,1500000
+AS Moulins,AS Yzeure,13,0
+AS Nancy B,AS Nancy,69,0
+AS Rom Youth,Lazio Youth,12,0
+AS Roma,AC Milan,11,24150000
+AS Roma,AC Pisa,10,0
+AS Roma,AS Livorno,11,2975000
+AS Roma,Atalanta BC,10,7500000
+AS Roma,Bari,18,1850000
+AS Roma,Brescia,11,2450000
+AS Roma,Cagliari,12,1400000
+AS Roma,Genoa,16,8700000
+AS Roma,Hellas Verona,12,12100000
+AS Roma,Inter,18,108100000
+AS Roma,Lecce,10,670000
+AS Roma,Parma,9,1100000
+AS Roma,Perugia,9,10310000
+AS Roma,Pescara,19,7450000
+AS Roma,Sampdoria,12,1500000
+AS Roma,Sassuolo,20,58200000
+AS Roma,Torino,13,15000000
+AS Trencin,FC ViOn,10,10000
+ASEC Mimosas,KSK Beveren,9,0
+ASPIRE FD,KAS Eupen,11,0
+AZ Alkmaar,Ajax,9,40200000
+AZ Alkmaar,Feyenoord,10,11550000
+AZ Alkmaar,RKC Waalwijk,9,0
+AZ Alkmaar,Sparta R.,12,0
+AaFK Youth,Aalesund,13,0
+Aalborg BK,Silkeborg IF,9,500000
+Aarhus GF,AC Horsens,11,700000
+Aarhus GF,Silkeborg IF,12,0
+Aberdeen FC,Dundee FC,10,0
+Aberdeen FC,Dunfermline A.,11,0
+Aberdeen FC,Forfar Athletic,11,0
+Aberdeen FC,Inverness CT,11,0
+Aberdeen FC,Livingston FC,9,250000
+Aberdeen FC,Peterhead,9,0
+Aberdeen FC,St. Johnstone,13,0
+Aberdeen FC,St. Mirren,14,600000
+Aberdeen FC B,Aberdeen FC,12,0
+Académicos,Atlas,17,0
+Accrington,Clitheroe,12,0
+Accrington,Southport,9,0
+Adana Demir Yth,Adana Demirspor,12,0
+Adana Demirspor,Eyüpspor,12,0
+Adana Demirspor,Kayserispor,9,0
+Adana Demirspor,Sanliurfaspor ,13,0
+Adanaspor,Istanbulspor,9,0
+Adanaspor,Karsiyaka,9,0
+Adanaspor,Samsunspor,12,0
+Admira Wacker,Austria Vienna,10,650000
+Admira Wacker,Rapid Vienna,13,2060000
+Afragolese,Angri,10,0
+Ajax,FC Groningen,10,3050000
+Ajax,NAC Breda,12,0
+Ajax,Sparta R.,9,0
+Ajax,Twente FC,13,3905000
+Ajax,Vitesse,12,1600000
+Ajax Youth ,AFC Youth,13,0
+Ajax Youth ,Haarlem Youth,12,0
+Akad Chertanovo,Chertanovo,14,0
+Akron Konoplev,Akad. Togliatti,11,0
+Akron Konoplev,Lada-SOK Dimitr.,12,0
+Al-Ahli SC,Al-Duhail SC,15,0
+Al-Arabi SC,Al-Khor SC,10,330000
+Al-Arabi SC,Al-Sadd,10,0
+Al-Arabi SC,Al-Sailiya SC,10,0
+Al-Arabi SC Aca,Al-Arabi SC,15,0
+Al-Duhail SC,Al-Ahli SC,18,0
+Al-Duhail SC,Al-Arabi SC,9,0
+Al-Duhail SC,Al-Khor SC,10,0
+Al-Duhail SC,Al-Sailiya SC,12,0
+Al-Duhail SC,Al-Wakrah SC,17,0
+Al-Gharafa,Al-Khor SC,9,0
+Al-Gharafa,Muaither SC,9,0
+Al-Kharaitiyat,Al-Sadd,9,0
+Al-Khor SC,Al-Rayyan,11,0
+Al-Markhiya SC,Al-Khor SC,9,0
+Al-Rayyan,Al-Gharafa,11,0
+Al-Rayyan,Al-Sadd,13,0
+Al-Rayyan,Al-Sailiya SC,15,0
+Al-Rayyan,Al-Shahania SC,11,0
+Al-Rayyan,Qatar SC,12,0
+Al-Rayyan SC Res,Al-Rayyan,12,0
+Al-Sadd,Al-Ahli SC,9,0
+Al-Sadd,Al-Arabi SC,16,0
+Al-Sadd,Al-Kharaitiyat,13,0
+Al-Sadd,Al-Rayyan,17,0
+Al-Sadd Reserve,Al-Sadd,19,0
+Al-Sailiya SC,Al-Arabi SC,9,0
+Al-Sailiya SC,Al-Kharaitiyat,9,0
+Al-Sailiya SC,Al-Rayyan,11,0
+Al-Shahania SC,Al-Rayyan,9,0
+Al-Wakrah SC,Al-Duhail SC,14,0
+Alania,Alania-D Vladik.,11,0
+Alavés,Espanyol,11,0
+Alavés,Real Betis,9,2500000
+Alavés,Real Sociedad,9,6500000
+Alavés B,Alavés,22,0
+Alavés B,NK Istra,10,0
+Albacete,Atlético Madrid,9,4500000
+Albacete,Córdoba CF,11,400000
+Albacete,Hércules CF,10,0
+Albirex Niigata,Kashiwa Reysol,11,0
+Albirex Niigata,Shonan Bellmare,9,0
+Alessandria,Atalanta BC,11,0
+Alessandria,Pro Vercelli,10,0
+Algeciras B,Algeciras CF,13,0
+Almagro,San Lorenzo,9,1000000
+Almere City FC ,Ajax Youth ,14,0
+Almirante Brown,Dep. Riestra,19,0
+Altay SK,Besiktas,9,1000000
+Altay SK,Samsunspor,11,0
+Altay SK Yth,Altay SK,13,0
+Altinordu,Efeler 09 SFK,9,0
+Altinordu,Nigde Anadolu,45,0
+Alverca,Benfica,16,5000000
+Alverca,Santa Clara,13,200000
+Amateure OÖ,LASK,9,0
+Amica Wronki,Lech Poznan,16,25000
+Amiens SC B,Amiens SC,53,0
+América,Atlante,10,0
+América,Club Tijuana,13,1750000
+América,León,12,3500000
+América,Monterrey,14,0
+América,Necaxa,33,0
+América,Puebla FC,21,0
+América,Querétaro FC,9,0
+América,San Luis,18,0
+América,Santos Laguna,17,6550000
+América,Tiburones Rojos,12,0
+América Coapa,América,10,0
+América Coapa,CSD Zacatepec,9,0
+América Coapa,San Luis,11,0
+América-MG,Atlético-MG,17,3170000
+América-MG,Cruzeiro,26,160000
+América-MG,Fluminense,10,2380000
+América-MG,Goiás,10,0
+América-MG,Mirassol-SP,9,0
+América-MG,Tombense,27,0
+América-RN,Ceará SC,12,0
+América-RN,Globo,9,0
+América-RN,Tombense,11,140000
+Ancona,Ascoli,9,0
+Ancona,Napoli,10,950000
+Ancona,Taranto,10,0
+Anderlecht Yth.,KRC Genk Youth,11,0
+Andria,Taranto,10,0
+Angers SCO B,Angers SCO,51,0
+Ankara Demir,Ankaragücü,16,0
+Ankara Demir,Kardemir Karabük,13,0
+Ankaragücü,Altay SK,12,0
+Ankaragücü,Ankara Demir,16,0
+Ankaragücü,Ankaraspor,17,0
+Ankaragücü,Antalyaspor,9,0
+Ankaragücü,Denizlispor,10,150000
+Ankaragücü,Diyarbakirspor,10,0
+Ankaragücü,Eskisehirspor,10,0
+Ankaragücü,Genclerbirligi,10,0
+Ankaragücü,Göztepe,9,35000
+Ankaragücü,Kardemir Karabük,14,700000
+Ankaragücü,Kayserispor,9,0
+Ankaragücü,Sivasspor,13,950000
+Ankaragücü,Trabzonspor,9,3550000
+Ankaragücü,Türk Telekom,9,0
+Ankaraspor,Ankaragücü,31,0
+Ankaraspor,Keciörengücü,9,0
+Antalyaspor,Alanyaspor,13,0
+Antalyaspor,Bodrum FK,21,675000
+Antalyaspor,Elazigspor ,10,0
+Antalyaspor,Genclerbirligi,11,0
+Antalyaspor,Konyaspor,10,486000
+Anzhi,Career break,14,0
+Anzhi,Dinamo Moscow,13,86000000
+Anzhi,KS Samara,13,400000
+Anápolis,Anápolis,11,0
+Anápolis,Vila Nova FC,9,0
+Anápolis,XV Piracicaba,9,0
+Aparecidense,Goiás,24,0
+Aparecidense,Goiás B,10,0
+Aparecidense,Vila Nova FC,10,0
+Arenas Club,Bilbao Athletic,9,0
+Arenas Club,Gernika,11,0
+Argentinos Jrs.,Godoy Cruz,11,0
+Argentinos Jrs.,Independiente,13,8250000
+Argentinos Jrs.,River Plate,15,6480000
+Argentinos Jrs.,San Lorenzo,12,2120000
+Aris Saloniki,Olympiacos,9,7800000
+Arka Gdynia,KKS Kalisz,10,0
+Arka Gdynia,Legia Warszawa,9,0
+Arka Gdynia,Pogon Szczecin,9,50000
+Arm. Bielefeld,1860 Munich,9,2250000
+Arm. Bielefeld,E. Braunschweig,10,555000
+Arm. Bielefeld,VfL Osnabrück,9,75000
+Arouca,Boavista,12,0
+Arsenal,Barcelona,11,142300000
+Arsenal,Birmingham,12,9650000
+Arsenal,Crystal Palace,10,32850000
+Arsenal,Forest,9,15865000
+Arsenal,Fulham,10,36900000
+Arsenal,Watford,9,625000
+Arsenal,West Ham,13,13900000
+Arsenal Kharkiv,FK Kharkiv,9,0
+Arsenal Kyiv,Dnipro,17,0
+Arsenal Kyiv,Dynamo Kyiv,12,1780000
+Arsenal Sarandí,Defensa,10,0
+Arsenal Sarandí,Independiente,10,3610000
+Arsenal Sarandí,Lanús,15,2095000
+Arsenal-2 Tula,Arsenal Tula,10,0
+Ascoli,AJ Fano,9,0
+Ascoli,Atalanta BC,12,300000
+Ascoli,Bari,10,0
+Ascoli,Catania,9,3200500
+Ascoli,Cremonese,9,2000000
+Ascoli,Juventus,12,13500000
+Ascoli,Modena,10,2500000
+Ascoli,Padova,11,1350000
+Ascoli,Parma,17,0
+Ascoli,Salernitana,9,200000
+Ascoli,Sampdoria,9,1960000
+Ascoli,Sassuolo,9,1412000
+Ascoli,Torino,13,3860000
+Asteras Tripoli,Panarkadikos,11,0
+Aston Villa,Forest,13,4500000
+Aston Villa,Middlesbrough,12,44200000
+Aston Villa,Newcastle,9,70900000
+Aston Villa,Preston,10,65000
+Aston Villa,Stoke City,13,0
+Aston Villa Res.,Aston Villa,11,0
+Atalanta BC,AC Milan,13,61500000
+Atalanta BC,AS Roma,12,81200000
+Atalanta BC,Alessandria,11,0
+Atalanta BC,Ascoli,16,775000
+Atalanta BC,Avellino,9,0
+Atalanta BC,Bari,10,500000
+Atalanta BC,Bologna,19,28740000
+Atalanta BC,Cagliari,14,32200000
+Atalanta BC,Carpi,9,0
+Atalanta BC,Carrarese,10,0
+Atalanta BC,Cesena,25,6350000
+Atalanta BC,Cremonese,12,3000000
+Atalanta BC,Frosinone,9,0
+Atalanta BC,Genoa,18,24000100
+Atalanta BC,Hellas Verona,13,1300000
+Atalanta BC,Inter,10,88300000
+Atalanta BC,Juve Stabia ,10,0
+Atalanta BC,Juventus,19,155270000
+Atalanta BC,Lecco,9,0
+Atalanta BC,Padova,13,150000
+Atalanta BC,Parma,11,12650000
+Atalanta BC,Perugia,9,0
+Atalanta BC,Pescara,12,1500000
+Atalanta BC,Pistoiese,9,0
+Atalanta BC,Pro Vercelli,9,0
+Atalanta BC,Reggina,10,100000
+Atalanta BC,SPAL,22,26800000
+Atalanta BC,Sampdoria,10,9460000
+Atalanta BC,Spezia Calcio,17,7500000
+Atalanta BC,Ternana,12,0
+Atalanta BC,Torino,11,20050000
+Atalanta BC,Vicenza,9,900000
+Athletic,CD Leganés,13,0
+Athletic,CD Mirandés,15,0
+Athletic,CD Numancia,16,0
+Athletic,SD Eibar,13,0
+Athletico-PR,Cruzeiro,11,4000000
+Atl Castegnato,Ospitaletto,9,0
+Atl. Albacete,Albacete,23,0
+Atl. Levante,Levante,22,0
+Atl. Madrid C,Atl. Madrileño,40,0
+Atl. Madrileño,Atlético Madrid,48,0
+Atl. Madrileño,Córdoba CF,9,600000
+Atl. Rafaela,Racing Club,9,1090000
+Atl. Rafaela,Sp. Belgrano,10,0
+Atlanta,Almirante Brown,10,0
+Atlanta,Lanús,11,0
+Atlante,América,13,6500000
+Atlante,Jaguares,10,0
+Atlante,León,12,0
+Atlante,Monarcas Morelia,9,3000000
+Atlante,Monterrey,10,0
+Atlante,Puebla FC,15,0
+Atlante,Querétaro FC,16,0
+Atlante,San Luis,9,300000
+Atlas,CD Cruz Azul,13,9780000
+Atlas,Club Tijuana,10,0
+Atlas,Correcaminos,9,0
+Atlas,Jaguares,11,0
+Atlas,Leones Negros,9,0
+Atlas,León,13,0
+Atlas,Monarcas Morelia,17,0
+Atlas,Monterrey,9,5500000
+Atlas,Necaxa,15,3500000
+Atlas,Pachuca,11,200000
+Atlas,Puebla FC,17,0
+Atlas,Santos Laguna,28,2800000
+Atlas,Tiburones Rojos,9,1300000
+Atlas,Toluca,13,0
+Atlético Madrid,Dep. La Coruña,12,15000000
+Atlético Madrid,Getafe,13,3000000
+Atlético Madrid,RCD Mallorca,9,800000
+Atlético Madrid,Rayo Vallecano,11,5000000
+Atlético Madrid,Real Zaragoza,15,6400000
+Atlético Madrid,Valencia,9,26825000
+Atlético-GO,Atlético-MG,10,0
+Atlético-GO,Atlético-PR,14,435000
+Atlético-GO,Botafogo,11,640000
+Atlético-GO,CRB,10,0
+Atlético-GO,Ceará SC,9,200000
+Atlético-GO,Cruzeiro,9,875000
+Atlético-GO,Fluminense,11,0
+Atlético-GO,Fortaleza,11,650000
+Atlético-GO,Internacional,15,900000
+Atlético-GO,Mirassol-SP,13,0
+Atlético-GO,Tombense,11,0
+Atlético-MG,América-MG,16,0
+Atlético-MG,Atlético-GO,12,0
+Atlético-MG,Atlético-PR,15,0
+Atlético-MG,Avaí FC,9,0
+Atlético-MG,Botafogo,11,0
+Atlético-MG,CRB,12,0
+Atlético-MG,Ceará SC,9,1800000
+Atlético-MG,Corinthians,16,4240000
+Atlético-MG,Coritiba FC,17,0
+Atlético-MG,EC Bahia,16,2300000
+Atlético-MG,EC Vitória,14,0
+Atlético-MG,Figueirense FC,10,0
+Atlético-MG,Fluminense,9,3870000
+Atlético-MG,Fortaleza,15,2770000
+Atlético-MG,Goiás,11,0
+Atlético-MG,Grêmio,9,4200000
+Atlético-MG,Juventude,10,0
+Atlético-MG,Palmeiras,15,20000000
+Atlético-MG,Ponte Preta,13,0
+Atlético-MG,Santos,12,940000
+Atlético-MG,Sport Recife,22,0
+Atlético-MG,São Paulo,11,8700000
+Atlético-MG,Tombense,11,0
+Atlético-MG,Vasco da Gama,18,5550000
+Atlético-MG B,Atlético-MG,51,0
+Atlético-MG B,Coimbra,10,0
+Atlético-PR,ABC FC,10,0
+Atlético-PR,Atlético-GO,12,0
+Atlético-PR,Atlético-MG,12,0
+Atlético-PR,Ceará SC,10,0
+Atlético-PR,EC Bahia,10,0
+Atlético-PR,EC Vitória,12,0
+Atlético-PR,Ferroviária,17,0
+Atlético-PR,Figueirense FC,10,0
+Atlético-PR,Flamengo,11,350000
+Atlético-PR,Fortaleza,11,0
+Atlético-PR,Goiás,10,0
+Atlético-PR,Internacional,12,0
+Atlético-PR,Joinville-SC,10,0
+Atlético-PR,Náutico,15,0
+Atlético-PR,Palmeiras,11,720000
+Atlético-PR,Paraná,9,0
+Atlético-PR,Ponte Preta,13,0
+Atlético-PR,Sport Recife,12,0
+Atlético-PR,São Paulo,15,3200000
+Atlético-PR B,Atlético-PR,39,0
+Atromitos,Ionikos Nikeas,10,0
+Atromitos,Olympiacos,13,1100000
+Auda,Riga,9,0
+Audax-RJ,GO Audax,19,0
+Augsburg Yth.,B. München Yth.,11,0
+Austria Vienna,A. Vienna Res.,11,0
+Austria Vienna,Admira Wacker,11,0
+Austria Vienna,SV Stripfing,9,0
+Austria Vienna,Sturm Graz,9,2000000
+Avaí B,Avaí FC,20,0
+Avaí FC,Atlético-GO,9,0
+Avaí FC,Coritiba FC,15,0
+Avaí FC,Cruzeiro,11,0
+Avaí FC,Paraná,12,0
+Avaí FC,Ponte Preta,9,185000
+Avaí FC,Santos,10,0
+Avaí FC,Tombense,42,0
+Avellino,Atalanta BC,10,0
+Avellino,Cavese,13,0
+Avellino,Salernitana,14,0
+Avispa Fukuoka,Kashiwa Reysol,9,0
+Avtodor Vl.,Spartak V-kavkaz,9,0
+Aydinspor,Altay SK,9,0
+B. Leverkusen,1.FC Nuremberg,10,550000
+B. Leverkusen,E. Frankfurt,14,17500000
+B. Leverkusen,F. Düsseldorf,10,750000
+B. Leverkusen,FC Augsburg,9,3900000
+B. Petrol Yth,Batman Petrol,23,0
+BB Ankaraspor,Keciörengücü,11,0
+BC Branco,Santa Clara,10,0
+BFC Siófok,Bicskei TC,9,0
+BFC Siófok,ETO FC Győr ,10,0
+BFC Siófok,Honvéd,16,0
+BFC Siófok,MTK Budapest,15,0
+BFC Siófok,Paksi FC,20,0
+BFC Siófok,Vasas FC,12,0
+BFC Siófok,Videoton FC,10,0
+BK Olympic,Malmö FF,11,0
+BSC Young Boys,FC Aarau,15,150000
+BSC Young Boys,FC Biel-Bienne,11,0
+BSC Young Boys,FC Luzern,12,500000
+BSC Young Boys,FC Thun,18,0
+BSC Young Boys,FC Vaduz,11,300000
+BSC Young Boys,FC Winterthur,12,100000
+BSC Young Boys,Grasshoppers,10,1850000
+BSC Young Boys,Lausanne-Sport,11,0
+BSC Young Boys,Neuchâtel Xamax,12,0
+BSC Young Boys,Servette FC,11,0
+Bahia B,EC Bahia,36,0
+Balikesir Yth,Balikesirspor,12,0
+Baltika,Rostov,10,85000
+Bandirmaspor,Sariyer,10,0
+Banfield,Boca Juniors,10,14850000
+Banfield,Independiente,10,4880000
+Banfield,River Plate,12,5590000
+Bangu-RJ,Bonsucesso-RJ,9,0
+Bangu-RJ,Vasco da Gama,9,0
+Banik Ostrava,Fotbal Trinec,12,0
+Banik Ostrava,Frydek-Mistek,9,0
+Banik Ostrava,Karvina,18,0
+Banik Ostrava,Mlada Boleslav,9,0
+Banik Ostrava,Slavia Prague,18,3860000
+Banik Ostrava,Viktoria Plzen,12,1050000
+Banik Ostrava,Vitkovice,11,0
+Banik Ostrava B,Banik Ostrava,29,0
+Banik Ostrava B,Frydek-Mistek,21,0
+Banik Ostrava B,Hlucin,18,0
+Banik Ostrava B,Vitkovice,18,0
+Banik Sokolov,Viktoria Plzen,12,0
+Banska Bystrica,Dunajska Streda,11,0
+Banska Bystrica,MSK Zilina,9,0
+Banska Bystrica,Podbrezova,12,0
+Barakaldo CF ,Bilbao Athletic,16,0
+Barakaldo CF ,SD Amorebieta,11,0
+Barakaldo CF ,SD Eibar,11,0
+Barcelona,Atlético Madrid,10,38100000
+Barcelona,Real Betis,14,29200000
+Barcelona,Sevilla FC,10,17750000
+Barcelona B,Barcelona,60,0
+Barcelona B,CE Sabadell ,9,0
+Barcelona C,Barcelona B,79,0
+Bardejov,Tatran Presov,13,0
+Bari,AS Roma,15,1000000
+Bari,Andria,12,0
+Bari,Ascoli,12,0
+Bari,Atalanta BC,11,7000000
+Bari,Benevento,11,0
+Bari,Chievo Verona,15,1680000
+Bari,Foggia,10,250000
+Bari,Genoa,15,1790000
+Bari,Hellas Verona,12,800000
+Bari,Juventus,13,33250000
+Bari,Lazio,9,250000
+Bari,Napoli,20,5200000
+Bari,Parma,10,1000000
+Bari,Pescara,9,0
+Bari,Salernitana,12,185500
+Bari,Sampdoria,9,900000
+Bari,Torino,12,4800000
+Bari,Vicenza,10,0
+Barletta,Manfredonia,9,0
+Barnsley,Bradford,12,0
+Barnsley,Derby,9,1130000
+Barnsley,Grimsby Town,12,0
+Barnsley,Hull City,9,795000
+Barnsley,Luton,11,5500000
+Barnsley,Rochdale,9,0
+Barnsley,Stoke City,12,4450000
+Barranquilla FC,Junior FC,9,0
+Barrow,Southport,10,0
+Barueri,Palmeiras,10,130000
+Barça Atlètic,Barcelona,17,0
+Bassano,LR Vicenza,11,0
+Bath City,Bristol Rovers,10,0
+Bath City,Exeter City,10,0
+Bayern Munich,1.FC Nuremberg,10,600000
+Bayonne,Genêts Anglet,15,0
+Belenenses,B SAD,13,0
+Belenenses,Benfica,10,1700000
+Belenenses Yth,Belenenses S15,36,0
+Belfort B,ASM Belfort,9,0
+Belgrano,Boca Juniors,10,0
+Bellaria IM,Cesena,27,500
+Benevento,ASG Nocerina,10,0
+Benevento,Casertana,9,0
+Benevento,Catanzaro,10,600000
+Benevento,Pescara,12,4000000
+Benevento Yth.,Salernitana You,10,0
+Benfica,Alverca,10,0
+Benfica,Atlético Madrid,9,194200000
+Benfica,Beira-Mar,9,0
+Benfica,Benfica B,14,0
+Benfica,Besiktas,10,44000000
+Benfica,Dep. La Coruña,11,6500000
+Benfica,Desportivo Aves,9,0
+Benfica,Gil Vicente,12,0
+Benfica,Granada CF,10,4000000
+Benfica,Paris SG,10,154920000
+Benfica,Paços Ferreira,10,0
+Benfica,SC Braga,15,4400000
+Benfica,Valencia,11,116000000
+Benfica,Vit. Guimarães,13,3250000
+Benfica,Vitória Setúbal,10,0
+Benfica B,Belenenses,9,1000000
+Benfica B,Benfica,48,0
+Benfica B,Desportivo Aves,10,0
+Benfica B,Rio Ave,9,0
+Besançon B,Racing Besançon,9,0
+Besiktas,Antalyaspor,9,0
+Besiktas,Bursaspor,13,1200000
+Besiktas,C. Rizespor,17,575000
+Besiktas,Diyarbakirspor,10,0
+Besiktas,Eskisehirspor,9,2100000
+Besiktas,Gaziantepspor,11,100000
+Besiktas,Göztepe,11,295000
+Besiktas,Kocaelispor,12,0
+Besiktas,Trabzonspor,10,3570000
+Bethlehem Steel,Philadelphia,40,0
+Betis B,Real Betis,26,0
+Betis C,Betis B,9,0
+Betis Deportivo,Real Betis,23,0
+Bilbao Athletic,Arenas Club,9,0
+Bilbao Athletic,Athletic,71,0
+Bilbao Athletic,Barakaldo CF ,24,0
+Bilbao Athletic,SD Amorebieta,16,0
+Bilbao Athletic,Sestao River ,16,0
+Bilbao B,Athletic,22,0
+Bilbao Youth,Danok Bat Yth.,12,0
+Birmingham,Blackpool,11,720000
+Birmingham,Walsall,10,0
+Birmingham,West Brom,12,12650000
+Blackburn,Birmingham,11,10875000
+Blackburn,Blackpool,10,0
+Blackburn,Derby,11,4835000
+Blackburn,Ipswich,9,15100000
+Blackburn,Leeds,11,4500000
+Blackburn,Leicester,11,5150000
+Blackburn,Rochdale,11,0
+Blackburn,Stockport,9,0
+Blackpool,Birmingham,9,0
+Blackpool,Blackburn,10,600000
+Blackpool,Bradford,9,1
+Blackpool,Bury,16,0
+Blackpool,Fleetwood,12,0
+Blackpool,Middlesbrough,9,0
+Blackpool,Morecambe FC,9,40000
+Blackpool,Oldham Athletic,10,0
+Blackpool,Plymouth,10,700000
+Blackpool,Port Vale,9,180000
+Blackpool,Rochdale,15,0
+Blackpool,Tranmere,11,348000
+Blyth Spartans,Gateshead,9,0
+Boa Esporte,Operário VG,9,0
+Boa Esporte,São Bernardo,10,0
+Boavista,Beira-Mar,9,0
+Boavista,Benfica,11,12700000
+Boavista,Desportivo Aves,17,0
+Boavista,Duque de Caxias,16,0
+Boavista,FC Porto,10,2500000
+Boavista,Feirense,9,150000
+Boavista,Flamengo,10,0
+Boavista,Gondomar,17,0
+Boavista,Leixões,10,0
+Boavista,Vasco da Gama,10,0
+Boavista CJ,Pasteleira S15,11,0
+Boavista Y19,Boavista,60,0
+Boca Juniors,Banfield,10,2320000
+Boca Juniors,Belgrano,9,0
+Boca Juniors,CA Talleres,15,3270000
+Boca Juniors,Chacarita Jrs.,12,1130000
+Boca Juniors,Colon,10,1500000
+Boca Juniors,Estudiantes LP,12,20750000
+Boca Juniors,Huracán,9,442000
+Boca Juniors,Lanús,11,2550000
+Boca Juniors,Racing Club,15,2270000
+Boca Juniors,Rosario Central,13,1717000
+Boca Juniors,Tigre,16,8930000
+Bodrum FK,Antalyaspor,9,0
+Bodø/Glimt,Rosenborg,18,2250000
+Bodø/Glimt Yth.,Bodø/Glimt,24,0
+Bohemians 1905,Dukla Prague,10,0
+Bohemians 1905,Mlada Boleslav,10,0
+Bohemians 1905,Slavia Prague,14,0
+Bohemians 1905,Sparta Prague,14,905000
+Bohemians 1905,Sparta Prague B,9,0
+Bohemians 1905,Viktoria Plzen,9,1360000
+Bohemians Praha,Semice,10,0
+Bohs Academy,Bohemians,18,0
+Boin MS,Boin HS,10,0
+Bologna,Ascoli,12,0
+Bologna,Atalanta BC,13,900000
+Bologna,Brescia,10,800000
+Bologna,Cesena,11,3250000
+Bologna,Genoa,10,8000000
+Bologna,Hellas Verona,16,1400000
+Bologna,Inter,17,32650000
+Bologna,Juventus,19,13950000
+Bologna,Lecce,11,1800000
+Bologna,Montreal,9,0
+Bologna,Napoli,11,79000000
+Bologna,Torino,10,4730000
+Bolton,Cardiff,11,6800000
+Bolton,Hull City,11,145000
+Bolton,Oldham Athletic,9,0
+Boluspor,Göztepe,9,160000
+Boluspor,Sanliurfaspor ,13,10000
+Boreham Wood,Dag & Red FC,9,0
+Botafogo,Atlético-GO,10,0
+Botafogo,Atlético-MG,9,10600000
+Botafogo,Boavista,9,0
+Botafogo,Corinthians,13,1350000
+Botafogo,Cruzeiro,16,1250000
+Botafogo,EC Bahia,11,2000000
+Botafogo,Figueirense FC,11,0
+Botafogo,Fluminense,9,0
+Botafogo,Grêmio,10,0
+Botafogo,Internacional,13,0
+Botafogo,RWDM,16,0
+Botafogo,São Paulo,14,0
+Botafogo,Tombense,10,0
+Botafogo-SP,CRB,11,0
+Botafogo-SP,Chapecoense,12,0
+Botafogo-SP,Corinthians,9,0
+Botafogo-SP,Coritiba FC,19,0
+Botafogo-SP,Guarani,10,0
+Botafogo-SP,Santos,9,0
+Botafogo-SP,São Caetano,9,0
+Bournemouth,Dorchester,9,0
+Bournemouth,Portsmouth,15,1615000
+Bournemouth,Southampton,17,40000
+Bournemouth,Weymouth FC,9,15000
+Bradford,Huddersfield,11,1800000
+Bradford,Middlesbrough,10,4070000
+Bradford,Notts County,9,0
+Braga B,Moreirense ,13,1000000
+Braga B,SC Braga,46,0
+Bragantino,Capivariano,12,0
+Bragantino,Corinthians,23,550000
+Bragantino,Palmeiras,9,0
+Bragantino B,Red Bull,9,0
+Brasil Pelotas,Santo André,9,0
+Brasiliense-DF,Ceilândia,12,0
+Brasiliense-DF,Samambaia,30,0
+Brentford,AFC Wimbledon,12,0
+Brentford,Crawley Town,10,0
+Brentford,Gillingham,9,225000
+Brentford,Ipswich,9,0
+Brentford,Millwall,10,0
+Brentford,Reading,12,0
+Brentford,Wycombe,13,0
+Brentford B,Brentford,17,0
+Brescia,AS Roma,10,3150000
+Brescia,Bari,9,500000
+Brescia,Chievo Verona,10,2000000
+Brescia,Genoa,17,4000000
+Brescia,Hellas Verona,13,500000
+Brescia,Inter,9,9000000
+Brescia,Lumezzane,9,0
+Brescia,Pescara,9,4000000
+Brescia,Sampdoria,16,14000000
+Brescia,Sassuolo,9,0
+Brescia,Ternana,11,1600000
+Brest B,Stade Brestois,24,0
+Brighton,Charlton,9,0
+Brighton,Wigan,9,0
+Brindisi,Nardò,9,0
+Bristol City,Cardiff,9,15545000
+Bristol City,Cheltenham,17,0
+Bristol City,Forest Green,9,0
+Bristol City,Plymouth,10,0
+Bristol City,Wolves,10,57000
+Bristol City,Yeovil Town,15,0
+Bristol Rovers,Bath City,11,0
+Bristol Rovers,Cheltenham,10,0
+Bristol Rovers,Forest Green,11,0
+Bristol Rovers,Gloucester,11,0
+Bristol Rovers,Shrewsbury,15,0
+Bristol Rovers,Yeovil Town,11,0
+Brommapojkarna,Djurgården,14,1300000
+Brora Rangers,Inverness CT,10,0
+Bryne FK Yth.,Bryne,11,0
+Bröndby IF,Lyngby BK,9,0
+Bucaspor Yth,Altinordu Yth,11,0
+Bucaspor Yth,Bucaspor,20,0
+Bugsas Spor,Ankaraspor,9,0
+Bugsas Spor,Keciörengücü,13,0
+Bugsas Spor,Osmanlispor FK,13,0
+Burnley,Barnsley,9,1350000
+Bursaspor,Bursa Nilüfer ,9,0
+Bursaspor,Galatasaray,12,8500000
+Bursaspor,Genclerbirligi,10,0
+Bursaspor,Merinosspor,26,0
+Burton Albion,Derby,10,220000
+Burton Albion,Leicester,9,14000
+Burton Albion,Mansfield Town,11,0
+Bury,Blackpool,11,0
+Bury,Macclesfield,9,50000
+Bury,Morecambe FC,9,0
+Bury,Oldham Athletic,10,455000
+Bury,Plymouth,9,48000
+Bury,Rotherham,10,0
+C. Budejovice,Slavia Prague,15,1295000
+C. Budejovice,Sparta Prague B,10,0
+C. Budejovice,Viktoria Plzen,15,0
+C. Budejovice B,C. Budejovice,13,0
+C. Dardanel Yth,Dardanelspor,16,0
+C. Rizespor,Adana Demirspor,17,0
+C. Rizespor,Besiktas,16,4250000
+C. Rizespor,Boluspor,14,0
+C. Rizespor,Büyüksehir Bld,11,0
+C. Rizespor,Galatasaray,11,1150000
+C. Rizespor,Konyaspor,10,0
+C. Rizespor,Pazarspor ,14,0
+C. Rizespor,Samsunspor,10,0
+CA Fénix,Peñarol,10,645000
+CA Osasuna,Athletic,13,27350000
+CA Osasuna,Atlético Madrid,9,17430000
+CA Osasuna,CD Leganés,10,3200000
+CA Osasuna,CD Numancia,10,0
+CA Osasuna,SD Huesca,15,0
+CA Talleres,Argentinos Jrs.,9,1000000
+CA Talleres,Boca Juniors,16,5550000
+CA Talleres,Ferro,9,0
+CA Talleres,Godoy Cruz,9,600000
+CA Talleres,Lanús,9,0
+CA Talleres,Platense,11,728000
+CA Talleres,River Plate,9,21820000
+CC Yatai,Changchun Res.,27,0
+CCM Academy,Central Coast,14,0
+CD Basconia,Bilbao Athletic,147,0
+CD Basconia,Bilbao B,34,0
+CD Basconia,Gernika,11,0
+CD Castellón B,Castellón,13,0
+CD Cruz Azul,Chivas,13,11280000
+CD Cruz Azul,Club Tijuana,9,0
+CD Cruz Azul,Cruz Azul Hid.,9,0
+CD Cruz Azul,Jaguares,10,0
+CD Cruz Azul,Monarcas Morelia,12,0
+CD Cruz Azul,Necaxa,11,3900000
+CD Cruz Azul,Pachuca,12,2000000
+CD Cruz Azul,Puebla FC,14,1200000
+CD Cruz Azul,Toluca,12,0
+CD Leganés,AD Alcorcón,10,0
+CD Leganés,Athletic,9,0
+CD Leganés,CA Osasuna,10,0
+CD Leganés,FC Cartagena,9,0
+CD Leganés,Granada CF,9,250000
+CD Leganés,SD Huesca,11,1000000
+CD Leganés B,CD Leganés,22,0
+CD Lugo,Cádiz CF,10,1500000
+CD Mirandés,Alavés,9,0
+CD Mirandés,Athletic,11,0
+CD Mirandés,Real Sociedad,9,0
+CD Numancia,CA Osasuna,12,2750000
+CD Numancia B,CD Numancia,23,0
+CD Tapatío,Chivas,9,0
+CD Tenerife,Dep. La Coruña,9,14100000
+CD Tenerife B,CD Tenerife,35,0
+CE Sabadell B,CE Sabadell ,16,0
+CF Cracks,SH Shenhua Res.,11,0
+CF Damm Youth,Barça Youth,9,0
+CF Damm Youth,Espanyol Youth,9,0
+CF Estrela ,FC Porto,14,0
+CF Estrela ,SC Braga,9,500000
+CF Estrela ,Sporting CP,9,0
+CF La Nucia B,CF La Nucía,9,0
+CF Peralada,Girona,10,0
+CISC Academy,Charlotte Ind.,16,0
+CLB Academy,Columbus 2,16,0
+CRB,Atlético-GO,9,0
+CRB,Atlético-MG,11,0
+CRB,Corinthians-AL,9,0
+CRB,Cuiabá-MT,9,150000
+CRB,EC Vitória,10,0
+CRB,Guarani,12,0
+CRB,Ituano,10,0
+CRB,Mirassol-SP,9,0
+CRB,Santo André,9,0
+CRB,Tombense,16,0
+CS Sedan B,CS Sedan,26,0
+CSA,ASA,9,0
+CSA,Tombense,10,0
+CSD Zacatepec,Águilas,9,0
+Cabofriense,Cruzeiro,10,0
+Cagliari,AS Roma,13,40900000
+Cagliari,Atalanta BC,9,8700000
+Cagliari,Bologna,11,15300000
+Cagliari,Chievo Verona,10,800000
+Cagliari,Como,10,10500000
+Cagliari,FC Empoli,11,13300000
+Cagliari,Fiorentina,12,42000000
+Cagliari,Hellas Verona,9,11200000
+Cagliari,Inter,19,57490000
+Cagliari,Juventus,10,29500000
+Cagliari,Napoli,9,7750000
+Cagliari,Olbia,18,0
+Cagliari,SPAL,10,6300000
+Cagliari,Sampdoria,9,16250000
+Calahorra,SD Logroñés,11,0
+Calcio Monza,Milan,13,1670000
+Caldense,Osasco-SP,9,0
+Caldiero Junior,Caldiero,9,0
+Cannes,G. Bordeaux,9,7450000
+Cannes B,Cannes,27,0
+Caracas FC B,Caracas FC,14,0
+Cardiff,Bolton,12,0
+Cardiff,Newport County,9,0
+Cardiff,Sheff Wed,9,550000
+Cardiff,Wigan,10,0
+Career break,Des Moines,13,0
+Career break,Graesrödderne,12,0
+Career break,Medialiga,11,0
+Carolina Dynamo,Wake Forest,18,0
+Carolina Elite,Greenville,9,0
+Carouge Youth,Etoile Carouge,11,0
+Carpi,Atalanta BC,10,0
+Carpi,Chievo Verona,11,0
+Carpi,FC Empoli,9,1800000
+Carpi,Fermana,19,0
+Carpi,Napoli,10,0
+Carrarese,Atalanta BC,10,0
+Carrarese,Juventus,13,0
+Casa Pia,Sporting CP,9,0
+Casertana,Benevento,14,0
+Catania,Ascoli,12,2000550
+Catania,Catanzaro,14,0
+Catania,Chievo Verona,13,8940000
+Catania,Perugia,20,600000
+Catania,Salernitana,21,1850000
+Catania,Sambenedettese,19,0
+Catania,Triestina,11,100000
+Catanzaro,Catania,15,20000
+Catanzaro,Crotone,9,0
+Catanzaro,Reggiana,9,0
+Caudal Dep.,Real Avilés,9,0
+Cavese Youth,Cavese,11,0
+Caxias-RS,Criciúma EC,10,0
+Caxias-RS,Grêmio,13,0
+Caxias-RS,Internacional,11,0
+Ceará B,Ceará SC,12,0
+Ceará SC,América-RN,13,0
+Ceará SC,Atlético-PR,10,0
+Ceará SC,Avaí FC,12,0
+Ceará SC,Botafogo,12,1740000
+Ceará SC,CRB,10,0
+Ceará SC,Corinthians,10,0
+Ceará SC,Cruzeiro,19,2145000
+Ceará SC,EC Bahia,12,3700000
+Ceará SC,Fortaleza,10,350000
+Ceará SC,Goiás,9,0
+Ceará SC,Internacional,11,35000
+Ceará SC,Juventude,9,0
+Ceará SC,Mirassol-SP,11,0
+Ceará SC,Palmeiras,9,1300000
+Ceará SC,Santos,10,3850000
+Ceará SC,Sport Recife,11,1474000
+Ceilândia,Brasiliense-DF,11,0
+Celaya,Querétaro FC,25,0
+Celta Fortuna,Celta de Vigo,12,0
+Celta Vigo B,Celta de Vigo,35,0
+Celta de Vigo,Valencia,12,35500000
+Celtic,Aberdeen FC,9,0
+Celtic,Dundee FC,11,0
+Celtic,Hibernian FC,18,0
+Celtic,Motherwell FC,9,0
+Celtic,Ross County,9,0
+Celtic,Southampton,9,51270000
+Celtic,St. Johnstone,9,400000
+Celtic,St. Mirren,10,0
+Celtic B,Celtic,12,0
+Cercle Brugge,KMSK Deinze,10,0
+Cercle Brugge,Monaco,24,0
+Cercle Brugge,Monaco B,10,0
+Cerezo Osaka,Avispa Fukuoka,11,0
+Cerezo Osaka,Kawasaki Front.,9,0
+Cerezo Osaka,Monte. Yamagata,9,0
+Cerezo Osaka,Oita Trinita,13,0
+Cerezo Osaka,Sagan Tosu,14,0
+Cerezo Osaka,Tokushima Vort.,9,0
+Cerezo Osaka,Vissel Kobe,9,0
+Cesena,Atalanta BC,24,10450000
+Cesena,Bellaria IM,18,500
+Cesena,Bologna,10,8200000
+Cesena,Catania,9,0
+Cesena,Chievo Verona,13,1700000
+Cesena,Forlì,20,0
+Cesena,Genoa,19,11200000
+Cesena,Juventus,11,7250000
+Cesena,Parma,19,12100000
+Cesena,Pavia,14,350000
+Cesena,Ravenna,9,0
+Cesena,SPAL,9,0
+Cesena,Sampdoria,10,4100000
+Cesena,San Marino,13,0
+Cesena,Santarcangelo,11,0
+Cesena,Sassuolo,15,14040000
+Cesena,Torino,9,1000000
+Cesena,Vicenza,11,2900000
+Chalkidona,Atromitos,16,0
+Chamois Niort,Dijon,9,2000000
+Changchun Res.,CC Yatai,14,0
+Chapecoense,Avaí FC,9,0
+Chapecoense,Grêmio,10,0
+Charlotte Ind.,CISC Academy,16,0
+Charlotte Ind.,Colorado,11,0
+Charlton,AFC Wimbledon,10,0
+Charlton,Bromley,10,0
+Charlton,Gillingham,15,0
+Charlton,Leyton Orient,9,0
+Charlton,Portsmouth,11,1400000
+Charlton,QPR,10,4375000
+Chaves,Moreirense ,10,0
+Chaves,Pedras Salgadas,16,0
+Chaves,Penafiel,10,0
+Chelsea,AC Milan,16,118300000
+Chelsea,Arsenal,11,173700000
+Chelsea,Aston Villa,9,50800000
+Chelsea,Atlético Madrid,10,162000000
+Chelsea,Birmingham,9,10050000
+Chelsea,Bournemouth,10,63200000
+Chelsea,Crystal Palace,11,23340000
+Chelsea,Fulham,9,11150000
+Chelsea,Middlesbrough,11,15800000
+Chelsea,R. Strasbourg,10,23000000
+Chelsea,Reading,15,0
+Chelsea,Swansea,9,663000
+Chelsea,Vitesse,20,0
+Cheltenham,Bristol City,17,1215000
+Chertanovo,KS Samara,12,2650000
+Chesterfield,Notts County,10,0
+Chiapas FC,Monarcas Morelia,9,0
+Chiapas FC,Puebla FC,13,0
+Chiapas FC,Querétaro FC,14,0
+Chicago,Indy Eleven,9,0
+Chicago,Roughnecks FC,9,0
+Chicago,St. Louis FC,10,0
+Chievo Verona,Bari,15,252000
+Chievo Verona,Brescia,9,0
+Chievo Verona,Carpi,9,0
+Chievo Verona,Catania,11,150000
+Chievo Verona,Cesena,11,3500000
+Chievo Verona,Cremonese,15,0
+Chievo Verona,Genoa,20,20500000
+Chievo Verona,Hellas Verona,9,6700000
+Chievo Verona,Inter,15,6500000
+Chievo Verona,Lumezzane,17,40000
+Chievo Verona,Modena,23,2680000
+Chievo Verona,Padova,17,400000
+Chievo Verona,Pescara,12,100000
+Chievo Verona,Piacenza,9,2500000
+Chievo Verona,SPAL,10,1000000
+Chievo Verona,Salernitana,9,1200000
+Chievo Verona,Sampdoria,14,10880000
+Chievo Verona,Triestina,10,0
+Chievo Verona,Vicenza,11,1400000
+Chions,Portogruaro,9,0
+Chippenham,Swindon Town,12,0
+Chivas,CD Cruz Azul,10,23800000
+Chivas,León,13,2600000
+Chivas,Monterrey,13,14500000
+Chivas,Necaxa,14,1380000
+Chivas,Pachuca,15,0
+Chivas,Puebla FC,14,0
+Chivas,Querétaro FC,21,400000
+Chivas,San Luis,9,0
+Chivas,Santos Laguna,13,3830000
+Chivas,Tiburones Rojos,10,0
+Chivas,Toluca,11,4780000
+Chivas,Zacatepec,10,0
+Chlumec n/Cidl.,Hradec Kr. B,9,0
+Chornomorets,Dynamo Kyiv,21,300000
+Chornomorets,Karpaty Lviv,9,0
+Chornomorets,Shakhtar D.,17,0
+Chornomorets-2,Chornomorets,11,0
+Chrudim,Pardubice,9,0
+Châteauroux B,LB Châteauroux,52,0
+Cibalia,NK Vukovar 1991,9,0
+Cittadella,Atalanta BC,12,9450000
+Clachnacuddin,Inverness CT,10,0
+Clermont B,Clermont Foot,30,0
+Clermont Foot,A. Lustenau,13,0
+Cleveland Int.,Akron Zips,12,0
+Clitheroe,Accrington,9,0
+Clodiense,Adriese 1906,9,0
+Clodiense,Campodarsego,9,0
+Clodiense,Treviso,10,0
+Clodiense Youth,Clodiense,18,0
+Club Brugge,KV Kortrijk,12,0
+Club Brugge,KVC Westerlo,9,0
+Club Brugge,OH Leuven,11,1700000
+Club Brugge,Royal Antwerp,10,800000
+Club Brugge,Sint-Truiden,9,250000
+Club Brugge,Standard Liège,10,2460000
+Club Brugge,Zulte Waregem,11,0
+Club NXT,Club Brugge,21,0
+Club Tijuana,América,21,18880000
+Club Tijuana,Atlas,10,0
+Club Tijuana,Dorados Sinaloa,32,0
+Club Tijuana,Puebla FC,14,2000000
+Club Tijuana,Querétaro FC,20,0
+Club Tijuana,Toluca,12,3700000
+Coimbra,Benfica,9,4000000
+Coimbra,Corinthians,10,9550000
+Coimbra,FC Porto,19,400000
+Coimbra,GD Tourizense,11,0
+Coimbra,Leiria,9,0
+Coimbra,SC Covilhã,10,0
+Coimbra,Villa Nova,26,0
+Colon,River Plate,15,4400000
+Colorado,Charlotte Ind.,12,0
+Colorado,Phoenix Rising,9,0
+Colorado,Switchbacks FC,23,0
+Colorado 2,Colorado,13,0
+Columbus,Colorado,11,682000
+Como,Bari,9,0
+Como,Cremonese,10,0
+Como,Padova,10,0
+Como,Sampdoria,13,3900000
+Como Youth,Inter Youth,9,238000
+Concordia BS,FC Basel,11,0
+Corinthians,Atlético-MG,16,4500000
+Corinthians,Botafogo,10,0
+Corinthians,Botafogo-SP,9,0
+Corinthians,Bragantino,20,0
+Corinthians,Ceará SC,20,1400000
+Corinthians,Coritiba FC,9,650000
+Corinthians,Cruzeiro,13,650000
+Corinthians,EC Bahia,26,1310000
+Corinthians,EC Vitória,10,0
+Corinthians,Figueirense FC,10,300000
+Corinthians,Flamengo,11,0
+Corinthians,Fluminense,10,100000
+Corinthians,Goiás,10,0
+Corinthians,Grêmio,15,1600000
+Corinthians,Internacional,12,1690000
+Corinthians,Juventude,9,0
+Corinthians,Náutico,10,0
+Corinthians,Oeste,12,0
+Corinthians,Ponte Preta,20,0
+Corinthians,Portuguesa,11,0
+Corinthians,Santos,10,0
+Corinthians,Sport Recife,11,0
+Corinthians,São Caetano,15,0
+Corinthians,Vasco da Gama,13,3000000
+Corinthians B,Corinthians,60,0
+Corinthians B,Flamengo-SP,9,0
+Corinthians-PR,Coritiba FC,14,0
+Coritiba B,Coritiba FC,54,0
+Coritiba FC,Atlético-MG,17,2240000
+Coritiba FC,Avaí FC,15,0
+Coritiba FC,Botafogo-SP,17,0
+Coritiba FC,Corinthians-PR,10,0
+Coritiba FC,Cruzeiro,17,2700000
+Coritiba FC,EC Bahia,9,150000
+Coritiba FC,EC Vitória,18,160000
+Coritiba FC,Fluminense,9,0
+Coritiba FC,Fortaleza,11,960000
+Coritiba FC,Goiás,9,0
+Coritiba FC,Guarani,16,0
+Coritiba FC,Internacional,16,1585000
+Coritiba FC,Joinville-SC,12,0
+Coritiba FC,Londrina-PR,17,0
+Coritiba FC,Maringá,11,0
+Coritiba FC,Mirassol-SP,12,0
+Coritiba FC,Palmeiras,18,7445000
+Coritiba FC,Paraná,12,0
+Coritiba FC,Ponte Preta,12,0
+Coritiba FC,Santos,17,0
+Coritiba FC,São Paulo,9,100000
+Coritiba FC,Vasco da Gama,14,600000
+Cork Academy,Cork City,14,0
+Corum FK,Igdir FK,13,0
+Cosenza,Genoa,11,0
+Cosenza,Reggina,9,235000
+Coventry,Portsmouth,9,0
+Covilhã Y19,SC Covilhã,17,0
+Cremonese,Atalanta BC,11,0
+Cremonese,Chievo Verona,15,0
+Cremonese,Inter,11,500000
+Cremonese,Parma,11,250000
+Cremonese,Reggiana,9,300000
+Crewe Alexandra,Burton Albion,10,0
+Crewe Alexandra,Leek Town FC,10,0
+Crewe Alexandra,Nantwich Town,15,0
+Criciúma B,Criciúma EC,17,0
+Criciúma EC,ABC FC,9,0
+Criciúma EC,CRB,9,0
+Criciúma EC,Chapecoense,11,0
+Criciúma EC,Cruzeiro,17,400000
+Criciúma EC,Fluminense,11,1450000
+Criciúma EC,Goiás,9,80000
+Criciúma EC,Internacional,21,0
+Criciúma EC,Juventude,10,0
+Criciúma EC,Tombense,16,0
+Crossfire,Washington,11,0
+Crotone,Catanzaro,11,150000
+Crotone,Genoa,10,1250000
+Crotone,Napoli,11,1800000
+Crotone,Parma,30,2840500
+Crotone,Pro Vercelli,17,0
+Crotone,Sassuolo,10,4000000
+Crucero,Guaraní A. F.,11,0
+Cruz Azul Hid.,CD Cruz Azul,20,0
+Cruz Azul Hid.,Cruz Azul Jasso,12,0
+Cruz Azul Jasso,Cruz Azul Hid.,38,0
+Cruzeiro,América-MG,17,0
+Cruzeiro,Athletico-PR,9,750000
+Cruzeiro,Atlético-GO,12,0
+Cruzeiro,Atlético-PR,9,500000
+Cruzeiro,Avaí FC,15,0
+Cruzeiro,Botafogo,19,0
+Cruzeiro,Cabofriense,10,0
+Cruzeiro,Ceará SC,15,0
+Cruzeiro,Chapecoense,9,0
+Cruzeiro,Corinthians,11,350000
+Cruzeiro,Coritiba FC,20,365000
+Cruzeiro,Criciúma EC,12,0
+Cruzeiro,EC Bahia,18,130000
+Cruzeiro,EC Vitória,30,1695000
+Cruzeiro,FC Porto,9,4200000
+Cruzeiro,Flamengo,12,15000000
+Cruzeiro,Fluminense,14,0
+Cruzeiro,Goiás,12,0
+Cruzeiro,Grêmio,20,115000
+Cruzeiro,Guarani,11,0
+Cruzeiro,Internacional,12,3430000
+Cruzeiro,Ipatinga FC,32,0
+Cruzeiro,Juventude,12,0
+Cruzeiro,Londrina-PR,9,0
+Cruzeiro,Mirassol-SP,10,558000
+Cruzeiro,Nacional,10,500000
+Cruzeiro,Náutico,13,0
+Cruzeiro,Palmeiras,24,7100000
+Cruzeiro,Ponte Preta,14,0
+Cruzeiro,Portuguesa,11,0
+Cruzeiro,Santos,17,14000000
+Cruzeiro,Sport Recife,13,0
+Cruzeiro,São Paulo,19,5100000
+Cruzeiro,Tombense,9,0
+Cruzeiro,Vasco da Gama,14,1450000
+Crystal Palace,Blackpool,9,250000
+Crystal Palace,Chelsea,9,0
+Crystal Palace,Forest,9,2100000
+Crystal Palace,Ipswich,9,0
+Csepel FC,Tatabánya,9,0
+Csákvár,Puskás AFC,32,0
+Cuiseaux B,Louh.-Cuiseaux,17,0
+Cuneo,Bra,9,0
+Cuneo,Savona,10,0
+Cuneo Youth,Cuneo,12,0
+Cádiz B,At. Sanluqueño,10,0
+Cádiz CF,Albacete,9,0
+Cádiz CF,Granada CF,20,0
+Cádiz CF B,Cádiz CF,16,0
+Córdoba CF B,Córdoba CF,32,0
+D. Zagreb Yth.,NK Zagreb Yth.,11,0
+DAC 1912 FC,ETO FC Győr ,9,0
+DL Shide Res.,DL Shide,10,0
+DL Shide Res.,Dalian Shide,12,0
+DYuSSh Lada ,Lada Togliatti,9,0
+DYuSSh Saratov,Sokol Saratov,13,0
+Daejeon Citizen,Suwon Bluewings,9,0
+Dag & Red FC,Barnet,9,0
+Dag & Red FC,Bishop's St.,9,0
+Dag & Red FC,Boreham Wood,10,0
+Dag & Red FC,Ebbsfleet,9,0
+Dag & Red FC,Gillingham,9,0
+Dag & Red FC,Grays Athletic,12,0
+Dag & Red FC,Peterborough,9,1169000
+Dag & Red FC,Thurrock,9,0
+Dallas,North Texas SC,29,0
+Dallas,Toronto,10,0
+Dallas Academy,Dallas,20,0
+Dallas Academy,North Texas SC,47,0
+Danubio B,Danubio FC,11,0
+De Graafschap,Feyenoord,9,1950000
+De Graafschap,Go Ahead Eagles,9,0
+Debrecen,Debreceni EAC,12,0
+Debrecen,Diósgyőr,13,0
+Debrecen,Kecskeméti TE,11,0
+Debrecen,Nyíregyháza,23,80000
+Defensa,Godoy Cruz,17,0
+Defensa,Independiente,12,1020000
+Defensa,Platense,12,0
+Defensa,Racing Club,10,3420000
+Defensa,River Plate,9,5900000
+Defensor SC,River Plate,9,3400000
+Degerfors,AIK,9,300000
+Delfines,Querétaro FC,15,0
+Delémont Jug,SR Delémont,12,0
+Denizli Belediye,Denizlispor,13,0
+Denizlispor,Antalyaspor,9,0
+Denizlispor,Denizli Belediye,14,0
+Denizlispor,Kayserispor,9,0
+Denizlispor,Konyaspor,11,0
+Denizlispor,Manisaspor,14,0
+Dep. Aragón,Real Zaragoza,25,0
+Dep. La Coruña,Atlético Madrid,10,12000000
+Dep. La Coruña,Benfica,9,0
+Dep. La Coruña,Racing,10,3000000
+Dep. Riestra,Almirante Brown,19,0
+Depor Fabril,Dep. La Coruña,17,0
+Deportivo B,Dep. La Coruña,24,0
+Derby,Barnsley,15,2200000
+Derby,Bristol City,12,5875000
+Derby,Burton Albion,9,0
+Derby,Crystal Palace,9,1180000
+Derby,Leicester,10,2960000
+Derby,Millwall,12,225000
+Derby,Notts County,12,0
+Derby,Sheff Wed,13,1115000
+Derby,Stoke City,10,1950000
+Derby,Walsall,9,0
+Desp. Brasil,Estoril,21,0
+Desp. Brasil,Fluminense,11,0
+Desp. Brasil,Ituano,14,0
+Desp. Brasil,Palmeiras,17,0
+Desp. Brasil,São Bento (SP),9,0
+Desportivo Aves,Boavista,14,0
+Dijon FCO B,Dijon,16,0
+Dinamo Academy,Dinamo Tbilisi,31,0
+Dinamo Moscow,Anzhi,13,26000000
+Dinamo Moscow,Rostov,9,0
+Dinamo Tbilisi,FC Locomotive,9,0
+Dinamo Zagreb,HNK Gorica,10,0
+Dinamo Zagreb,HNK Rijeka,19,1400000
+Dinamo Zagreb,HNK Sibenik,9,0
+Dinamo Zagreb,Inter Zapresic,21,0
+Dinamo Zagreb,NK Lokomotiva,83,0
+Dinamo Zagreb,Zrinjski Mostar,15,150000
+Diyarbakirspor,C. Rizespor,10,0
+Diyarbakirspor,Mardinspor,9,0
+Diyarbekir Spor,Tuzlaspor,30,0
+Diósdi TC,SZTK,9,0
+Diósgyőr,BFC Siófok,9,0
+Diósgyőr,Debrecen,12,190000
+Diósgyőr,ETO FC Győr ,10,40000
+Diósgyőr,Honvéd,10,60000
+Diósgyőr,Kazincbarcika,15,0
+Diósgyőr,Mezőkövesd,20,0
+Diósgyőr,Nyíregyháza,10,0
+Diósgyőr,Zalaegerszeg,9,0
+Diósgyőr,Újpest FC,9,100000
+Dnipro,Arsenal Kyiv,22,0
+Dnipro,Dynamo Kyiv,10,4200000
+Dnipro,Karpaty Lviv,9,0
+Dnipro,Kryvbas,55,0
+Dnipro,Volyn Lutsk,11,0
+Dolcan Zabki,Legia Warszawa,9,0
+Domazlice,Vikt. Plzen B,10,0
+Doncaster,Oldham Athletic,10,0
+Dorados Sinaloa,Club Tijuana,36,100000
+Dorados Sinaloa,León,10,0
+Dorados Sinaloa,Monterrey,9,0
+Dorados Sinaloa,Querétaro FC,15,0
+Dorados Sinaloa,Tiburones Rojos,10,0
+Dorchester,Exeter City,13,0
+Drnovice,Marila Pribram,10,0
+Dubnica,Banska Bystrica,11,0
+Dubnica,MSK Zilina,12,0
+Dubnica,Spartak Myjava,12,0
+Dukla Prague,Bohemians 1905,12,0
+Dukla Prague B,Dukla Prague,20,0
+Dunajska Streda,ETO FC Győr ,18,0
+Dunajska Streda,STK Samorin,18,0
+Dunajska Streda,Slo. Bratislava,12,0
+Dundee FC,Arbroath,9,0
+Dundee FC,Brechin City,9,0
+Dundee FC,Celtic,13,5950000
+Dundee FC,Dunfermline A.,10,0
+Dundee FC,Falkirk,11,0
+Dundee FC,Forfar Athletic,11,0
+Dundee FC,Hibernian FC,11,0
+Dundee FC,Montrose,10,0
+Dundee FC,Peterhead,9,0
+Dundee FC,Raith Rovers,11,0
+Dundee FC,Rangers,10,930000
+Dunfermline A.,Dundee FC,17,0
+Dunfermline A.,Inverness CT,10,0
+Dunfermline A.,Morton,9,0
+Dunfermline A.,Raith Rovers,12,0
+Dunfermline A.,Ross County,10,0
+Dunfermline A.,St. Mirren,9,0
+Duque de Caxias,Boavista,16,0
+Duque de Caxias,Fluminense,9,0
+Dynamo 2 ,Dynamo Moscow,9,0
+Dynamo Dresden,1.FC Nuremberg,11,2150000
+Dynamo Dresden,Hallescher FC,9,0
+Dynamo Kyiv,Arsenal Kyiv,14,0
+Dynamo Kyiv,Chornomorets,20,0
+Dynamo Kyiv,Dnipro,22,7650000
+Dynamo Kyiv,FC Oleksandriya,11,500000
+Dynamo Kyiv,Vorskla Poltava,11,0
+Dynamo Kyiv,Zorya Lugansk,22,1070000
+Dynamo-2 Kyiv,Dynamo Kyiv,25,0
+Dynamo-2 Kyiv,Goverla,12,0
+Dynamo-2 Kyiv,Zakarpattya,14,0
+Dynamo-3 Kyiv,Dynamo-2 Kyiv,27,0
+E. Frankfurt,1.FC K'lautern,12,2250000
+E. Frankfurt,FC Schalke 04,10,8500000
+EA Guingamp B,Guingamp,59,0
+EC Bahia,Atlético-GO,10,0
+EC Bahia,Atlético-MG,11,275000
+EC Bahia,Ceará SC,11,90000
+EC Bahia,Corinthians,22,1500000
+EC Bahia,Cruzeiro,16,925000
+EC Bahia,Flamengo,13,2460000
+EC Bahia,Fluminense,12,700000
+EC Bahia,Fortaleza,9,0
+EC Bahia,Grêmio,13,800000
+EC Bahia,Internacional,16,550000
+EC Bahia,Palmeiras,12,3000000
+EC Bahia,Tombense,9,0
+EC Bahia,Vasco da Gama,11,0
+EC Vitória,ABC FC,14,0
+EC Vitória,Atlético-GO,10,425000
+EC Vitória,Atlético-MG,12,850000
+EC Vitória,Botafogo,9,2000000
+EC Vitória,CRB,11,0
+EC Vitória,Chapecoense,9,0
+EC Vitória,Confiança,9,0
+EC Vitória,Coritiba FC,15,0
+EC Vitória,Cruzeiro,31,3650000
+EC Vitória,Figueirense FC,9,0
+EC Vitória,Flamengo,10,619000
+EC Vitória,Internacional,12,0
+EC Vitória,Ituano,12,0
+EC Vitória,Jacuipense-BA,11,0
+EC Vitória,Joinville-SC,10,0
+EC Vitória,Mirassol-SP,12,426000
+EC Vitória,Náutico,10,0
+EC Vitória,Palmeiras,22,950000
+EC Vitória,Paraná,9,0
+EC Vitória,Ponte Preta,12,120000
+EC Vitória,Portuguesa,9,300000
+EC Vitória,Santa Cruz-PE,10,0
+EC Vitória,São Paulo,10,1550000
+ESTAC Troyes B,Troyes,56,0
+ETO FC Győr ,BFC Siófok,12,0
+ETO FC Győr ,DAC 1912 FC,12,0
+ETO FC Győr ,Diósgyőr,9,4000
+ETO FC Győr ,Dunajska Streda,15,0
+ETO FC Győr ,Gyirmót FC,11,0
+ETO FC Győr ,Haladás,10,0
+ETO FC Győr ,Honvéd,10,0
+ETO FC Győr ,Kaposvár,9,0
+ETO FC Győr ,Nyíregyháza,10,0
+ETO FC Győr ,Paksi FC,11,0
+ETO FC Győr ,Zalaegerszeg,9,0
+East Fife,Heart of Midl.,9,0
+El Paso Youth,El Paso,11,0
+Elazigspor ,Ankaragücü,9,0
+Elazigspor ,Dardanelspor,9,0
+Elazigspor ,Göztepe,9,0
+Elche CF,CD Alcoyano,9,0
+Elche CF,Córdoba CF,12,0
+Elche CF,RCD Mallorca,11,600000
+Elche Ilicitano,Elche CF,26,0
+Elfsborg,GAIS,12,0
+Elgin City,Inverness CT,12,0
+Elgin City,Ross County,12,0
+Envigado,Atl. Nacional,9,2600000
+Epinal B,SAS Epinal,10,0
+Erciyesspor,Kayserispor,9,0
+Ergotelis,Olympiacos,15,590000
+Erzurumspor,Diyarbakirspor,10,450000
+Esbjerg fB,FC Fredericia,9,0
+Esbjerg fB,Silkeborg IF,10,335000
+Espanyol,Alavés,10,400000
+Espanyol,Real Madrid,11,20700000
+Espanyol,Villarreal,9,11270000
+Espanyol Youth,Barça Youth,17,0
+Estoril,Desp. Brasil,13,0
+Estoril,Sporting CP,16,11050000
+Estudiantes,Dep. Riestra,9,0
+Estudiantes LP,Aldosivi,10,0
+Estudiantes LP,Boca Juniors,16,11870000
+Estudiantes LP,Defensa,11,1484000
+Estudiantes LP,Newell's,10,0
+Estudiantes LP,Quilmes,11,0
+Estudiantes LP,River Plate,9,4315000
+Eto'o Academy,Barça Youth,10,0
+Etoile Carouge,Servette FC,28,0
+Etoile Carouge,Stade Nyonnais,11,0
+Evergrande FS,GuaZ FC,11,0
+Everton,Blackpool,9,0
+Everton,Man City,10,104950000
+Everton,Sunderland,11,7130000
+Excelsior,Feyenoord,49,825000
+Exeter City,Bath City,12,0
+Exeter City,Dorchester,12,0
+Exeter City,Tiverton,20,0
+Exeter City,Torquay,11,10000
+Exeter City,Truro City FC,11,0
+Exeter City,Weston-super-M.,14,0
+Extremadura B,Extremadura,10,0
+Eyüpspor,Alibeyköy,12,0
+Eyüpspor,Pendikspor ,25,0
+FBK Kaunas,Heart of Midl.,21,0
+FC Aarau,BSC Young Boys,9,0
+FC Aarau,FC Baden 1897,27,0
+FC Aarau,FC Basel,12,650000
+FC Aarau,FC Luzern,9,500000
+FC Aarau,FC Wil 1900,9,750000
+FC Aarau,FC Winterthur,9,0
+FC Aarau,FC Wohlen,19,0
+FC Aarau,Grasshoppers,15,150000
+FC Aarau,Neuchâtel Xamax,9,200000
+FC Annecy B,FC Annecy,16,0
+FC Ascona,FC Locarno,11,0
+FC Augsburg,F. Düsseldorf,9,200000
+FC Augsburg,VfL Wolfsburg,10,1570000
+FC Baden 1897,FC Aarau,21,0
+FC Baden 1897,FC Wohlen,12,0
+FC Baden 1897,SC YF Juventus,12,0
+FC Baden Yth.,FC Baden 1897,17,0
+FC Basel,Concordia BS,9,0
+FC Basel,FC Aarau,12,0
+FC Basel,FC Vaduz,10,0
+FC Basel,FC Winterthur,15,0
+FC Basel,Grasshoppers,10,600000
+FC Bassecourt,SR Delémont,12,0
+FC Baulmes,Yverdon Sport,9,0
+FC Biel-Bienne,BSC Young Boys,11,0
+FC Biel-Bienne,FC Breitenrain,11,0
+FC Biel-Bienne,FC Grenchen,9,0
+FC Biel-Bienne,Neuchâtel Xamax,13,0
+FC Cartagena,CD Leganés,10,0
+FC Chiasso,AC Bellinzona,27,0
+FC Chiasso,FC Lugano,31,150000
+FC Chiasso,FC Mendrisio,13,0
+FC Chiasso,FC Sion,11,0
+FC Clivense SM,Chievo Verona,9,0
+FC Dordrecht,ADO Den Haag,12,0
+FC Dordrecht,Excelsior,10,0
+FC Dordrecht,Feyenoord,14,0
+FC Dornbirn,A. Lustenau,10,0
+FC Emmen,FC Groningen,11,300000
+FC Empoli,AC Milan,13,24900000
+FC Empoli,Brescia,10,11450000
+FC Empoli,Cagliari,11,5490000
+FC Empoli,Carrarese,10,0
+FC Empoli,Chievo Verona,9,8250000
+FC Empoli,Fiorentina,19,37600000
+FC Empoli,Gavorrano,9,0
+FC Empoli,Inter,11,15700000
+FC Empoli,Juventus,21,18200000
+FC Empoli,Lucchese,9,0
+FC Empoli,Napoli,19,40800000
+FC Empoli,Parma,11,0
+FC Empoli,Pistoiese,11,0
+FC Empoli,Sampdoria,20,11200000
+FC Empoli,Sassuolo,12,29750000
+FC Empoli,Spezia Calcio,9,7600000
+FC Empoli,Torino,14,19000000
+FC Fredericia,FC Midtjylland,22,0
+FC Grenchen,FC Biel-Bienne,11,0
+FC Groningen,Ajax,10,15900000
+FC Groningen,BV Veendam,10,0
+FC Groningen,FC Emmen,14,0
+FC Groningen,SC Cambuur,10,0
+FC Gueugnon B,FC Gueugnon,19,0
+FC Ingolstadt,Heidenheim,9,750000
+FC Juárez,El Paso,11,0
+FC Liefering,LASK,10,0
+FC Liefering,RB Salzburg,65,0
+FC Locarno,AC Bellinzona,14,0
+FC Locarno,FC Ascona,12,0
+FC Locarno,FC Chiasso,12,0
+FC Locarno,FC Lugano,12,0
+FC Lorient,AC Ajaccio,12,0
+FC Lorient,Marseille,13,21500000
+FC Lorient,Saint-Étienne,10,8500000
+FC Lugano,AC Bellinzona,20,0
+FC Lugano,FC Chiasso,35,0
+FC Lugano,FC Schaffhausen,10,0
+FC Lugano,FC Sion,10,0
+FC Lugano,FC Wil 1900,11,700000
+FC Lugano,FC Zürich,11,2300000
+FC Lugano,Genoa,15,1450000
+FC Lugano,Grasshoppers,15,1100000
+FC Luzern,BSC Young Boys,12,2160000
+FC Luzern,FC Aarau,12,0
+FC Luzern,FC Lugano,9,0
+FC Luzern,FC Winterthur,9,0
+FC Luzern,FC Wohlen,12,0
+FC Luzern,Grasshoppers,11,0
+FC Luzern,SC Kriens,22,0
+FC Mariupol,Shakhtar D.,22,0
+FC Mendrisio,FC Chiasso,9,0
+FC Metz,LB Châteauroux,9,0
+FC Metz,Monaco,9,18200000
+FC Metz,R. Strasbourg,9,10000000
+FC Metz,RFC Seraing,20,0
+FC Metz,Troyes,11,0
+FC Metz B,FC Metz,77,0
+FC Metz B,RFC Seraing,12,0
+FC Midtjylland,AC Horsens,18,0
+FC Midtjylland,FC Fredericia,22,0
+FC Midtjylland,Mafra,11,0
+FC Midtjylland,Skive IK,11,0
+FC Midtjylland,SönderjyskE,9,0
+FC Midtjylland,Vejle BK,12,270000
+FC Midtjylland,Viborg FF,9,0
+FC Montréal,Montreal,10,0
+FC Moutier,SR Delémont,12,0
+FC Nantes B,FC Nantes,91,0
+FC Oleksandriya,Shakhtar D.,9,600000
+FC Olten,FC Wangen b. O.,9,0
+FC Paradiso,AC Taverne,11,0
+FC Paradiso,Collina d'Oro,11,0
+FC Porto,Atlético Madrid,9,100000000
+FC Porto,CF Estrela ,13,0
+FC Porto,Coimbra,19,0
+FC Porto,Cruzeiro,9,1100000
+FC Porto,FC Porto B,15,0
+FC Porto,Gil Vicente,10,0
+FC Porto,Olhanense,9,0
+FC Porto,Penafiel,9,0
+FC Porto,Portimonense,20,2520000
+FC Porto,Rio Ave,14,0
+FC Porto,SC Braga,25,6800000
+FC Porto,Vit. Guimarães,24,3030000
+FC Porto,Vitória Setúbal,25,600000
+FC Porto B,FC Porto,46,0
+FC Rouen B,FC Rouen 1899,12,0
+FC Schaffhausen,AC Bellinzona,12,0
+FC Schaffhausen,FC Winterthur,13,0
+FC Schaffhausen,FC Zürich,9,400000
+FC Schaffhausen,Grasshoppers,20,0
+FC Schalke 04,1.FSV Mainz 05,9,2280000
+FC Schalke 04,E. Frankfurt,9,0
+FC Schötz,SC Kriens,10,0
+FC Schötz,SC Zofingen,9,0
+FC Seoul,Gwangju Sangmu,9,0
+FC Seoul,Gyeongnam FC,9,0
+FC Seoul,Sangju Sangmu,10,0
+FC Sion,AC Bellinzona,13,0
+FC Sion,FC Aarau,10,50000
+FC Sion,FC Basel,11,3100000
+FC Sion,FC Chiasso,9,0
+FC Sion,FC Lugano,9,0
+FC Sion,Lausanne-Sport,12,0
+FC Sion,Servette FC,16,0
+FC Sion,Yverdon Sport,17,0
+FC Sochaux,LB Châteauroux,9,0
+FC Sochaux B,FC Sochaux,85,0
+FC St. Gallen,FC Aarau,9,200000
+FC St. Gallen,FC Vaduz,16,0
+FC St. Gallen,FC Wil 1900,12,0
+FC St. Gallen,FC Winterthur,9,200000
+FC St. Gallen,Grasshoppers,10,700000
+FC Thun,BSC Young Boys,22,6300000
+FC Thun,FC Luzern,9,850000
+FC Thun,FC Winterthur,11,0
+FC Tokyo,Cerezo Osaka,9,0
+FC Tokyo,Monte. Yamagata,9,0
+FC Tucson,Phoenix Rising,10,0
+FC Vaduz,FC Winterthur,9,100000
+FC ViOn,MSK Zilina,10,0
+FC ViOn,Spartak Trnava,9,0
+FC Villarreal C,Villarreal CF B,94,0
+FC Wangen b. O.,FC Olten,9,0
+FC Wil 1900,FC Aarau,11,0
+FC Wil 1900,FC Basel,12,450000
+FC Wil 1900,FC Lugano,11,410000
+FC Wil 1900,FC Schaffhausen,9,0
+FC Wil 1900,FC St. Gallen,19,250000
+FC Wil 1900,FC Wohlen,9,0
+FC Wil 1900,FC Zürich,17,0
+FC Winterthur,FC Aarau,9,0
+FC Winterthur,FC Basel,11,700000
+FC Winterthur,FC Schaffhausen,21,0
+FC Winterthur,FC Thun,10,200000
+FC Winterthur,FC Vaduz,11,0
+FC Winterthur,FC Zürich,9,0
+FC Winterthur,Grasshoppers,10,300000
+FC Winterthur,SC YF Juventus,12,0
+FC Wohlen,FC Aarau,14,100000
+FC Wohlen,FC Baden 1897,15,0
+FC Wohlen,FC Luzern,10,0
+FC Wohlen,FC Muri,9,0
+FC Wohlen,Grasshoppers,10,0
+FC Wohlen,SC Kriens,11,0
+FC Wohlen,SC YF Juventus,11,0
+FC Wohlen Youth,FC Wohlen,12,0
+FC Zürich,AC Bellinzona,9,0
+FC Zürich,FC Aarau,9,0
+FC Zürich,FC Lugano,10,0
+FC Zürich,FC Schaffhausen,12,0
+FC Zürich,FC Wil 1900,16,0
+FC Zürich,FC Winterthur,10,0
+FCC Basel Yth.,Concordia BS,9,0
+FK Novgorod,Volga NN,9,0
+FK Sochi,Zenit S-Pb,14,15000000
+Fafe,Moreirense ,9,0
+Fagiano Okayama,F. Okayama NEXT,9,0
+Fagiano Okayama,Matsumoto Yama.,11,0
+Falkirk,Dundee FC,9,0
+Falkirk,St. Johnstone,11,33000
+Falkirk,Stirling Albion,11,0
+Famalicão S15,Famalicão S17,27,0
+Famalicão S17,Famalicão Y19,31,0
+Famalicão Y19,Famalicão,12,0
+Famalicão Yo,Famalicão S15,14,0
+Fano Giovanili,AJ Fano,21,0
+Farense Youth,SC Farense Y15,18,0
+Feirense,Boavista,12,1000000
+Feirense,Chaves,9,0
+Feirense CJ,Feirense Sub-15,31,0
+Feirense Sub-15,Feirense Sub-17,33,0
+Felgueiras Y15,Felgueiras Y17,9,0
+Fenerbahce,Antalyaspor,10,0
+Fenerbahce,Basaksehir,11,0
+Fenerbahce,Karagümrük,17,0
+Fenerbahce,Kayserispor,9,1870000
+Fenerbahce,Konyaspor,9,1200000
+Fenerbahce,Sivasspor,9,0
+Ferencváros,BFC Siófok,10,0
+Ferencváros,Debrecen,9,200000
+Ferencváros,Soroksár,32,0
+Fermana,Carpi,16,50000
+Fermana,Montegiorgio,11,0
+Fermana,Pro Vercelli,20,0
+Fermana Youth,Fermana,13,0
+Ferro,Defensa,9,0
+Ferroviária,Atlético-PR,17,0
+Ferroviária,Botafogo-SP,9,0
+Ferroviária,Mirassol-SP,10,0
+Ferroviário,Ceará SC,9,0
+Fethiyespor,Pendikspor ,11,0
+Fethiyespor Yth,Fethiyespor,12,0
+Feyenoord,ADO Den Haag,9,0
+Feyenoord,De Graafschap,10,0
+Feyenoord,Excelsior,45,250000
+Feyenoord,FC Dordrecht,14,0
+Feyenoord,Heerenveen,9,2000000
+Feyenoord,NAC Breda,13,0
+Feyenoord,NEC Nijmegen,10,100000
+Feyenoord,RKC Waalwijk,13,0
+Feyenoord,Twente FC,10,7200000
+Figueirense FC,Atlético-MG,11,3000000
+Figueirense FC,Atlético-PR,10,0
+Figueirense FC,Corinthians,9,400000
+Figueirense FC,EC Vitória,9,0
+Figueirense FC,Flamengo,9,941000
+Figueirense FC,Grêmio,12,0
+Figueirense FC,Internacional,16,500000
+Figueirense FC,Londrina-PR,9,0
+Figueirense FC,Náutico,9,0
+Figueirense FC,Palmeiras,9,1200000
+Figueirense FC,Ponte Preta,9,0
+Figueirense FC,Tombense,43,0
+Fiorentina,AC Milan,12,23000000
+Fiorentina,Arezzo,9,0
+Fiorentina,Bari,9,3800000
+Fiorentina,Cagliari,11,13500000
+Fiorentina,FC Empoli,16,1300000
+Fiorentina,Genoa,10,2600000
+Fiorentina,Hellas Verona,13,8550000
+Fiorentina,Juventus,17,231290000
+Fiorentina,Napoli,12,14000000
+Fiorentina,Parma,9,4940000
+Fiorentina,Salernitana,10,0
+Fiorentina,Sampdoria,12,20800000
+Fiorentina,Spezia Calcio,9,5830000
+Fiorentina,Ternana,12,0
+Fiorenzuola,Pisa,11,0
+Fiorenzuola G.,Fiorenzuola,17,0
+Fire Academy,Chicago,13,0
+Flamengo,Atlético-PR,11,0
+Flamengo,Boavista,11,0
+Flamengo,Corinthians,9,4800000
+Flamengo,Coritiba FC,15,0
+Flamengo,Cruzeiro,22,8950000
+Flamengo,Duque de Caxias,9,0
+Flamengo,EC Bahia,17,0
+Flamengo,EC Vitória,9,0
+Flamengo,Figueirense FC,11,0
+Flamengo,Fluminense,10,0
+Flamengo,Grêmio,19,1245000
+Flamengo,Internacional,9,4000000
+Flamengo,Palmeiras,10,800000
+Flamengo,Santos,14,1275000
+Flamengo,São Paulo,11,4500000
+Flamengo B,Flamengo,24,0
+Flamengo-SP,Corinthians B,9,0
+Fleetwood,Blackpool,9,0
+Fleetwood,Fylde,10,0
+Fleetwood,Salford,9,0
+Fleetwood,Stockport,12,180000
+Fleetwood,Wrexham,9,0
+Fluminense,Atlético-GO,11,0
+Fluminense,Atlético-MG,10,1350000
+Fluminense,Atlético-PR,12,0
+Fluminense,Botafogo-SP,12,0
+Fluminense,Ceará SC,9,0
+Fluminense,Corinthians,9,2820000
+Fluminense,Coritiba FC,13,232000
+Fluminense,Cruzeiro,10,1320000
+Fluminense,Desp. Brasil,12,577000
+Fluminense,EC Bahia,13,4360000
+Fluminense,EC Vitória,9,0
+Fluminense,Flamengo,13,6400000
+Fluminense,Goiás,14,0
+Fluminense,Grêmio,13,0
+Fluminense,Internacional,9,3000000
+Fluminense,Juventude,14,0
+Fluminense,Náutico,12,0
+Fluminense,Ponte Preta,10,0
+Fluminense,Santos,12,0
+Fluminense,São Paulo,17,2590000
+Fluminense,Tombense,12,0
+Fløy,Start,12,0
+Foggia,Benevento,11,0
+Foggia,Cosenza,9,0
+Foggia,Novara,12,0
+Foggia,Salernitana,11,2500000
+Foggia,Taranto,10,0
+Fondi,Parma,9,0
+Forest,Aston Villa,12,27150000
+Forest,Barnsley,9,1000000
+Forest,Cardiff,9,0
+Forest,Crystal Palace,10,4250000
+Forest,Lincoln City,13,0
+Forest,Mansfield Town,10,0
+Forest,Middlesbrough,10,20850000
+Forest,Newcastle,14,103700000
+Forest,Norwich,9,0
+Forest,Notts County,13,0
+Forest,Olympiacos,13,3000000
+Forest,QPR,9,0
+Forest,Rotherham,9,0
+Forest,Watford,11,1175000
+Forest Green,Bristol Rovers,11,0
+Forest Green,Cheltenham,9,20000
+Forest Green,Gloucester,10,0
+Forest Green,Torquay,11,0
+Forfar Athletic,Aberdeen FC,10,0
+Forlì,Cesena,18,0
+Fortaleza,Atlético-MG,11,450000
+Fortaleza,Atlético-PR,9,0
+Fortaleza,Botafogo,9,200000
+Fortaleza,Ceará SC,9,0
+Fortaleza,Coritiba FC,12,1148000
+Fortaleza,Internacional,9,1750000
+Fortaleza,Juventude,9,0
+Fortaleza,Tombense,13,0
+Fortaleza,Vila Nova FC,9,0
+Fotbal Trinec,Banik Ostrava,9,0
+Francavilla Y.,V. Francavilla,10,0
+Freamunde,Chaves,9,0
+Fredrikstad Yth,Fredrikstad,15,0
+Frosinone,Atalanta BC,11,12000000
+Frosinone,Genoa,15,3900000
+Frosinone,Pescara,12,0
+Frosinone,Sassuolo,13,6500000
+Frydek-Mistek,1.SK Prostejov,11,0
+Frydek-Mistek,Banik Ostrava,11,0
+Frydek-Mistek,Banik Ostrava B,15,0
+Fulham,Barnsley,9,1350000
+Fulham,Birmingham,9,27180000
+Fulham,Chelsea,10,0
+Fulham,QPR,10,8360000
+Fulham,Tottenham,9,61700000
+Füchse Yth.,Hertha BSC Yth.,11,0
+G. Bordeaux,Angers SCO,10,14500000
+G. Bordeaux B,G. Bordeaux,87,0
+G.Birligi Yth,Hacettepe Yth,22,0
+G.Osmanpasa Yth,Gaziosmanpasa,22,0
+GAIS,Ljungskile SK,10,0
+GAK Youth,Sturm Graz Yth,10,0
+GB Asasspor,Genclerbirligi,10,0
+GB Oftasspor,Genclerbirligi,10,0
+GBS Academy,AS Trencin,9,0
+GD Tourizense,Coimbra,15,0
+GIF Sundsvall,AIK,10,0
+GKS Katowice,Cracovia,9,360000
+GKS Katowice,Górnik Zabrze,13,80000
+GKS Katowice,Lech Poznan,9,0
+GKS Katowice,Polonia Bytom,10,0
+GKS Katowice,Rozwój Katowice,9,0
+GKS Katowice,Ruch Chorzow,12,0
+GKS Tychy,Ruch Chorzow,10,0
+GO Audax,Audax-RJ,20,0
+GO Audax,Oeste,16,0
+GS Kallithea,AO Egaleo,9,0
+GS Kallithea,Panionios,9,0
+GSI Pontivy,St-Co Locminé,10,0
+GZ City Res.,GZ R&F,10,0
+GZ Evergrande,GuaZ FC Res.,24,0
+GZ R&F,GZ City Res.,14,0
+Gainsborough,Doncaster,9,0
+Galatasaray,Antalyaspor,12,63000
+Galatasaray,Bursaspor,14,250000
+Galatasaray,C. Rizespor,15,100000
+Galatasaray,Eyüpspor,12,479000
+Galatasaray,Gaziantepspor,11,1000000
+Galatasaray,Kayserispor,10,0
+Gallos Tijuana,Celaya,14,0
+Gamba Osaka,Vissel Kobe,9,0
+Gamba Osaka,Yokohama FC,9,0
+Gangwon FC,Seongnam FC,9,0
+Gaskispor,Gaziantep BB,20,0
+Gateshead,Blyth Spartans,13,0
+Gateshead,Spennymoor Town,11,0
+Gaziantep BB,Gaskispor,11,0
+Gaziantep BB,Gaziantepspor,31,0
+Gaziantepspor,Besiktas,13,21450000
+Gaziantepspor,Fenerbahce,9,3600000
+Gaziantepspor,Galatasaray,10,3300000
+Gaziantepspor,Gaziantep BB,25,0
+Gaziantepspor,Trabzonspor,11,6500000
+Genclerbirligi,Antalyaspor,17,0
+Genclerbirligi,Besiktas,11,8400000
+Genclerbirligi,Boluspor,10,0
+Genclerbirligi,Bursaspor,9,750000
+Genclerbirligi,Elazigspor ,11,0
+Genclerbirligi,Fenerbahce,11,14255000
+Genclerbirligi,GB Oftasspor,10,0
+Genclerbirligi,Hacettepe,96,0
+Genclerbirligi,Hacettepe 1945 ,11,0
+Genclerbirligi,Kasimpasa,9,0
+Genclerbirligi,Samsunspor,9,0
+Genclerbirligi,Trabzonspor,9,8650000
+Genoa,AC Milan,32,159550000
+Genoa,AC Siena,15,6880000
+Genoa,AS Roma,16,55100000
+Genoa,Ascoli,10,0
+Genoa,Atalanta BC,15,46300000
+Genoa,Avellino,10,0
+Genoa,Bari,19,15360000
+Genoa,Benevento,10,5300000
+Genoa,Bologna,9,4800000
+Genoa,Brescia,17,1700000
+Genoa,Cesena,17,3050000
+Genoa,Chievo Verona,25,11900000
+Genoa,Como,9,1460000
+Genoa,Cremonese,15,701000
+Genoa,FC Lugano,13,0
+Genoa,Fiorentina,15,50100000
+Genoa,Frosinone,17,4550000
+Genoa,Hellas Verona,19,4500000
+Genoa,Inter,23,100200000
+Genoa,Juventus,26,128950000
+Genoa,Lazio,13,22250000
+Genoa,Lecce,9,500000
+Genoa,Padova,9,4800000
+Genoa,Parma,14,13580000
+Genoa,Pescara,10,2000000
+Genoa,Reggiana,11,1250000
+Genoa,Reggina,13,1000000
+Genoa,Salernitana,14,1450000
+Genoa,Sassuolo,18,15500000
+Genoa,Spezia Calcio,11,1140000
+Genoa,Torino,12,16420000
+Genoa,Vicenza,14,200500
+Genêts Anglet,Bayonne,11,0
+Gernika,Arenas Club,11,0
+Getafe,Albacete,10,0
+Getafe,Real Madrid,10,18700000
+Getafe,Sevilla FC,10,8500000
+Getafe,Valencia,11,27000000
+Getafe CF B,Getafe,13,0
+Giana Giovanili,Giana Erminio,13,0
+Gil Vicente,Boavista,10,0
+Gil Vicente,FC Porto,9,7000000
+Gil Vicente,Leixões,9,0
+Gil Vicente,Paços Ferreira,10,0
+Gil Vicente,SC Braga,20,7050000
+Gil Vicente,Vilaverdense,11,0
+Gillingham,Charlton,11,0
+Gillingham,Dag & Red FC,12,0
+Gillingham,QPR,13,0
+Gillingham,Stevenage,9,0
+Gimcheon Sangmu,FC Seoul,9,0
+Gimcheon Sangmu,Jeonbuk Hyundai,11,0
+Gimcheon Sangmu,Pohang Steelers,10,0
+Gimcheon Sangmu,Suwon Bluewings,10,0
+Gimnasia,Boca Juniors,10,7520000
+Gimnasia,Racing Club,11,8375000
+Giresunspor,Boluspor,14,0
+Giresunspor,Pazarspor ,9,0
+Girona,Man City,18,12300000
+Girona FC B,Girona,19,0
+Giulianova,Santegidiese,9,0
+Gloucester,Bristol Rovers,9,0
+Go Ahead Eagles,AZ Alkmaar,10,2840000
+Godoy Cruz,Argentinos Jrs.,12,0
+Godoy Cruz,Arsenal Sarandí,9,0
+Godoy Cruz,Defensa,18,1283000
+Godoy Cruz,Independiente,9,3090000
+Godoy Cruz,Lanús,9,0
+Godoy Cruz,Newell's,9,0
+Godoy Cruz,Racing Club,9,1300000
+Godset Yth. ,Strømsgodset,21,0
+Goiás,Aparecidense,25,0
+Goiás,Atlético-MG,10,680000
+Goiás,Botafogo,9,175000
+Goiás,Corinthians,9,0
+Goiás,Coritiba FC,12,0
+Goiás,Cruzeiro,11,0
+Goiás,EC Vitória,10,0
+Goiás,Fluminense,11,0
+Goiás,Internacional,15,810000
+Goiás,Mirassol-SP,9,0
+Goiás,Náutico,11,0
+Goiás,Palmeiras,12,3290000
+Goiás,Ponte Preta,11,0
+Goiás,Sport Recife,11,0
+Goiás,São Paulo,15,5060000
+Goiás,Vila Nova FC,10,0
+Goiás B,Aparecidense,11,0
+Goiás B,Goiás,39,0
+Gondomar,Boavista,17,0
+Gondomar,Trofense,10,0
+Gondomar B,Gondomar,27,0
+Gondomar Sub-15,Gondomar Sub-17,25,0
+Gondomar Yth,Gondomar Sub-15,18,0
+Goverla,Dynamo-2 Kyiv,12,0
+Granada CF,CD Leganés,9,0
+Granada CF,CD Lugo,10,0
+Granada CF,Cádiz CF,22,1000000
+Granada CF,Real Valladolid,10,5200000
+Granada CF,Watford,16,17000000
+Grasshoppers,BSC Young Boys,14,6070000
+Grasshoppers,FC Aarau,18,0
+Grasshoppers,FC Basel,17,6300000
+Grasshoppers,FC Lugano,14,300000
+Grasshoppers,FC Schaffhausen,23,0
+Grasshoppers,FC Winterthur,13,0
+Grasshoppers,FC Wohlen,14,12000
+Grasshoppers,Wolves,11,600000
+Grays Athletic,Dag & Red FC,12,0
+Greenville,Carolina Elite,9,0
+Grenoble B,Grenoble,26,0
+Greuther Fürth,TSG Hoffenheim,11,0
+Grimsby Town,Barnsley,11,0
+Grimsby Town,Hull City,9,0
+Grimsby Town,York City,12,0
+Grodzisk,Pol. Warsaw,11,0
+Grêmio,Avaí FC,16,0
+Grêmio,Botafogo,15,8650000
+Grêmio,Caxias-RS,12,0
+Grêmio,Chapecoense,12,0
+Grêmio,Corinthians,13,6330000
+Grêmio,Coritiba FC,13,0
+Grêmio,Criciúma EC,10,40000
+Grêmio,Cruzeiro,18,600000
+Grêmio,EC Bahia,12,250000
+Grêmio,EC Vitória,12,705000
+Grêmio,Figueirense FC,17,0
+Grêmio,Flamengo,14,750000
+Grêmio,Fluminense,11,750000
+Grêmio,Juventude,17,0
+Grêmio,Náutico,9,0
+Grêmio,Palmeiras,17,2500000
+Grêmio,Ponte Preta,11,0
+Grêmio,Portuguesa,9,0
+Grêmio,Santos,13,1900000
+Grêmio,Sport Recife,16,55000
+Grêmio,São Paulo,15,4845000
+Grêmio,Vasco da Gama,11,0
+Grêmio B,Grêmio,68,0
+GuaZ FC,WH Three Towns,10,0
+GuaZ FC Res.,GZ Evergrande,16,0
+GuaZ FC Res.,GuaZ FC,10,0
+Guarani,Atlético-MG,11,430000
+Guarani,Corinthians,10,820000
+Guarani,Coritiba FC,16,800000
+Guarani,Cruzeiro,13,50000
+Guarani,EC Vitória,9,0
+Guarani,Internacional,10,500000
+Guarani,Ituano,11,0
+Guarani,Juventude,9,0
+Guarani,Mirassol-SP,13,0
+Guarani,Náutico,11,0
+Guarani,Palmeiras,15,2380000
+Guarani,Santos,14,230000
+Guarani,São Paulo,9,2300000
+Guarani,Tombense,17,0
+Guarani B,Guarani,23,0
+Guaratinguetá,GO Audax,11,0
+Guillermo Brown,Quilmes,10,0
+Guimarães B,Vit. Guimarães,46,0
+Guingamp,FC Lorient,13,2800000
+Gwangju Sangmu,FC Seoul,9,0
+Gwangju Sangmu,Suwon Bluewings,12,0
+Gyeongnam FC,FC Seoul,9,1923000
+Gyirmót FC,Mosonmagyaróvár,11,0
+Génération Foot,FC Metz,12,0
+Génération Foot,FC Metz B,11,0
+Górnik Polkowice,Zaglebie Lubin,9,0
+Górnik Zabrze,GKS Katowice,23,0
+Górnik Zabrze,Nieciecza,9,95000
+Górnik Zabrze,Radzionkow,10,8000
+Górnik Zabrze,Wisla Plock,9,35000
+Göztepe,Adana Demirspor,9,0
+Göztepe,Altay SK,9,0
+Göztepe,Bandirmaspor,11,0
+Göztepe,Sariyer,9,0
+Göztepe Yth,Göztepe,17,0
+HB CFFC,HB FC Res.,11,0
+HIF Akademi,Helsingborgs IF,15,0
+HJK Klubi 04,HJK Helsinki,14,0
+HN Jianye,Henan FC Res.,9,0
+HNK Gorica,Dinamo Zagreb,11,5450000
+HNK Gorica,NK Kurilovec,10,0
+HNK Rijeka,Dinamo Zagreb,17,9000000
+HNK Rijeka,Hrv Dragovoljac,9,0
+HNK Rijeka,NK Istra,12,0
+HNK Rijeka,NK Pomorac,9,0
+HNK Rijeka,Spezia Calcio,10,0
+HNK Sibenik,Dinamo Zagreb,12,3450000
+HNK Sibenik,Hajduk Split,19,650000
+Hacettepe,Ankara Adliye,10,0
+Hacettepe,Genclerbirligi,121,0
+Hacettepe 1945 ,Genclerbirligi,10,0
+Hacettepe Yth,G.Birligi Yth,19,0
+Hajduk Split,HNK Sibenik,18,0
+Hajduk Split,NK Varazdin,9,0
+Hajduk Split,NK Zadar ,9,0
+Haladás,FC Ajka,11,0
+Haladás,Gyirmót FC,9,110000
+Haladás,Lombard Pápa ,12,0
+Haladás,MTK Budapest,10,0
+Haladás,Mezőkövesd,15,0
+Haladás,Soproni VSE,15,0
+Haladás,Zalaegerszeg,17,0
+Haladás MÁV,Soproni VSE,10,0
+HamKam Yth.,HamKam,11,0
+Hammarby,Hammarby TFF,22,0
+Hammarby,IK Frej Täby,12,0
+Hammarby TFF,Hammarby,34,0
+Hannover 96,1.FC Köln,10,3700000
+Hannover 96,Arm. Bielefeld,9,2200000
+Hannover 96,TSG Hoffenheim,9,9050000
+Hannover Yth.,Wolfsburg Yth.,11,0
+Harrisburg City,Philadelphia,20,0
+Hartberg Yth.,TSV Hartberg,11,0
+Hartlepool,Sunderland,9,0
+Haugesund,Vard,16,0
+Haugesund Yth.,Haugesund,16,0
+Havant & Water.,Portsmouth,9,0
+Heart of Midl.,Cowdenbeath,9,0
+Heart of Midl.,Dunfermline A.,11,6000
+Heart of Midl.,East Fife,9,0
+Heart of Midl.,FBK Kaunas,11,0
+Heart of Midl.,Falkirk,9,0
+Heart of Midl.,Kilmarnock FC,11,0
+Heart of Midl.,Livingston FC,15,0
+Heart of Midl.,Motherwell FC,9,0
+Heart of Midl.,Raith Rovers,17,0
+Heart of Midl.,Rangers,10,6284000
+Heart of Midl.,St. Johnstone,10,0
+Hearts FC B,Heart of Midl.,10,0
+Heerenveen,Ajax,10,38550000
+Heerenveen,FC Emmen,9,0
+Heerenveen,Feyenoord,12,13662000
+Heerenveen,Go Ahead Eagles,9,0
+Heerenveen,Heracles Almelo,11,100000
+Heerenveen,NEC Nijmegen,9,0
+Hellas Verona,AS Roma,14,54650000
+Hellas Verona,Atalanta BC,13,16660000
+Hellas Verona,Bologna,13,2100000
+Hellas Verona,Brescia,12,900000
+Hellas Verona,Cagliari,10,11650000
+Hellas Verona,Chievo Verona,12,0
+Hellas Verona,Cremonese,12,1000000
+Hellas Verona,Fiorentina,13,27360000
+Hellas Verona,Genoa,19,750000
+Hellas Verona,Juventus,15,21300000
+Hellas Verona,Lazio,10,35200000
+Hellas Verona,Mantova,16,500000
+Hellas Verona,Napoli,11,56800000
+Hellas Verona,Perugia,11,1250000
+Hellas Verona,Pescara,9,850000
+Hellas Verona,Salernitana,11,0
+Hellas Verona,Sampdoria,16,3000000
+Hellas Verona,Spezia Calcio,13,0
+Hellas Verona,Ternana,9,2500000
+Hellas Verona,Virtus Lanciano,9,0
+Helmond Sport,KV Mechelen,9,100000
+Helmond Sport,VVV-Venlo,11,0
+Helsingborgs IF,Landskrona,9,0
+Helsingborgs IF,Ängelholms FF,21,0
+Hemel,Billericay,9,28000
+Heracles Almelo,FC Emmen,9,0
+Heracles Almelo,Go Ahead Eagles,9,0
+Heracles Almelo,Twente FC,10,1500000
+Herfölge BK,HB Köge,10,0
+Hibernian B,Hibernian FC,10,0
+Hibernian FC,Celtic,18,10970000
+Hibernian FC,Dundee FC,12,0
+Hibernian FC,Livingston FC,11,0
+Hibernian FC,Partick Thistle,11,0
+Hibernian FC,Raith Rovers,13,0
+Hibernian FC,Rangers,10,11000000
+Hibernian FC,St. Johnstone,13,400000
+Holstein Kiel,VfL Osnabrück,10,100000
+Honvéd,BFC Siófok,19,0
+Honvéd,Diósgyőr,9,0
+Honvéd,ETO FC Győr ,9,0
+Honvéd,Kaposvár,9,0
+Honvéd,Kecskeméti TE,9,0
+Honvéd,Paksi FC,14,0
+Honvéd,Zalaegerszeg,10,0
+Hoogstraten VV,Zwarte Leeuw,10,0
+Houston,RGV FC Toros,36,0
+Houston 2,Houston Academy,10,0
+Houston Academy,Houston 2,16,0
+Hradec Kr. B,Chlumec n/Cidl.,11,0
+Hradec Kralove,Bohemians 1905,10,0
+Hradec Kralove,Viktoria Plzen,11,730000
+Hrv Dragovoljac,NK Lokomotiva,24,300000
+Hrv Dragovoljac,NK Rudes,20,0
+Huachipato,Colo-Colo,9,2030000
+Huddersfield,Bradford,12,0
+Huddersfield,Bury,13,40000
+Huddersfield,Fleetwood,10,455000
+Huddersfield,Forest,10,12730000
+Huddersfield,Oldham Athletic,9,0
+Hull City,Derby,10,10095000
+Hull City,Grimsby Town,10,0
+Humenne,Tatran Presov,9,0
+Huracán,Boca Juniors,11,10132000
+Huracán,Lanús,10,1540000
+Huracán,Racing Club,13,1608000
+Huracán,River Plate,9,4550000
+Hércules CF,CD Alcoyano,13,0
+Hércules CF,Gimnàstic,10,0
+Hércules CF B,Hércules CF,19,0
+Hévíz SK,Zalaegerszeg,14,0
+IC de Croix,Wasquehal,10,0
+IFK Östersund,Östersund,15,0
+IK Frej Täby,Hammarby,13,0
+IK Start Youth,Start,17,0
+Igdir FK,Corum FK,13,0
+Illichivets,Shakhtar D.,21,0
+Ilysiakos,AE Larisa,9,0
+Indep. Santa Fe,Atl. Nacional,11,0
+Independiente,Argentinos Jrs.,11,480000
+Independiente,Belgrano,9,250000
+Independiente,Defensa,13,1438000
+Independiente,Huracán,9,675000
+Independiente,Newell's,9,0
+Independiente,Olimpo,10,0
+Independiente,River Plate,9,2850000
+Independiente B,Independiente,19,0
+Indiana Fire,Indy Eleven,10,0
+Indios,Pachuca,12,0
+Indy Eleven,Indiana Fire,9,0
+Inegölspor Yth,Inegölspor,12,0
+Instituto ACC,Argentinos Jrs.,9,0
+Inter,AC Milan,9,17580000
+Inter,AC Parma,9,56340000
+Inter,AS Livorno,10,1100000
+Inter,AS Roma,13,55000000
+Inter,Ancona,9,115000
+Inter,Atalanta BC,12,41550000
+Inter,Bologna,21,26020000
+Inter,Cagliari,20,4260000
+Inter,Chelsea,10,153860000
+Inter,Chievo Verona,13,1550000
+Inter,Cremonese,11,0
+Inter,FC Empoli,9,0
+Inter,Genoa,26,62300000
+Inter,Lazio,10,18000000
+Inter,Monza,14,6400000
+Inter,Parma,18,21750000
+Inter,Prato,10,0
+Inter,Reggina,10,550000
+Inter,Sampdoria,23,37600000
+Inter,Sassuolo,12,34120000
+Inter,Spezia,12,0
+Inter,Ternana,12,3270000
+Inter,Torino,14,8100000
+Inter,Vicenza,11,250000
+Inter B,Internacional,48,0
+Inter Bratislava,AS Trencin,12,0
+Inter Youth,Como Youth,16,0
+Inter Youth,Monza Giovanili,11,0
+Inter Youth,Novara Youth,11,0
+Inter Youth,Renate Gio,9,0
+Inter Youth,Sesto Giovanili,13,0
+Inter Zapresic,Dinamo Zagreb,19,2040000
+Inter Zapresic,NK Lokomotiva,16,0
+Inter Zapresic,Slaven Belupo,11,0
+Internacional,Atlético-GO,18,0
+Internacional,Avaí FC,12,0
+Internacional,Botafogo,17,955000
+Internacional,Brasil Pelotas,9,0
+Internacional,Ceará SC,16,670000
+Internacional,Chapecoense,13,0
+Internacional,Corinthians,9,1100000
+Internacional,Coritiba FC,16,1000000
+Internacional,Criciúma EC,18,0
+Internacional,Cruzeiro,12,6700000
+Internacional,EC Bahia,21,745000
+Internacional,EC Vitória,16,0
+Internacional,Figueirense FC,14,0
+Internacional,Fluminense,13,1500000
+Internacional,Fortaleza,12,0
+Internacional,Goiás,15,0
+Internacional,Juventude,11,0
+Internacional,Náutico,14,0
+Internacional,Palmeiras,13,10500000
+Internacional,Paraná,15,0
+Internacional,Ponte Preta,11,0
+Internacional,Portuguesa,12,0
+Internacional,Santos,14,15250000
+Internacional,Sport Recife,28,0
+Internacional,São Paulo,10,1000000
+Internacional,Vasco da Gama,21,5300000
+Inverness CT,Aberdeen FC,9,0
+Inverness CT,Brora Rangers,11,0
+Inverness CT,Clachnacuddin,11,0
+Inverness CT,Elgin City,13,0
+Inverness CT,Livingston FC,9,150000
+Inverness CT,Ross County,14,0
+Ipatinga FC,Cruzeiro,28,780000
+Ipswich,Charlton,11,6880000
+Ipswich,Crystal Palace,10,1350000
+Ipswich,Leicester,10,4500000
+Ipswich,Millwall,10,245000
+Ipswich,Portsmouth,9,450000
+Iraklis,AE Larisa,10,0
+Irapuato,Celaya,10,0
+Irapuato,Tiburones Rojos,11,0
+Iraty,Londrina-PR,17,0
+Ischia,Casertana,9,0
+Istanbulspor,Adanaspor,12,0
+Istanbulspor,Eyüpspor,11,0
+Istanbulspor,Galatasaray,9,500000
+Istres FC B,FC Istres,15,0
+Ituano,Desp. Brasil,15,0
+Ituano,Fortaleza,9,350000
+Ituano,Palmeiras,11,0
+Ituano,Paraná,17,0
+Ituano,Ponte Preta,11,500000
+Ituano,São Paulo,9,550000
+Ituano,Tombense,9,0
+JK Viljandi,FC Flora,9,0
+Jablonec,Slavia Prague,13,3190000
+Jablonec,Sparta Prague,10,3690000
+Jablonec 97,Sparta Prague,17,550000
+Jablonec B,Varnsdorf,12,0
+Jacuipense-BA,EC Vitória,11,0
+Jagiellonia,Korona Kielce,14,695000
+Jagiellonia,Raków,9,395000
+Jagiellonia,Wigry Suwalki,20,0
+Jaguares,Atlante,9,0
+Jaguares,León,9,0
+Jaguares,Monarcas Morelia,13,0
+Jaguares,Puebla FC,11,0
+Jarota Jarocin,Warta Poznan,13,0
+Jeonbuk Hyundai,Sangju Sangmu,12,0
+Jeonbuk Hyundai,Suwon FC,15,0
+Jihlava,Mlada Boleslav,9,0
+Jihlava,Slavia Prague,9,560000
+Jihlava B,Jihlava,11,0
+Joinville EC B,Joinville-SC,9,0
+Joinville-SC,EC Vitória,9,0
+Joinville-SC,Paraná,13,0
+Joinville-SC,Paysandu,10,0
+Joinville-SC,Tombense,9,0
+Jong Genk,KRC Genk,12,0
+Jong KAA Gent,KAA Gent,10,0
+Jong KVM,KV Mechelen,14,0
+Juniors OÖ,LASK,21,0
+Juve Next Gen,Juventus,10,0
+Juve Stabia ,Atalanta BC,10,1000000
+Juventude,Brasil Pelotas,9,0
+Juventude,Coritiba FC,10,0
+Juventude,Criciúma EC,10,79000
+Juventude,Figueirense FC,10,0
+Juventude,Fluminense,9,0
+Juventude,Grêmio,23,530000
+Juventude,Guarani,9,0
+Juventude,Internacional,14,1015000
+Juventude,Mirassol-SP,9,0
+Juventude,Palmeiras,14,3500000
+Juventude,São Caetano,9,0
+Juventude,Tombense,12,0
+Juventude B,Juventude,24,0
+Juventus,AC Siena,18,8950000
+Juventus,Ascoli,9,2003000
+Juventus,Atalanta BC,15,47150000
+Juventus,Bari,10,5350000
+Juventus,Bologna,21,25817000
+Juventus,Cagliari,15,27490000
+Juventus,Carrarese,10,0
+Juventus,Cesena,10,500000
+Juventus,FC Crotone,11,0
+Juventus,FC Empoli,18,6900000
+Juventus,Fiorentina,18,55340000
+Juventus,Genoa,28,86870000
+Juventus,Hellas Verona,15,2280000
+Juventus,Lazio,11,27270000
+Juventus,Perugia,16,2500000
+Juventus,Pescara,18,5600000
+Juventus,Pro Vercelli,9,1970000
+Juventus,Sampdoria,22,49250000
+Juventus,Sassuolo,14,54950000
+Juventus,Vicenza,11,3500500
+Juventus Youth,Pro Vercelli Yo,12,0
+Júbilo Iwata,Shonan Bellmare,9,0
+K. Erciyesspor,C. Rizespor,10,1200000
+K. Offenbach,FSV Frankfurt,10,0
+K.misleny Yth.,Pécsi MFC Yth.,24,0
+KAA Gent,Cercle Brugge,9,0
+KAA Gent,KV Kortrijk,14,0
+KAA Gent,KV Mechelen,9,1000000
+KAA Gent,Standard Liège,11,8200000
+KAA Gent,Waasland-Beveren,11,0
+KAA Gent,Zulte Waregem,17,1600000
+KKS Kalisz,Arka Gdynia,12,0
+KRC Genk,Heusden-Zolder,9,0
+KRC Genk Youth,Jong Genk,9,0
+KS Samara,Anzhi,9,8500000
+KS Samara,FK Sochi,9,3800000
+KS Samara,Rubin Kazan,10,0
+KS Samara,Spartak Moscow,22,9310000
+KSZO Ostrowiec,Klimontowianka ,9,0
+KV Kortrijk,KAA Gent,23,11625000
+KV Kortrijk,RSC Anderlecht,10,1200000
+KV Kortrijk,Zulte Waregem,9,0
+KV Mechelen,Helmond Sport,10,0
+KV Mechelen,KAA Gent,10,7050000
+KV Mechelen,KVC Westerlo,10,0
+KV Mechelen,Royal Antwerp,14,0
+KV Mechelen,Standard Liège,10,5900000
+KV Turnhout,Lierse SK,10,0
+KVC Westerlo,KFC Houtvenne,9,0
+KVC Westerlo,RSC Anderlecht,9,1200000
+Kahramanmaras,Fethiyespor,11,0
+Kalmar FF,J-Södra IF,9,0
+Kalmar FF,Oskarshamns AIK,10,0
+Kansas Academy,Swope Park,26,0
+Kansas City,Swope Park,34,0
+Karabükspor Yth,Karabükspor,9,0
+Karagümrük,Fenerbahce,12,4000000
+Kardemir Karabük,Ankara Demir,9,0
+Kardemir Karabük,Iskenderun DC,12,0
+Karlsruher SC,Erzgebirge Aue,10,1000000
+Karlsruher SC,SC Freiburg,9,1200000
+Karpaty Lviv,Shakhtar D.,16,3200000
+Karpaty-2,Karpaty Lviv,14,0
+Karsiyaka,Elazigspor ,10,200000
+Karsiyaka,Kardemir Karabük,10,0
+Karsiyaka Yth,Karsiyaka,19,0
+Karvina,Banik Ostrava,13,0
+Karvina,Slavia Prague,9,1200000
+Kashima Antlers,Cerezo Osaka,9,0
+Kashima Antlers,Monte. Yamagata,13,0
+Kashima Antlers,Shonan Bellmare,11,0
+Kashima Antlers,Tokyo Verdy,9,0
+Kashima Antlers,Vegalta Sendai,13,0
+Kashiwa Reysol,Albirex Niigata,11,0
+Kashiwa Reysol,Monte. Yamagata,11,0
+Kashiwa Reysol,Shonan Bellmare,9,0
+Kawasaki Front.,Monte. Yamagata,9,0
+Kayserispor,Fenerbahce,9,21000000
+Kayserispor,Galatasaray,11,11350000
+Kayserispor,Genclerbirligi,9,0
+Kayserispor,K. Erciyesspor,14,0
+Kayserispor,Konyaspor,12,700000
+Kayserispor,Trabzonspor,13,12700000
+Kazincbarcika,Diósgyőr,12,0
+Kazincbarcika,FC Tiszaújváros	,12,0
+Kazincbarcika,Mezőkövesd,10,0
+Kazincbarcika,Putnok,12,0
+Keciörengücü,Bugsas Spor,20,0
+Kecskeméti TE,Debrecen,10,200000
+Kecskeméti TE,Vasas SC,9,0
+Keflavík Yth.,Keflavík,9,0
+Keskinspor,Altay SK,10,0
+Kettering,Northampton,11,0
+Khimki,Baltika,10,250000
+Khimki,Spartak Moscow,9,0
+Khimki,Tom Tomsk,10,100000
+Khimki,Torpedo Moskau,10,1515000
+Kilmarnock FC,Dunfermline A.,9,0
+Kilmarnock FC,Queen o. t. S.,15,0
+Kilmarnock FC,St. Mirren,12,0
+Kocaelispor,Körfez FK,11,0
+Konyaspor,A. Selcukspor,14,0
+Konyaspor,Ankaragücü,12,0
+Konyaspor,C. Rizespor,9,120000
+Konyaspor,Denizlispor,10,0
+Konyaspor,Giresunspor,9,0
+Konyaspor,Samsunspor,9,0
+Koprivnica,Slaven Belupo,25,0
+Korona Kielce,Cracovia,9,75000
+Korona Kielce,Gornik Leczna,9,0
+Korona Kielce,LKS Lodz,9,0
+Korona Kielce,Widzew Lodz,11,2250000
+Kosice,Slavoj Trebisov,9,0
+Kosice,Tatran Presov,9,0
+Kozármisleny ,Pécsi MFC,39,0
+Krasnodar,Arsenal Tula,9,0
+Krasnodar 2,Krasnodar,24,0
+Kristiansund,Molde FK,9,0
+Kryvbas,Dnipro,46,200000
+Kryvbas,Dynamo Kyiv,10,0
+Kryvbas,Karpaty Lviv,9,500000
+Kryvbas,Metalurg Z.,9,0
+Kryvbas,Naftovyk,11,0
+Kryvbas,Zorya Lugansk,10,0
+Kuban Krasnodar,Anzhi,11,23000000
+L'Aquila,Giulianova,11,0
+L'Aquila,Pescara,12,0
+LAFC,LV Lights,19,0
+LAFC,Phoenix Rising,12,0
+LAFC 2,LAFC,9,0
+LAFC Academy,LAFC 2,12,0
+LAFC Academy,LV Lights,12,0
+LASK,Admira Wacker,10,0
+LASK,Amateure OÖ,12,0
+LASK,Austria Vienna,10,1900000
+LASK,Blau Weiss Linz,9,0
+LASK,Juniors OÖ,15,0
+LASK,SV Ried,11,0
+LB Châteauroux,FC Metz,10,0
+LKS Lodz,Górnik Zabrze,10,225000
+LKS Lodz,Piotrcovia Piotrków Trybunalski,11,0
+LKS Lodz,Tur Turek,10,0
+LOSC Lille,Mouscron,16,200000
+LOSC Lille B,LOSC Lille,56,0
+LOSC Lille B,Mouscron,20,0
+LV Lights,LAFC,21,0
+LV Lights,LAFC Academy,11,0
+La Duchère B,Lyon La Duchère,13,0
+La Piedad,Alacranes,9,0
+Lagartos,Delfines,10,0
+Landskrona,Malmö FF,12,0
+Lanús,Arsenal Sarandí,16,0
+Lanús,Atlanta,13,13860000
+Lanús,Defensa,11,0
+Lanús,Godoy Cruz,10,0
+Lanús,Huracán,12,0
+Lanús,Rosario Central,11,0
+Latina Calcio,Parma,10,400000
+Lausanne-Sport,BSC Young Boys,10,3500000
+Lausanne-Sport,ES Malley,10,0
+Lausanne-Sport,Grasshoppers,10,2250000
+Lausanne-Sport,Le Mont LS,15,0
+Lausanne-Sport,Neuchâtel Xamax,10,0
+Lausanne-Sport,OGC Nice,12,2500000
+Lausanne-Sport,Servette FC,9,0
+Lausanne-Sport,Stade Nyonnais,17,0
+Lausanne-Sport,StadeLO,11,0
+Lausanne-Sport,Yverdon Sport,15,0
+Lazio,Atalanta BC,10,7120000
+Lazio,Fiorentina,9,5500000
+Lazio,Genoa,13,4750000
+Lazio,Inter,19,162830000
+Lazio,Juventus,13,84900000
+Lazio,Salernitana,42,2580000
+Lazio Youth,AS Rom Youth,12,0
+Le Havre B,Le Havre AC,79,0
+Le Mans FC B,Le Mans FC,34,0
+Le Mont LS,Azzurri LS,9,0
+Le Mont LS,Yverdon Sport,14,0
+Lecce,AC Milan,12,550000
+Lecce,AS Roma,12,19110000
+Lecce,Atalanta BC,9,31400000
+Lecce,Catanzaro,10,0
+Lecce,Fiorentina,10,31800000
+Lecce,Paganese,10,0
+Lecce,Parma,13,1000000
+Lecce,Salernitana,9,0
+Lecce,Sampdoria,10,2000000
+Lecco,Atalanta BC,13,0
+Lech Poznan,Arka Gdynia,9,0
+Lech Poznan,GKS Katowice,9,0
+Lech Poznan,Korona Kielce,9,625000
+Lech Poznan,Warta Poznan,17,0
+Lech Poznan,Widzew Lodz,12,50000
+Lechia Gdansk,Jagiellonia,9,75000
+Leeds,Blackburn,10,0
+Leeds,Hull City,9,0
+Leeds,Millwall,10,0
+Leeds,Stoke City,10,1000000
+Leeds,Sunderland,12,1750000
+Leeds,Swindon Town,9,0
+Leeds,Tottenham,13,66950000
+Legia Warszawa,Arka Gdynia,13,55000
+Legia Warszawa,Dolcan Zabki,9,0
+Legia Warszawa,LKS Lodz,9,0
+Legia Warszawa,Piast Gliwice,14,455000
+Legia Warszawa,Ruch Chorzow,9,25000
+Legia Warszawa,Z. Sosnowiec,9,0
+Legnago Gio.,Legnago,10,0
+Leicester,Blackpool,11,1572000
+Leicester,Burton Albion,10,0
+Leicester,Derby,11,7800000
+Leicester,Hull City,11,4295000
+Leicester,Ipswich,11,17550000
+Leicester,Leeds,13,13850000
+Leicester,Preston,10,750000
+Leiria,Coimbra,12,0
+Leiria,FC Porto,12,4250000
+Leiria Sub-15,Leiria Sub-17,12,0
+Leixões,Pedras Rubras,9,0
+Lemona,Barakaldo CF ,9,0
+Lens,Marseille,10,51600000
+Lens,Stade Brestois,9,3700000
+Lens,Stade Rennais,14,66000000
+Levante,Málaga CF,12,120000
+Levante,Real Valladolid,13,800000
+Levante B,Levante,13,0
+Leyton Orient,Millwall,9,0
+Leyton Orient,Tottenham,11,0
+León,Atlante,14,0
+León,Atlas,10,0
+León,Chivas,12,11700000
+León,Dorados Sinaloa,14,0
+León,Min. Zacatecas,11,0
+León,Monterrey,11,6670000
+León,Pachuca,21,0
+León,Puebla FC,12,0
+León,Toluca,11,7500000
+Liaoning FC,Liaoning Res.,13,0
+Liaoning Res.,Liaoning FC,12,0
+Liefering Yth.,Salzburg Youth,11,0
+Lierse SK,KV Turnhout,15,0
+Lillestrøm,Molde FK,11,1125000
+Lillestrøm Yth.,Lillestrøm,13,0
+Lincoln City,Forest,10,0
+Lincoln City,Peterborough,12,75000
+Lipt. Mikulas,Zavazna Poruba,15,0
+Lisen,Zbrojovka Brno,10,0
+Liverpool,Bolton,9,10900000
+Liverpool,Leicester,9,15700000
+Liverpool,West Ham,10,42020000
+Liverpool Res.,Liverpool,12,0
+Livingston FC,Arbroath,10,0
+Livingston FC,Heart of Midl.,14,0
+Livingston FC,Morton,18,0
+Livingston FC,Partick Thistle,16,0
+Livingston FC,Raith Rovers,15,0
+Livingston FC,Ross County,10,33000
+Lodigiani Youth,AS Lodigiani,20,0
+Logroñés Prom.,Náxara CD,9,0
+Lok. Kosice,Kosice,9,0
+Loko Moskau,Kuban Krasnodar,9,1500000
+Loko Moskau,Rostov,9,1500000
+Loko-Kazanka M.,Loko Moscow,14,0
+Londrina-PR,Chapecoense,11,390000
+Londrina-PR,Coritiba FC,17,0
+Londrina-PR,EC Vitória,9,0
+Londrina-PR,Iraty,10,0
+Londrina-PR,Linense,9,0
+Londrina-PR,Maringá,9,0
+Lorient B,Concarneau,9,0
+Lorient B,FC Lorient,51,0
+Los Andes,Almagro,9,0
+Lou City YA,Louisville City,21,0
+Louisville City,Lou City YA,15,0
+Lourinhanense,Sporting CP,12,0
+Lucchese,Carrarese,9,0
+Lucchese,Cesena,9,0
+Lucchese,FC Empoli,11,0
+Lucchese,Genoa,10,1400000
+Lugo Polvorín,CD Lugo,14,0
+Lumezzane,Brescia,9,1000
+Lumezzane,Chievo Verona,21,0
+Luton,Charlton,15,1397000
+Luton,Dag & Red FC,11,0
+Luverdense-MT,Mixto-MT,10,0
+Lyngby BK,Bröndby IF,9,1047000
+Lyngby BK,Nordsjaelland,16,3570000
+M. Tel Aviv,Bnei Yehuda,9,0
+M.Impact Academy,Montreal,11,0
+MAS Taborsko,C. Budejovice,10,0
+MAS Taborsko,Pisek,10,0
+MFK Vyskov,Blansko,11,0
+MK Dons,Charlton,9,1870000
+MK Dons,Norwich,10,180000
+MSK Zilina,FC ViOn,13,0
+MSK Zilina B,MSK Zilina,12,0
+MSV Duisburg,F. Düsseldorf,9,250000
+MTK Budapest,BFC Siófok,14,0
+MTK Budapest,ETO FC Győr ,10,0
+MTK Budapest,Ferencváros,9,200000
+MTK Budapest,Haladás,9,0
+MTK Budapest,Mezőkövesd,10,150000
+MTK Budapest,Nyíregyháza,11,0
+MTK Budapest,Paksi FC,17,0
+MTK Budapest,Pécsi MFC,11,0
+MTK Budapest,Szeged,9,0
+MTK Budapest,Vasas FC,9,0
+MTK Budapest,Vasas SC,10,0
+MTK Budapest,Videoton FC,9,1600000
+MTK Budapest,Zalaegerszeg,11,170000
+MTK Budapest,Újpest FC,9,0
+MTK Hungária,BKV Előre,9,0
+MVV 19,MVV Maastricht,17,0
+MVV Maastricht,Roda JC,11,380000
+MVV Youth,MVV 19,11,0
+Madureira,Vasco da Gama,10,0
+Maia Sub-15,Maia Sub-17,12,0
+Malmö FF,BK Olympic,10,0
+Malmö FF,Landskrona,12,0
+Malmö FF,Mjällby AIF,9,0
+Malmö FF,Trelleborg,15,0
+Man City,Burnley,11,24575000
+Man City,Cardiff,10,0
+Man City,Girona,17,5000000
+Man City,Leicester,9,29200000
+Man City,Portsmouth,10,3740000
+Man City,Sunderland,11,26600000
+Manisa FK,Pendikspor ,11,0
+Manisaspor,Konyaspor,10,0
+Mansfield Town,Alfreton,11,0
+Mansfield Town,Forest Green,9,0
+Mansfield Town,Grimsby Town,9,120000
+Mansfield Town,York City,11,0
+Mantova,Hellas Verona,14,0
+Marignane GFC,Marignane GCB,10,0
+Maringá,Coritiba FC,11,0
+Marseille,AC Ajaccio,10,0
+Marseille,FC Lorient,14,20000000
+Marseille,OGC Nice,9,6500000
+Marseille B,Marseille,40,0
+Marítimo,FC Porto,13,9700000
+Marítimo,Marítimo B,11,0
+Marítimo,SC Braga,9,4546000
+Marítimo B,Marítimo,36,0
+Marítimo Y,Marítimo S15,20,0
+Mazorqueros,Atlético La Paz,10,0
+Merinosspor,Bursaspor,28,0
+Mersin IY,Adana Demirspor,9,0
+Mersin IY,Tarsus IY,9,0
+Metalist,SC Dnipro-1,12,0
+Metalist Kharkiv,Arsenal Kharkiv,9,0
+Metalist Kharkiv,Shakhtar D.,9,32240000
+Metalist Kharkiv,Vorskla Poltava,11,0
+Metalurg D.,Kryvbas,11,250000
+Metalurg D.,Shakhtar D.,9,10170000
+Metalurg-2,Metalurg Z.,21,0
+Mexiquense,Toluca,23,0
+Meyrin FC,Etoile Carouge,11,0
+Meyrin FC,Servette FC,10,0
+Mezőkövesd,Diósgyőr,9,100000
+Mezőkövesd,ETO FC Győr ,10,0
+Mezőkövesd,Felsötárkány,10,0
+Mezőkövesd,Haladás,9,0
+Mezőkövesd,Kazincbarcika,11,0
+Mezőkövesd,Nyíregyháza,10,0
+Mezőkövesd,Paksi FC,11,0
+Mezőkövesd,Szolnok,9,0
+Miami,Fort Lauderdale,9,0
+Miami FC,Miami FC 2,9,0
+Michalovce,Tatran Presov,9,0
+Middlesbrough,Aston Villa,9,35800000
+Middlesbrough,Birmingham,9,1675000
+Middlesbrough,Blackpool,10,0
+Middlesbrough,Bradford,9,0
+Middlesbrough,Chelsea,9,0
+Middlesbrough,Darlington,9,0
+Middlesbrough,Fulham,11,8650000
+Middlesbrough,Hartlepool,11,0
+Middlesbrough,Leeds,9,13000000
+Middlesbrough,Millwall,13,8650000
+Middlesbrough,Rotherham,14,220000
+Middlesbrough,Sheff Wed,11,17600000
+Middlesbrough,Stoke City,9,13075000
+Milan,Calcio Monza,10,0
+Milan,Prato,9,0
+Millwall,Brentford,13,260000
+Millwall,Derby,9,110000
+Millwall,Forest,10,5200000
+Millwall,Gillingham,9,575000
+Millwall,Leyton Orient,14,0
+Millwall,Tottenham,9,0
+Millwall,Wolves,11,820000
+Min. Zacatecas,Correcaminos,9,0
+Min. Zacatecas,Pachuca,13,0
+Mineros FC,Min. Zacatecas,10,0
+Mirassol-SP,América-MG,10,0
+Mirassol-SP,Atlético-GO,9,0
+Mirassol-SP,Avaí FC,9,0
+Mirassol-SP,Botafogo-SP,9,0
+Mirassol-SP,CSA,9,0
+Mirassol-SP,Ceará SC,9,0
+Mirassol-SP,Coritiba FC,13,1366000
+Mirassol-SP,Criciúma EC,10,0
+Mirassol-SP,Guarani,13,0
+Mirassol-SP,Juventude,11,720000
+Mirassol-SP,Operário-PR,12,0
+Mirassol-SP,Ponte Preta,12,0
+Mirassol-SP,Remo,10,0
+Mirassol-SP,São Caetano,9,0
+Mito HollyHock,Sanf. Hiroshima,9,0
+Mjällby AIF,Malmö FF,12,2600000
+Mjøndalen,Strømsgodset,10,420000
+Ml. Boleslav B,Mlada Boleslav,11,0
+Ml. Boleslav B,Varnsdorf,9,0
+Mlada Boleslav,Bohemians 1905,10,0
+Mlada Boleslav,C. Budejovice,13,0
+Mlada Boleslav,Hradec Kralove,14,0
+Mlada Boleslav,Jihlava,9,0
+Mlada Boleslav,Karvina,9,0
+Mlada Boleslav,Pardubice,12,0
+Mlada Boleslav,Slavia Prague,23,7980000
+Mlada Boleslav,Sparta Prague,19,1550000
+Mlada Boleslav,Teplice,11,0
+Mlada Boleslav,Varnsdorf,10,0
+Mlada Boleslav,Viktoria Plzen,16,1400000
+Modena,Atalanta BC,10,0
+Modena,Chievo Verona,20,800000
+Modena,Juventus,9,960000
+Modena,Sampdoria,13,0
+Molde FK,Kristiansund,14,0
+Monaco,AS Nancy,9,5000000
+Monaco,Cercle Brugge,24,0
+Monaco,FC Lorient,9,3500000
+Monaco,Marseille,10,25000000
+Monaco,OGC Nice,11,34500000
+Monaco B,Cercle Brugge,12,0
+Monaco B,Monaco,68,0
+Monarcas Morelia,Atlas,19,0
+Monarcas Morelia,CD Cruz Azul,13,2300000
+Monarcas Morelia,Correcaminos,9,0
+Monarcas Morelia,Jaguares,10,0
+Monarcas Morelia,León,13,0
+Monarcas Morelia,Mérida FC,18,0
+Monarcas Morelia,Pachuca,15,0
+Monarcas Morelia,Puebla FC,9,0
+Monarcas Morelia,Querétaro FC,10,0
+Monarcas Morelia,Santos Laguna,9,6100000
+Monarcas Morelia,Tiburones Rojos,11,0
+Monopoli ,Potenza,9,0
+Monte. Yamagata,Kashiwa Reysol,10,0
+Montebelluna G.,Montebelluna,9,0
+Monterrey,América,12,2700000
+Monterrey,Atlante,12,0
+Monterrey,Chivas,18,15520000
+Monterrey,León,12,6240000
+Monterrey,Necaxa,15,3500000
+Monterrey,Pachuca,15,0
+Monterrey,Querétaro FC,10,0
+Monterrey,San Luis,13,300000
+Monterrey,Tiburones Rojos,9,0
+Montevarchi,Arezzo,10,0
+Montpellier,Stade Rennais,9,32300000
+Montpellier B,Montpellier,62,0
+Montreal,FC Montréal,9,0
+Montrose,Dundee FC,9,0
+Monza,Giana Erminio,9,0
+Monza,Inter,9,13250000
+Monza,Lecco,11,0
+Monza Giovanili,Calcio Monza,15,0
+Morecambe FC,Barrow,9,0
+Morecambe FC,Fleetwood,9,0
+Moreirense S15,Moreirense S17,10,0
+Morelia,Mazatlán FC,15,0
+Morton,Livingston FC,15,0
+Mosonmagyaróvár,Gyirmót FC,11,0
+Motherwell B,Motherwell FC,16,0
+Motherwell FC,Celtic,10,7125000
+Motherwell FC,Heart of Midl.,10,0
+Motherwell FC,St. Mirren,10,0
+Motor Lublin,Gornik Leczna,9,0
+Mouscron,LOSC Lille,14,0
+Mouscron,LOSC Lille B,11,0
+Murcia Imperial,Real Murcia,25,0
+Málaga B,Málaga CF,17,0
+Málaga CF,CD Leganés,9,8700000
+Mérida FC,Monarcas Morelia,17,0
+NAC Breda,Ajax,9,750000
+NAC Breda,Feyenoord,12,0
+NAC Breda,Helmond Sport,9,0
+NCFC Academy,North Carolina,37,0
+ND Gorica,Parma,26,300000
+NEC Nijmegen,TOP Oss,10,0
+NEC Nijmegen,Twente FC,10,1900000
+NK Imotski,RNK Split,16,0
+NK Istra,Alavés B,10,0
+NK Istra,Dinamo Zagreb,14,4900000
+NK Istra,HNK Rijeka,13,0
+NK Jarun,NK Lokomotiva,16,0
+NK Kustosija,NK Lokomotiva,10,0
+NK Kustosija,NK Rudes,11,0
+NK Lokomotiva,Dinamo Zagreb,87,15600000
+NK Lokomotiva,HNK Gorica,12,500000
+NK Lokomotiva,Hrv Dragovoljac,17,0
+NK Lokomotiva,Inter Zapresic,25,0
+NK Lokomotiva,NK Jarun,15,0
+NK Lokomotiva,NK Kustosija,9,0
+NK Lokomotiva,NK Lucko,18,0
+NK Lokomotiva,NK Rudes,23,0
+NK Lokomotiva,NK Sesvete,9,0
+NK Lucko,NK Lokomotiva,19,0
+NK Nafta 1903,Zalaegerszeg,23,0
+NK Orijent 1919,HNK Rijeka,10,0
+NK Osijek,HNK Rijeka,11,1020000
+NK Osijek,Zalaegerszeg,9,0
+NK Pomorac,HNK Rijeka,11,0
+NK Rudes,Hrv Dragovoljac,15,0
+NK Rudes,NK Kustosija,12,0
+NK Rudes,NK Lokomotiva,21,0
+NK Sesvete,NK Lokomotiva,13,0
+NK Zadar ,Hajduk Split,14,400000
+NK Zadar ,NK Primorac (B),9,0
+NK Zagreb,Hajduk Split,9,300000
+NYCFC Academy,New York City,9,0
+NYRB Academy,New York,10,0
+Nacional,Defensor SC,9,0
+Nacional,Olimpia,9,1100000
+Nacional,River Plate,11,180000
+Nacional B,Nacional,14,0
+Nagoya Grampus,Tokushima Vort.,19,0
+Nantwich Town,Crewe Alexandra,12,0
+Napoli,AC Parma,9,15050000
+Napoli,Bari,16,300000
+Napoli,Bologna,9,2000000
+Napoli,Cagliari,11,38800000
+Napoli,Carpi,10,0
+Napoli,Chievo Verona,10,300000
+Napoli,Cosenza,10,0
+Napoli,Crotone,12,243000
+Napoli,FC Empoli,15,3700000
+Napoli,Fiorentina,9,10330000
+Napoli,Inter,10,7550000
+Napoli,Juventus,10,116330000
+Napoli,Parma,22,44330000
+Napoli,Perugia,9,0
+Napoli,Pescara,10,275000
+Napoli,Reggina,9,0
+Napoli,Salernitana,9,0
+Napoli,Sampdoria,14,24000000
+Napoli,Torino,12,25400000
+Naval 1º de Maio,SC Covilhã,11,0
+Necaxa,América,28,4380000
+Necaxa,Atlas,12,0
+Necaxa,CD Cruz Azul,13,13770000
+Necaxa,Chivas,14,23020000
+Necaxa,Monterrey,16,1700000
+Necaxa,Puebla FC,11,0
+Necaxa,San Luis,26,3500000
+Necaxa,Tiburones Rojos,11,0
+Neftekhimik,Rubin Kazan,16,1410000
+Neuchâtel Xamax,BSC Young Boys,13,2350000
+Neuchâtel Xamax,FC Sion,11,0
+Neuchâtel Xamax,Servette FC,9,1000000
+Neuchâtel Xamax,Yverdon Sport,11,0
+Newcastle,Forest,11,67000000
+Newcastle,QPR,11,0
+Newcastle,Western Sydney,10,0
+Newell's,Atl. Tucumán,10,0
+Newell's,Estudiantes LP,9,2810000
+Newell's,Godoy Cruz,14,1210000
+Newell's,Lanús,9,700000
+Newell's,Racing Club,12,700000
+Newell's,River Plate,16,13610000
+Newport County,Cardiff,9,35000
+Newport County,Swansea,9,0
+Nieciecza,GKS Katowice,10,0
+Nielba,Warta Poznan,9,0
+Nigde Anadolu,Altinordu,45,0
+Niort B,Chamois Niort,56,0
+Nordsjaelland,Akademisk BK,9,0
+Nordsjaelland,FC Copenhagen,9,8770000
+Nordsjaelland,FC Helsingør,9,0
+Nordsjaelland,HB Köge,11,0
+Norrköping,Sylvia,39,0
+North Carolina,NCFC Academy,32,0
+North Texas SC,Dallas,38,0
+North Texas SC,Dallas Academy,29,0
+Northampton,Brackley,10,0
+Northampton,Kettering,14,0
+Norwich,Bournemouth,12,18116000
+Norwich,MK Dons,12,0
+Norwich,Preston,10,1740000
+Notts County,Derby,10,6160000
+Notts County,Forest,13,0
+Notts County,Lincoln City,10,0
+Notts County,Mansfield Town,10,0
+Novara,Genoa,9,0
+Novorizontino,Cuiabá-MT,10,0
+Nyíregyháza,Bőcs KSC,9,0
+Nyíregyháza,Cigánd,13,0
+Nyíregyháza,Debrecen,16,0
+Nyíregyháza,ETO FC Győr ,11,0
+Nyíregyháza,Mezőkövesd,12,0
+Nyíregyháza,Nyirbátor,11,0
+Nyíregyháza,Puskás AFC,9,0
+Nyíregyháza,Pécsi MFC,11,300000
+Nyíregyháza,Szolnok,9,0
+Náutico,Atlético-PR,12,0
+Náutico,Ceará SC,10,180000
+Náutico,Cruzeiro,10,671000
+Náutico,EC Vitória,9,0
+Náutico,Flamengo,9,1600000
+Náutico,Fluminense,11,0
+Náutico,Internacional,14,0
+Náutico,Palmeiras,12,0
+Náutico,Paysandu,10,0
+Náutico,Ponte Preta,9,0
+Náutico,Santa Cruz-PE,15,0
+Náutico,Tombense,13,0
+Náutico B,Náutico,21,0
+Nîmes B,Nîmes Olympique,50,0
+Nürnberg Yth.,B. München Yth.,10,0
+OCSC Academy,Orange County,12,0
+OFI Crete FC,Ergotelis,11,0
+OFI Crete FC,Olympiacos,12,630000
+OFI Crete FC,Panathinaikos,13,230000
+OGC Nice,Lausanne-Sport,12,0
+OGC Nice B,OGC Nice,58,0
+OH Leuven,Royal Antwerp,12,5000000
+Oakland Roots,Project 51O,34,0
+Obolon Kyiv,Kryvbas,10,80000
+Odd Youth,Odd Grenland,11,0
+Odense BK,FC Copenhagen,9,3100000
+Odense BK,Lyngby BK,11,0
+Odense BK,Randers FC,9,0
+Odense BK,SönderjyskE,11,0
+Odeva Lipany,Tatran Presov,9,0
+Odra Wodzislaw,Grodzisk,9,70000
+Odra Wodzislaw,Ruch Chorzow,9,0
+Oeiras S15,Oeiras S17,9,0
+Oeste,ABC FC,9,0
+Oeste,Corinthians,11,0
+Oeste,GO Audax,16,0
+Oeste,Palmeiras,21,1130000
+Oeste,São Caetano,11,0
+Oita Trinita,Albirex Niigata,9,0
+Oita Trinita,Cerezo Osaka,11,0
+Olaria,EC Bahia,9,0
+Olbia,Cagliari,31,1205000
+Oldham Athletic,Blackpool,11,525000
+Oldham Athletic,Rochdale,9,160000
+Oldham Athletic,Stockport,14,0
+Olhanense,FC Porto,9,1200000
+Olimpia,Nacional,9,0
+Olimpo,Huracán,9,1750000
+Olimpo,Independiente,10,207000
+Olimpo,San Lorenzo,10,600000
+Olomouc B,Sigma Olomouc,39,0
+Olymp. Lyon B,Olympique Lyon,87,0
+Olympiacos,APO Levadiakos,11,0
+Olympiacos,APOEL Nicosia,10,500000
+Olympiacos,Aris Saloniki,14,100000
+Olympiacos,Atromitos,17,0
+Olympiacos,Ergotelis,10,0
+Olympiacos,Forest,17,6100000
+Olympiacos,OFI Crete FC,12,0
+Olympiacos,Panionios,15,0
+Olympiacos,Rio Ave,9,500000
+Olympiacos B,Olympiacos,10,0
+Olympique Lyon,OGC Nice,11,35500000
+Olympique Lyon,Stade Rennais,9,15000000
+Olympique Lyon,Troyes,12,3800000
+Operário,Santa Clara,11,0
+Operário-PR,Mirassol-SP,12,0
+Orange County,OCSC Academy,11,0
+Orduspor,Adana Demirspor,9,0
+Orduspor,Bulancakspor,12,0
+Orduspor,Sanliurfaspor ,9,0
+Orlando,Orlando City B,25,0
+Orlando Academy,Orlando City B,25,0
+Orlando City B,Orlando,33,0
+Orlando City B,Orlando Academy,17,0
+Osasco-SP,Caldense,16,0
+Osasuna B,CA Osasuna,65,0
+Oskarshamns AIK,Kalmar FF,9,0
+Osmanlispor FK,Bugsas Spor,15,0
+Ottawa Fury,Montreal,9,0
+Oviedo B,Real Oviedo,15,0
+Oviedo Vetusta,Real Oviedo,21,0
+P. Niepolomice,Cracovia,9,20000
+PAE Veria,Aris Saloniki,10,0
+PAOK Salonika,Atromitos,10,1080000
+PAOK Salonika,OFI Crete FC,11,0
+PAOK Salonika,Panathinaikos,11,4000000
+PAOK Salonika,Panserraikos,18,0
+PAOK Salonika,Volos NPS,10,0
+PAS Giannina,Olympiacos,9,900000
+PAS Giannina,PAOK Salonika,10,1990000
+PAS Giannina,PS Kalamata,11,0
+PFC Oleksandriya,Nyva Vinnytsya,16,0
+PO Atsaleniou,OFI Crete FC,9,0
+PS Kalamata,PAS Giannina,9,0
+PSV Eindhoven,Chelsea,9,60500000
+PSV Eindhoven,Twente FC,11,1900000
+Pachuca,CD Cruz Azul,11,8900000
+Pachuca,Chivas,19,26100000
+Pachuca,Indios,14,0
+Pachuca,León,29,4500000
+Pachuca,Min. Zacatecas,18,0
+Pachuca,Monarcas Morelia,14,0
+Pachuca,Monterrey,13,10480000
+Pachuca,Puebla FC,13,1750000
+Pachuca,Toluca,11,4950000
+Pachuca Jgd.,Tuzos Pachuca,12,0
+Padova,Atalanta BC,11,2000000
+Padova,Chievo Verona,13,0
+Padova,Parma,13,2000000
+Padova,Pescara,9,250000
+Padova,Salernitana,9,0
+Padova,Sassuolo,9,4470000
+Paganese,Parma,9,0
+Paksi FC,BFC Siófok,21,0
+Paksi FC,ETO FC Győr ,10,0
+Paksi FC,MTK Budapest,14,0
+Paksi FC,Mezőkövesd,12,0
+Paksi FC,Nyíregyháza,16,0
+Paksi FC,Szolnok,16,0
+Paksi FC,Zalaegerszeg,10,0
+Palmeiras,Atlético-MG,19,7700000
+Palmeiras,Atlético-PR,10,300000
+Palmeiras,Barueri,9,0
+Palmeiras,Bragantino,12,0
+Palmeiras,Ceará SC,9,0
+Palmeiras,Coritiba FC,17,1100000
+Palmeiras,Cruzeiro,34,3450000
+Palmeiras,Desp. Brasil,21,0
+Palmeiras,EC Bahia,11,0
+Palmeiras,EC Vitória,25,0
+Palmeiras,Figueirense FC,11,0
+Palmeiras,Flamengo,11,700000
+Palmeiras,Fortaleza,9,0
+Palmeiras,Goiás,12,0
+Palmeiras,Grêmio,17,5100000
+Palmeiras,Guarani,10,0
+Palmeiras,Internacional,11,2200000
+Palmeiras,Ituano,9,0
+Palmeiras,Juventude,12,0
+Palmeiras,Náutico,15,0
+Palmeiras,Oeste,20,0
+Palmeiras,Ponte Preta,13,0
+Palmeiras,Portuguesa,10,0
+Palmeiras,RB Bragantino,9,25900000
+Palmeiras,Santa Cruz-PE,9,0
+Palmeiras,Santos,14,2500000
+Palmeiras,Sport Recife,11,0
+Palmeiras,Vasco da Gama,11,0
+Panachaiki,Panegialios,13,0
+Panarkadikos,Asteras Tripoli,11,0
+Panathinaikos,APO Levadiakos,11,0
+Panathinaikos,OFI Crete FC,18,0
+Panathinaikos B,Panathinaikos,9,0
+Panetolikos,AE Larisa,9,60000
+Panionios,AEK Athens,12,3600000
+Panionios,GS Kallithea,9,0
+Panionios,Olympiacos,24,5500000
+Panionios,Panathinaikos,13,3340000
+Panserraikos,AE Larisa,9,0
+Panserraikos,Ap. Paralimniou,9,0
+Panserraikos,Doxa Dramas,13,0
+Panserraikos,PAOK Salonika,18,650000
+Paraná,Atlético-PR,10,0
+Paraná,Avaí FC,19,0
+Paraná,Chapecoense,9,0
+Paraná,Coritiba FC,16,0
+Paraná,Goiás,10,0
+Paraná,Internacional,15,4700000
+Paraná,Iraty,9,0
+Paraná,Ituano,9,0
+Paraná,Palmeiras,9,0
+Paraná,São Paulo,10,0
+Paraná,Tombense,16,0
+Paraná B,Paraná,18,0
+Pardubice,Mlada Boleslav,10,0
+Paris FC B,Paris FC,24,0
+Paris FC Yth.,PSG Youth,10,0
+Paris SG B,Paris SG,43,0
+Parma,AC Milan,10,8800000
+Parma,AC Siena,9,10350000
+Parma,AS Gubbio,24,200000
+Parma,Ascoli,15,1100000
+Parma,Atalanta BC,12,12500000
+Parma,Bari,12,4880000
+Parma,Cesena,22,11900000
+Parma,Cremonese,15,1540000
+Parma,Crotone,25,150500
+Parma,FC Empoli,12,3050000
+Parma,Foggia,9,500
+Parma,Fondi,9,0
+Parma,Frosinone,10,0
+Parma,Genoa,10,18250000
+Parma,Inter,17,42550000
+Parma,Juventus,9,23250000
+Parma,Latina Calcio,12,500000
+Parma,Lecce,13,0
+Parma,ND Gorica,26,0
+Parma,Napoli,17,12200000
+Parma,Padova,15,7250000
+Parma,Perugia,9,280000
+Parma,Pescara,17,2600000
+Parma,Renate,12,0
+Parma,Salernitana,13,2316000
+Parma,Sampdoria,15,11700000
+Parma,Sassuolo,9,13250000
+Parma,Spezia Calcio,10,2500000
+Parma,Torino,12,2250000
+Parma,Trapani,12,0
+Partick Thistle,Dumbarton,9,0
+Partick Thistle,Falkirk,10,70000
+Partick Thistle,Livingston FC,10,0
+Partick Thistle,Rangers,9,0
+Partick Thistle,Rangers B,10,0
+Partick Thistle,Ross County,11,0
+Partizan,Teleoptik,23,0
+Pat's Academy,St. Pat's,11,0
+Patro Eisden,Sport. Hasselt,10,0
+Patronato,Estudiantes LP,9,515000
+Pau FC B,Pau FC,9,0
+Paulista-SP,Atlético-PR,9,0
+Pavia,Cesena,13,400000
+Paysandu,Tombense,9,0
+Pazarspor ,C. Rizespor,16,0
+Paços Ferreira,Arouca,9,0
+Paços Ferreira,Benfica,9,2000000
+Paços Ferreira,SC Braga,11,400000
+Paços Ferreira,SC Covilhã,9,0
+Paços Ferreira,Vit. Guimarães,10,0
+Pedras Salgadas,Chaves,18,0
+Pedras Salgadas,Vizela,10,0
+Penafiel,Académico Viseu,11,0
+Penapolense,Oeste,11,0
+Pendikspor ,Eyüpspor,20,0
+Pendikspor ,Fethiyespor,9,0
+Pendikspor Yth,Pendikspor ,28,0
+Perth Glory,Melb. Victory,9,0
+Perth Glory,Newcastle,11,0
+Perugia,Alessandria,9,0
+Perugia,Ancona,9,0
+Perugia,Atalanta BC,15,2600000
+Perugia,Catania,18,800000
+Perugia,Cosenza,9,300000
+Perugia,Fiorentina,9,2500000
+Perugia,Genoa,10,0
+Perugia,Hellas Verona,10,2500000
+Perugia,Juventus,15,29900000
+Perugia,Salernitana,12,1700000
+Perugia,Sambenedettese,14,0
+Perugia,Vicenza,15,0
+Pescara,AS Roma,17,4100000
+Pescara,Atalanta BC,12,0
+Pescara,Avellino,9,125000
+Pescara,Bari,9,400000
+Pescara,Benevento,10,2330000
+Pescara,Cagliari,10,6450000
+Pescara,Chievo Verona,12,779000
+Pescara,Frosinone,16,2060000
+Pescara,Genoa,13,4400000
+Pescara,Juventus,16,8950000
+Pescara,Napoli,9,4000000
+Pescara,Parma,20,5350500
+Pescara,Perugia,9,0
+Pescara,Piacenza,10,700000
+Pescara,Pineto,11,15000
+Pescara,Salernitana,9,600000
+Pescara,Sampdoria,15,10100000
+Pescara,Teramo,22,300000
+Pescara,Ternana,18,700000
+Peterborough,Dag & Red FC,10,0
+Peterborough,Northampton,10,0
+Peterborough,Rotherham,10,600000
+Peterhead,Dundee FC,9,0
+Petrolofisi Yth,Petrolofisi,9,0
+Petrzalka,Slo. Bratislava,12,0
+Philadelphia,Bethlehem Steel,41,0
+Philadelphia,Harrisburg City,15,0
+Phoenix Res.,Wellington,13,0
+Phoenix Rising,FC Tucson,9,0
+Phoenix Rising,LAFC,10,0
+Phoenix Rising,Rising Acad.,14,0
+Piacenza,Atalanta BC,9,0
+Piacenza,Fiorenzuola,12,0
+Piacenza,Pescara,10,200000
+Piacenza,Reggina,10,100000
+Piacenza,Sampdoria,9,7400000
+Piast Gliwice,Legia Warszawa,9,0
+Piotrcovia Piotrków Trybunalski,LKS Lodz,11,0
+Piotrcovia Piotrków Trybunalski,Pogon Szczecin,11,0
+Pisa,Fiorenzuola,12,0
+Pistoiese,AS Roma,10,220000
+Pistoiese,Atalanta BC,11,0
+Pistoiese,FC Empoli,12,0
+Pistoiese,Piacenza,9,100000
+Pistoiese,Prato,12,0
+Platense,Almirante Brown,9,0
+Platense,CA Talleres,11,0
+Plymouth,Blackpool,9,0
+Plymouth,Bristol City,11,200000
+Plymouth,Torquay,14,0
+Plymouth,Truro City FC,9,0
+Pobla de Mafumet CF,Gimnàstic,24,0
+Podbrezova,Banska Bystrica,10,0
+Podbrezova,Pohronie,21,0
+Podbrezova,Tatran Presov,9,0
+Poggibonsi,San Donato,11,0
+Pogon Szczecin,Widzew Lodz,11,0
+Pohronie,Podbrezova,19,0
+Pol. Warsaw,Lech Poznan,9,225000
+Ponferradina,RCD Mallorca,9,0
+Ponte Preta,Atlético-MG,13,1180000
+Ponte Preta,Atlético-PR,13,0
+Ponte Preta,Botafogo-SP,11,0
+Ponte Preta,Chapecoense,9,0
+Ponte Preta,Corinthians,27,4450000
+Ponte Preta,Coritiba FC,12,0
+Ponte Preta,Cruzeiro,14,315000
+Ponte Preta,EC Bahia,9,0
+Ponte Preta,EC Vitória,10,557000
+Ponte Preta,Fluminense,13,1251000
+Ponte Preta,Internacional,12,2000000
+Ponte Preta,Mirassol-SP,18,0
+Ponte Preta,Náutico,9,0
+Ponte Preta,Oeste,9,0
+Ponte Preta,Palmeiras,13,1100000
+Ponte Preta,Santos,11,3400000
+Ponte Preta,São Paulo,10,1250000
+Ponte Preta,Tombense,15,0
+Ponte Preta,Vila Nova FC,9,0
+Ponte Preta,Água Santa-SP,9,0
+Pontedera,FC Empoli,10,0
+Pontedera Gio,Pontedera,11,0
+Pontevedra B,Pontevedra CF,13,0
+Port Vale,Mansfield Town,10,0
+Portimonense,FC Porto,20,20000000
+Portimonense,Portimonense,11,0
+Portimonense,SC Covilhã,11,0
+Portimonense 23,Portimonense,11,0
+Portimonense Yt,Portimonense 15,11,0
+Portland,Portland 2,40,0
+Portland 2,Portland,36,0
+Portland 2,Timbers Academy,31,0
+Portsmouth,Bournemouth,12,0
+Portsmouth,Coventry,15,2525000
+Portsmouth,Havant & Water.,10,0
+Portsmouth,Reading,9,554000
+Portsmouth,Stoke City,11,7425000
+Portsmouth,Swindon Town,11,300000
+Portsmouth,Tottenham,11,38300000
+Portsmouth,West Brom,12,4050000
+Portsmouth,West Ham,10,745000
+Portsmouth,Wigan,11,2700000
+Portuguesa,Corinthians,10,4200000
+Portuguesa,Grêmio,12,0
+Portuguesa,Guarani,13,0
+Portuguesa,Internacional,11,1000000
+Portuguesa,Palmeiras,10,0
+Portuguesa B,Portuguesa,22,0
+Portuguesa-RJ,Sampaio-MA,9,0
+Potenza,Monopoli ,11,0
+Pr. Münster,SC Verl,10,0
+Prato,FC Empoli,9,0
+Prato,Inter,12,0
+Prato,Lucchese,9,0
+Prato Youth,Prato,12,0
+Preston,Fleetwood,12,0
+Preston,Oldham Athletic,9,0
+Preston,Sheff Wed,11,150000
+Preston,Shrewsbury,9,55000
+Preston,Stoke City,9,750000
+Preston,Tranmere,9,0
+Pribram,Slavia Prague,10,2350000
+Pribram,Viktoria Plzen,14,0
+Pribram,Vysehrad,15,0
+Pribram B,Pribram,13,0
+Primavera,Tombense,11,0
+Primorac 1929,Hajduk Split,12,0
+Pro Patria,Reggiana,13,0
+Pro Patria Y.,Pro Patria,20,0
+Pro Vercelli,Atalanta BC,9,0
+Pro Vercelli,Crotone,23,300000
+Pro Vercelli,Fermana,21,0
+Pro Vercelli,Juventus,10,3360000
+Pro Vercelli Yo,Juventus Youth,11,0
+Project 51O,Oakland Roots,37,0
+Puebla FC,América,19,0
+Puebla FC,Atlante,12,0
+Puebla FC,Atlas,15,2800000
+Puebla FC,CD Cruz Azul,10,2500000
+Puebla FC,Chiapas FC,12,0
+Puebla FC,Club Tijuana,13,0
+Puebla FC,Jaguares,12,0
+Puebla FC,León,12,0
+Puebla FC,Monarcas Morelia,12,2200000
+Puebla FC,Monterrey,9,6230000
+Puebla FC,Necaxa,9,0
+Puebla FC,Pachuca,9,1950000
+Puebla FC,Santos Laguna,12,0
+Puskás AFC,Csákvár,32,0
+Puskás AFC,Diósgyőr,11,0
+Puskás AFC,Videoton FC,27,650000
+Puskás AFC,Zalaegerszeg,15,0
+Putnok,Kazincbarcika,10,0
+Pécsi MFC,Kozármisleny ,36,0
+Pécsi MFC,MTK Budapest,13,0
+Pécsi MFC,Nyíregyháza,11,0
+Pécsi MFC,Paksi FC,9,0
+Pécsi MFC,Szentlőrinc SE,11,0
+Pécsi MFC Yth.,K.misleny Yth.,9,0
+QPR,Brighton,9,0
+QPR,Bristol Rovers,9,446000
+QPR,Forest,10,7615000
+QPR,Gillingham,16,0
+QPR,MK Dons,10,0
+QPR,Millwall,9,0
+QPR,Newcastle,10,7000000
+QPR,Portsmouth,9,2250000
+QPR,Stevenage,10,0
+QPR,Swansea,10,6053000
+QPR,Swindon Town,13,0
+QPR,Tottenham,10,0
+QPR,Watford,9,2400000
+QPR,West Brom,9,8200000
+QPR,Wolves,9,1500000
+QPR,Wycombe,15,0
+Qatar SC,Al-Khor SC,10,0
+Queen o. t. S.,Kilmarnock FC,11,0
+Queen o. t. S.,Livingston FC,10,0
+Querétaro FC,Celaya,15,0
+Querétaro FC,Chiapas FC,13,0
+Querétaro FC,Chivas,13,10320000
+Querétaro FC,Club Tijuana,28,4000000
+Querétaro FC,Delfines,15,0
+Querétaro FC,Dorados Sinaloa,15,0
+Querétaro FC,Irapuato,17,0
+Querétaro FC,Monterrey,9,0
+Querétaro FC,Puebla FC,12,927000
+Querétaro FC,Tiburones Rojos,9,3400000
+Querétaro FC,Toluca,10,0
+Quilmes,Argentinos Jrs.,11,500000
+Quilmes,Atl. Rafaela,9,0
+Quilmes,Estudiantes LP,10,0
+Quilmes,San Lorenzo,11,1900000
+R Charleroi SC,AFC Tubize,12,0
+R Charleroi SC,Club Brugge,9,10700000
+R Charleroi SC,KAA Gent,11,10350000
+R Charleroi SC,KRC Genk,11,11750000
+R Charleroi SC,KV Kortrijk,9,0
+R Charleroi SC,RSC Anderlecht,13,2250000
+R. Strasbourg,Chelsea,9,17450000
+R. Strasbourg,Marseille,9,13100000
+R. Strasbourg,Troyes,10,500000
+R. Strasbourg B,R. Strasbourg,58,0
+R. Valladolid B,Real Valladolid,22,0
+RB Bragantino,Red Bull,11,0
+RB Juniors,RB Salzburg,10,0
+RB Salzburg,FC Liefering,37,0
+RB Salzburg,New York,9,580000
+RB Salzburg,RB Leipzig,23,198700000
+RB Salzburg,SV Ried,9,0
+RBK Youth,Rosenborg,24,0
+RC Lens B,Lens,79,0
+RCD Espanyol B,Espanyol,63,0
+RCD Mallorca,Atlético Madrid,12,12600000
+RCD Mallorca,Málaga CF,10,1800000
+RCD Mallorca B ,RCD Mallorca,43,0
+RFC Seraing,FC Metz,23,400000
+RFC Seraing,FC Metz B,10,0
+RGV FC Toros,Houston,37,0
+RKC Waalwijk,AZ Alkmaar,12,6250000
+RKC Waalwijk,FC Dordrecht,9,35000
+RKC Waalwijk,Feyenoord,10,0
+RKC Waalwijk,Roda JC,10,0
+RM Castilla,CF Fuenlabrada,11,0
+RM Castilla,Getafe,9,6000000
+RM Castilla,Real Madrid,44,0
+RNK Split,NK Imotski,12,0
+RSC Anderlecht,KAA Gent,11,3220000
+RSC Anderlecht,KV Kortrijk,12,200000
+RSC Anderlecht,KV Oostende,11,1300000
+RSC Anderlecht,KVC Westerlo,9,0
+RSC Anderlecht,R Charleroi SC,19,4600000
+RSC Anderlecht,Zulte Waregem,10,900000
+RSCA Futures,RSC Anderlecht,9,0
+RSL Academy,Real Monarchs,15,0
+RSL Academy,Salt Lake,12,0
+RW Essen,SC Paderborn,9,50000
+RW Essen,SF Lotte,11,0
+RWDM,Botafogo,9,0
+RWDM,Francs Borains,10,0
+RWDM Brussels,White Star,10,0
+Rabotnicki Yth.,Rabotnicki,13,0
+Racing,Córdoba CF,9,0
+Racing,Dep. La Coruña,12,4200000
+Racing,Real Madrid,9,29200000
+Racing Club,Boca Juniors,10,7200000
+Racing Club,Defensa,9,484000
+Racing Club,Huracán,10,0
+Racing Club,River Plate,9,6680000
+Rad,Red Star,16,2352000
+Raith Rovers,Dundee FC,9,150000
+Raith Rovers,Dunfermline A.,11,0
+Raith Rovers,Heart of Midl.,15,0
+Raith Rovers,Hibernian FC,14,740000
+Raków,Skra Czesto.,15,0
+Randers FC,Viborg FF,11,363000
+Rangers,Blackpool,10,590000
+Rangers,Livingston FC,12,0
+Rangers,Partick Thistle,11,0
+Rangers,St. Mirren,9,0
+Rangers B,Partick Thistle,12,0
+Rangers B,Rangers,17,0
+Ranheim,Rosenborg,17,130000
+Rapid Vienna,SV Ried,9,0
+Rapids Academy,Colorado 2,9,0
+Rayados A,Monterrey,9,0
+Rayo B,Rayo Vallecano,34,0
+Rayo Cantabria,Racing,49,0
+Rayo Vallecano,Atlético Madrid,11,7000000
+Rayo Vallecano,Granada CF,10,0
+Reading,Bournemouth,9,0
+Reading,Brentford,17,0
+Reading,Chelsea,17,5400000
+Reading,Cheltenham,9,0
+Reading,Exeter City,9,0
+Reading,Ipswich,9,0
+Reading,Millwall,9,2690000
+Reading,Portsmouth,11,90000
+Real Betis,Alavés,9,0
+Real Betis,CA Osasuna,9,7500000
+Real Betis,Getafe,10,4300000
+Real Betis,Villarreal,10,13450000
+Real Madrid,Getafe,16,33000000
+Real Madrid,Racing,10,2000000
+Real Madrid,Real Valladolid,15,7600000
+Real Madrid,Real Zaragoza,12,8060000
+Real Madrid,Sevilla FC,9,28500000
+Real Madrid B,Real Madrid,25,0
+Real Madrid C,RM Castilla,68,0
+Real Madrid C,Real Madrid B,51,0
+Real Monarchs,Salt Lake,53,0
+Real SC,Sporting CP,11,100000
+Real Sociedad,Alavés,11,3300000
+Real Sociedad,CD Mirandés,10,0
+Real Sociedad,SD Eibar,19,0
+Real Sociedad B,Bilbao Athletic,10,1000000
+Real Sociedad B,Real Sociedad,77,0
+Real Sociedad B,SD Eibar,17,0
+Real Sociedad C,Arenas Club,9,0
+Real Sociedad C,Real Sociedad B,72,0
+Real Valladolid,Cádiz CF,10,2000000
+Real Valladolid,Getafe,9,4000000
+Real Valladolid,Real Madrid,10,6250000
+Real Valladolid,Valencia,12,10000000
+Real Zaragoza,Atlético Madrid,12,5500000
+Real Zaragoza,Elche CF,11,5000000
+Real Zaragoza B,Real Zaragoza,25,0
+Rebordosa,Paços Ferreira,9,0
+Recanatese G.,Recanatese,32,0
+Recr. Huelva B,Recr. Huelva,15,0
+Recre Granada,Granada CF,15,0
+Red Bull,Bragantino,15,0
+Red Bull,Bragantino B,10,0
+Red Star,OFK Beograd,9,500000
+Reggiana,Fiorentina,9,680000
+Reggiana,Genoa,11,800000
+Reggiana,Hellas Verona,11,650000
+Reggiana,Pro Patria,10,0
+Reggina,Atalanta BC,11,8000000
+Reggina,Catanzaro,9,0
+Reggina,Cittadella,10,0
+Reggina,Fiorentina,9,0
+Reggina,Genoa,18,11200000
+Reggina,Napoli,11,4680000
+Reggina,Piacenza,9,0
+Reggina,Sampdoria,9,1100000
+Reggina,Vicenza,12,1775250
+Reggina Primaver,Reggina,28,0
+Reggina Youth,Reggina Primaver,13,0
+Renate,Parma,14,77000
+Renate Gio,Renate,9,0
+Rennes B,Stade Rennais,98,0
+Reno FC,SJ Earthquakes,27,0
+Rich. Academy,Richmond,27,0
+Richmond,Rich. Academy,23,0
+Riga,Auda,14,0
+Right to Dream,Nordsjaelland,14,0
+Rimavska Sobota,FTC Filakovo,13,0
+Rio Ave,Benfica,10,7000000
+Rio Ave,Desportivo Aves,9,0
+Rio Ave,FC Porto,11,5330000
+Rio Ave,SC Braga,10,1000000
+Rio Ave,Sporting CP,13,4850000
+Rio Ave Y,Rio Ave Sub-15,33,0
+Rising Acad.,Phoenix Rising,15,0
+River Plate,Argentinos Jrs.,9,1631000
+River Plate,Arsenal Sarandí,11,0
+River Plate,Banfield,11,210000
+River Plate,Colon,12,0
+River Plate,Estudiantes LP,10,0
+River Plate,Huracán,13,270000
+River Plate,Independiente,11,3900000
+River Plate,Nacional,11,450000
+River Plate,Racing Club,9,2000000
+River Plate,San Lorenzo,9,1400000
+River Plate,Tigre,12,750000
+Rochdale,Blackburn,11,0
+Rochdale,Blackpool,12,400000
+Roda JC,Fortuna Sittard,9,0
+Roda JC,MVV Maastricht,12,0
+Roda JC,PSV Eindhoven,11,11950000
+Rodez AF B,Rodez AF,16,0
+Rosario Central,Atl. Tucumán,9,938000
+Rosario Central,Boca Juniors,11,5440000
+Rosario Central,Defensa,10,300000
+Rosario Central,Gimnasia,9,550000
+Rosario Central,Independiente,12,1390000
+Rosario Central,Lanús,10,1400000
+Rosario Central,Racing Club,10,3300000
+Rosario Central,River Plate,15,10650000
+Rosenborg,Bodø/Glimt,15,0
+Rosenborg,Ranheim,18,40000
+Ross County,Brora Rangers,12,0
+Ross County,Elgin City,19,0
+Ross County,Falkirk,9,0
+Ross County,Inverness CT,15,0
+Ross County,Partick Thistle,13,0
+Rostov,Baltika,10,0
+Rostov,KS Samara,10,2300000
+Rostov,Khimki,10,115000
+Rostov,Krasnodar,9,13400000
+Rostov,Rubin Kazan,20,6000000
+Rostov,Spartak Moscow,10,5000000
+Rostov,Zenit S-Pb,13,6250000
+Rotherham,Bury,10,0
+Rotherham,Cardiff,10,5575000
+Rotherham,Middlesbrough,10,2330000
+Roughnecks FC,Chicago,10,0
+Royal Antwerp,KV Mechelen,9,400000
+Royal Antwerp,OH Leuven,10,0
+Rubin Kazan,KS Samara,13,1500000
+Rubin Kazan,Neftekhimik,12,0
+Rubin Kazan,Rostov,18,2700000
+Rubin Kazan,Terek Grozny,9,0
+Rubin Kazan,Tom Tomsk,10,0
+Rubin Kazan,Zenit S-Pb,16,69800000
+Ruch Chorzow,GKS Katowice,13,15000
+Ruch Chorzow,GKS Tychy,10,0
+Ruch Chorzow,Wisla Kraków,9,403000
+Rukh Lviv,Karpaty Lviv,9,3600000
+S. Kickers Yth.,Stuttgart Yth.,17,0
+SAC Academy,Sacramento FC,26,0
+SAFC Acad.,San Antonio FC,22,0
+SAS Epinal,ES Thaon,10,0
+SC Bastia B,SC Bastia,53,0
+SC Braga,Atlético Madrid,9,23000000
+SC Braga,Benfica,17,32550000
+SC Braga,Chaves,9,0
+SC Braga,Coimbra,10,0
+SC Braga,FC Porto,22,47190000
+SC Braga,Gil Vicente,13,750000
+SC Braga,Moreirense ,16,1000000
+SC Braga,Paços Ferreira,10,0
+SC Braga,Rio Ave,10,0
+SC Braga,Sporting CP,14,38950000
+SC Braga,Vitória Setúbal,9,0
+SC Braga,Vizela,11,0
+SC Cham,SC Kriens,11,0
+SC Covilhã,BC Branco,10,0
+SC Covilhã,Coimbra,11,0
+SC Covilhã,Paços Ferreira,10,50000
+SC Covilhã,Portimonense,12,0
+SC Dnipro-1,Dynamo Kyiv,9,10000000
+SC Dnipro-1,Metalist,9,0
+SC Espinho Yth.,SC Espinho S15,10,0
+SC Farense Y15,SC Farense Y17,23,0
+SC Freiburg,Karlsruher SC,9,500000
+SC Kriens,BSC Young Boys,9,0
+SC Kriens,FC Luzern,21,0
+SC Kriens,FC Schötz,11,0
+SC Kriens,FC Wohlen,9,0
+SC Kriens,SC Cham,11,0
+SC Langenhagen,TSV Havelse,10,0
+SC Paderborn,SC Verl,10,0
+SC YF Juventus,FC Baden 1897,10,0
+SC YF Juventus,FC Wohlen,9,0
+SCR Altach,A. Lustenau,12,40000
+SD Amorebieta,Bilbao Athletic,14,0
+SD Eibar,Athletic,13,3300000
+SD Eibar,Barakaldo CF ,12,0
+SD Eibar,Real Sociedad,16,0
+SD Eibar,Real Sociedad B,14,0
+SD Eibar,SD Amorebieta,10,0
+SD Eibar B,Barakaldo CF ,12,0
+SD Eibar B,SD Eibar,22,0
+SD Eibar C,SD Eibar B,12,0
+SD Huesca,CA Osasuna,14,800000
+SD Luneng,HB CFFC,9,11650000
+SD Luneng,SD Taishan Res.,10,0
+SD Luneng SC,SD Taishan,9,0
+SD Taishan,QD Hainiu,10,0
+SD Taishan Res.,SD Luneng,27,0
+SE Gama,Brasiliense-DF,12,0
+SFC Opava,Frydek-Mistek,9,0
+SFC Opava,Sigma Olomouc,10,0
+SH Port Res.,SH SIPG,28,0
+SH SIPG,SH Port Res.,18,0
+SH Shenhua,SH Shenhua Res.,32,0
+SH Shenhua Res.,CF Cracks,11,0
+SH Shenhua Res.,SH Shenhua,27,0
+SH Shenxin,SH Shenxin Res.,15,0
+SH Shenxin Res.,SH Shenxin,27,0
+SJ Earthquakes,Houston,11,0
+SJ Earthquakes,Reno FC,26,0
+SJ Earthquakes,The Town FC,14,0
+SJE Academy,The Town FC,10,0
+SK Brann Yth.,Brann,12,0
+SK Odessa,Chornomorets,12,0
+SL16 FC,Standard Liège,15,0
+SM Academy,San Marino,10,0
+SM Caen,LB Châteauroux,9,0
+SM Caen,Pau FC,9,300000
+SM Caen B,SM Caen,72,0
+SO Cholet B,SO Cholet,10,0
+SPAL,Atalanta BC,15,0
+SPAL,Chievo Verona,9,0
+SPAL,Torino,12,3900000
+SR Colmar,FC Mulhouse,10,0
+SR Delémont,FC Bassecourt,15,0
+SR Delémont,FC Courtételle,12,0
+SR Delémont,FC Moutier,9,0
+SR Delémont,Neuchâtel Xamax,9,500000
+STK Samorin,Dunajska Streda,17,0
+STLSC Academy,St. Louis 2,26,0
+SV Ried,Austria Vienna,12,1100000
+SW Bregenz,Career break,10,0
+SW Bregenz,Lauterach,10,0
+SW Bregenz Jgd,SW Bregenz,11,0
+SZ FC,SZ FC Res.,40,0
+SZ FC Res.,SZ FC,22,0
+SZTK,Diósdi TC,9,0
+Sacavenense F.,Sacavenense S15,17,0
+Sacavenense S15,Sacavenense S17,20,0
+Sacramento FC,SAC Academy,19,0
+Sagan Tosu,FC Tokyo,9,0
+Sagan Tosu,Kashiwa Reysol,10,0
+Sagan Tosu,Nagoya Grampus,10,0
+Sagan Tosu,Yokohama F. M.,10,1330000
+Sagan Tosu,Yokohama FC,11,0
+Saint-Étienne,SC Bastia,9,0
+Saint-Étienne B,Saint-Étienne,62,0
+Sakaryaspor,Karsiyaka,13,0
+Sakaryaspor,Pendikspor ,9,0
+Sakaryaspor Yth,Sakaryaspor,15,0
+Salernitana,Avellino,9,0
+Salernitana,Bari,10,150000
+Salernitana,Catania,17,50000
+Salernitana,Cosenza,11,0
+Salernitana,Fiorentina,9,0
+Salernitana,Foggia,17,475000
+Salernitana,Genoa,12,2650000
+Salernitana,Hellas Verona,14,1950000
+Salernitana,Lazio,45,30550000
+Salernitana,Perugia,10,400000
+Salernitana,Pescara,14,0
+Salernitana,Reggina,12,1300000
+Salernitana,Ternana,13,800000
+Salford,Stockport,10,0
+Salgueiro,Náutico,9,0
+Salgueiros Y,Salgueiros Y15,9,0
+Salgueiros Y15,Salgueiros Y17,12,0
+Salt Lake,Real Monarchs,46,0
+Salzburg Youth,SV Salzburg A.,12,0
+Salò Giovanili,Feralpisalò,13,0
+Samambaia,Brasiliense-DF,30,0
+Sampaio-MA,Botafogo-PB,9,0
+Sampdoria,AS Livorno,12,800000
+Sampdoria,AS Roma,16,70621000
+Sampdoria,Benevento,10,0
+Sampdoria,Bologna,9,7800000
+Sampdoria,Brescia,15,8850500
+Sampdoria,Cagliari,10,12960000
+Sampdoria,Catania,12,3770000
+Sampdoria,Cesena,10,0
+Sampdoria,Chievo Verona,11,2022000
+Sampdoria,FC Empoli,23,4900000
+Sampdoria,Hellas Verona,19,7850000
+Sampdoria,Inter,21,81000000
+Sampdoria,Juventus,15,6400000
+Sampdoria,Modena,15,150000
+Sampdoria,Napoli,15,30250500
+Sampdoria,Parma,17,21000000
+Sampdoria,Pescara,15,1140000
+Sampdoria,Salernitana,11,5500000
+Sampdoria,Sassuolo,10,7300000
+Sampdoria,Ternana,14,340000
+Sampdoria,Torino,15,16700000
+Samsunspor,Amasyaspor,10,0
+Samsunspor,Ankaragücü,9,700000
+Samsunspor,Boluspor,13,0
+Samsunspor,Eskisehirspor,9,0
+Samsunspor,Genclerbirligi,10,0
+San Antonio FC,SAFC Acad.,20,0
+San Donato,Poggibonsi,10,0
+San Ignacio,Alavés B,20,0
+San Lorenzo,Almagro,9,0
+San Lorenzo,Arsenal Sarandí,9,0
+San Lorenzo,Atl. Tucumán,10,0
+San Lorenzo,Boca Juniors,12,7090000
+San Lorenzo,Defensa,13,1650000
+San Lorenzo,Nueva Chicago,10,0
+San Lorenzo,Olimpo,13,0
+San Lorenzo,Quilmes,9,0
+San Lorenzo,River Plate,11,7950000
+San Luis,América,11,3500000
+San Luis,Atlante,9,0
+San Luis,Atlas,9,0
+San Luis,Chiapas FC,10,0
+San Luis,Monterrey,13,0
+San Luis,Necaxa,20,0
+San Luis,Querétaro FC,9,0
+San Luis,Tiburones Rojos,12,0
+San Marino,Cesena,12,0
+San Martín (SJ),Defensa,11,0
+Sanf. Hiroshima,Ehime FC,10,0
+Sanf. Hiroshima,Fagiano Okayama,9,0
+Sanf. Hiroshima,Oita Trinita,9,0
+Sanf. Hiroshima,Shimizu S-Pulse,12,0
+Sangju Sangmu,Suwon Bluewings,15,0
+Sanjoanense,Lus. Lourosa,10,0
+Sanjoanense S15,Sanjoanense S17,11,0
+Sanliurfa Bld,Sanliurfaspor ,9,0
+Sanliurfa Yth,Sanliurfaspor ,26,0
+Sanliurfaspor ,Adana Demirspor,12,100000
+Sanliurfaspor ,Elazigspor ,10,0
+Sanliurfaspor ,Sanliurfa Bld,12,0
+Sanliurfaspor ,Sanliurfa Yth,11,0
+Sanluqueño B,At. Sanluqueño,9,0
+Santa Clara,Alverca,9,0
+Santa Clara,Chaves,10,50000
+Santa Clara,FC Porto,9,7700000
+Santa Clara,Leixões,11,150000
+Santa Clara,Operário,11,0
+Santa Cruz-PE,Cruzeiro,12,588000
+Santa Cruz-PE,Náutico,12,600000
+Santa Cruz-PE,Palmeiras,9,0
+Santarcangelo,Cesena,14,0
+Santo André,Ferroviária,14,0
+Santo André,Ituano,10,0
+Santo André,São Caetano,12,0
+Santo André B,Santo André,11,0
+Santos,Atlético-MG,14,2500000
+Santos,Avaí FC,12,0
+Santos,Botafogo,10,13600000
+Santos,Chapecoense,9,0
+Santos,Coritiba FC,13,700000
+Santos,Cruzeiro,17,500000
+Santos,EC Vitória,9,835000
+Santos,FC Porto,9,22500000
+Santos,Flamengo,15,7595000
+Santos,Fluminense,15,4910000
+Santos,Grêmio,19,5225000
+Santos,Guarani,15,950000
+Santos,Internacional,14,1700000
+Santos,Oeste,10,0
+Santos,Palmeiras,10,0
+Santos,Ponte Preta,12,0
+Santos,Sport Recife,15,0
+Santos,São Paulo,10,9000000
+Santos B,Santos,38,0
+Santos Laguna,América,20,42440000
+Santos Laguna,Atlas,28,6000000
+Santos Laguna,Chivas,12,5250000
+Santos Laguna,Club Tijuana,11,2300000
+Santos Laguna,Monarcas Morelia,10,0
+Santos Laguna,Puebla FC,12,0
+Santos Laguna,Santos Laguna A,9,0
+Santos Laguna,Tampico Madero,10,0
+Saprissa Juv.,Saprissa,11,0
+Sariyer Yth,Sariyer,13,0
+Sarmiento Junin,CA Temperley,9,0
+Sassuolo,AS Roma,13,31200000
+Sassuolo,Benevento,11,9150001
+Sassuolo,Cesena,14,1720000
+Sassuolo,Cremonese,9,2000000
+Sassuolo,Fiorentina,9,27500000
+Sassuolo,Frosinone,17,3100000
+Sassuolo,Genoa,14,10000000
+Sassuolo,Inter,11,77500000
+Sassuolo,Juventus,12,83400000
+Sassuolo,Monza,11,4480000
+Sassuolo,Reggiana,9,0
+Sassuolo,SPAL,9,4500000
+Sassuolo,Sampdoria,10,4000000
+Sassuolo,Spezia Calcio,10,1651000
+Saturn Ramenskoe,Career break,9,0
+Savoia,Giugliano,20,0
+Schiltigheim,FR Haguenau,11,0
+Schweinfurt 05,FV 04 Würzburg,9,0
+Schweinfurt 05,SpVgg Bayreuth,9,0
+Seattle,Sounders FC 2,31,0
+Seattle,Tacoma Defiance,25,0
+Seattle Academy,Sounders FC 2,36,0
+Seattle Academy,Tacoma Defiance,34,0
+Semice,Bohemians Praha,10,0
+Seongnam FC,FC Anyang,10,0
+Seongnam FC,Suwon Bluewings,9,0
+Servette FC,BSC Young Boys,10,4410000
+Servette FC,Etoile Carouge,34,0
+Servette FC,FC Basel,12,2100000
+Servette FC,FC Sion,13,0
+Servette FC,FC St. Gallen,10,16000
+Servette FC,Meyrin FC,9,0
+Servette FC,Stade Nyonnais,23,0
+Servette FC,Yverdon Sport,11,0
+Servette M-17,Servette FC,9,0
+Sestao River ,Arenas Club,9,0
+Sestao River ,Barakaldo CF ,9,0
+Sestao River ,Bilbao Athletic,14,0
+Sesto Giovanili,Inter Youth,9,0
+Sevilla Atl.,Sevilla FC,45,0
+Sevilla B,Sevilla FC,15,0
+Sevilla FC,Barcelona,12,179900000
+Sevilla FC,CD Tenerife,11,600000
+Sevilla FC,Getafe,11,6500000
+Sevilla FC C,Sevilla Atl.,55,0
+Sevilla FC C,Sevilla B,9,0
+Shakhtar D.,Chornomorets,17,0
+Shakhtar D.,Dnipro,11,20000000
+Shakhtar D.,FC Mariupol,21,0
+Shakhtar D.,FC Oleksandriya,10,0
+Shakhtar D.,Illichivets,25,0
+Shakhtar D.,Karpaty Lviv,12,0
+Shakhtar D.,Kolos Kovalivka,9,0
+Shakhtar D.,Metalurg D.,10,1500000
+Shakhtar D.,Vorskla Poltava,11,0
+Shakhtar D.,Zorya Lugansk,18,0
+Sheff Wed,Derby,10,0
+Sheff Wed,MK Dons,9,0
+Sheff Wed,Preston,11,1100000
+Sheff Wed,Rotherham,10,0
+Sheff Wed,Southampton,9,0
+Sheff Wed,Sunderland,9,0
+Shimizu S-Pulse,Machida Zelvia,10,0
+Shimizu S-Pulse,Monte. Yamagata,10,0
+Shimizu S-Pulse,Sanf. Hiroshima,10,0
+Shinnik Yaroslav,Torpedo Moskau,12,1650000
+Shonan Bellmare,Kashiwa Reysol,10,0
+Shonan Bellmare,Oita Trinita,9,300000
+Shonan Bellmare,Tokushima Vort.,11,0
+Shrewsbury,Bristol Rovers,10,0
+Shrewsbury,Grimsby Town,9,0
+Shrewsbury,Morecambe FC,9,195000
+Shrewsbury,Peterborough,9,595000
+Sigma Olomouc,1.SC Znojmo,13,0
+Sigma Olomouc,Olomouc B,9,0
+Sigma Olomouc,SFC Opava,10,0
+Sigma Olomouc,Sparta Prague,10,2650000
+Sigma Olomouc,Viktoria Plzen,10,3200000
+Silkeborg IF,FC Fredericia,10,0
+Sint-Truiden,KAA Gent,12,6900000
+Sint-Truiden,Royal Antwerp,9,0
+Sint-Truiden,Standard Liège,20,250000
+Sint-Truiden,Újpest FC,13,0
+Siracusa,Biancavilla,9,0
+Sirius,Gefle,9,0
+Sirius,Sandvikens IF,10,0
+Siroki Brijeg,NK Lokomotiva,10,600000
+Sivasspor,Adana Demirspor,9,0
+Skeid Yth.,Skeid,12,0
+Skive IK,FC Midtjylland,11,0
+Skoruk,SC Poltava,10,0
+Skra Czesto.,Raków,10,0
+Sl. Liberec B,Slovan Liberec,16,0
+Sl. Liberec B,Varnsdorf,11,0
+Slaven Belupo,Koprivnica,20,0
+Slavia Prague,Banik Ostrava,20,1385000
+Slavia Prague,Baumit Jablonec,9,850000
+Slavia Prague,Bohemians 1905,15,0
+Slavia Prague,C. Budejovice,13,0
+Slavia Prague,Jablonec,9,200000
+Slavia Prague,Mlada Boleslav,23,750000
+Slavia Prague,Pardubice,9,1000000
+Slavia Prague,Pribram,10,100000
+Slavia Prague,Slavia Prague B,9,0
+Slavia Prague,Slovan Liberec,38,2160000
+Slavia Prague,Teplice,14,300000
+Slavia Prague,Viktoria Zizkov,13,0
+Slavia Prague B,Hlucin,10,0
+Slavia Prague B,Slavia Prague,35,0
+Slavia Prague B,Viktoria Zizkov,16,25000
+Slavia Prague B,Vysehrad,15,0
+Slo. Bratislava,Dunajska Streda,9,0
+Slovacko,Banik Ostrava,9,0
+Slovacko,Sparta Prague,13,2220000
+Slovacko B,Slovacko,14,0
+Slovan Liberec,Slavia Prague,38,6700000
+Slovan Liberec,Sparta Prague,31,5810000
+Slovan Liberec,Varnsdorf,11,0
+Slovan Liberec,Viktoria Plzen,9,0
+Sogndal,Molde FK,10,2750000
+Soproni VSE,Haladás,16,0
+Soproni VSE,Haladás MÁV,9,0
+Soroksár,Ferencváros,32,0
+Sorrento,Juve Stabia ,10,0
+Sorrento,Vico Equense,10,0
+Sounders FC 2,Seattle,26,0
+Sounders FC 2,Seattle Academy,23,0
+Southampton,Bournemouth,18,0
+Southampton,Doncaster,9,75000
+Southampton,Forest,10,2580000
+Southampton,Fulham,11,14725000
+Southampton,Liverpool,12,215850000
+Southampton,Sheff Wed,12,0
+Southampton,Tottenham,12,57850000
+Southport,Tranmere,9,0
+SpVgg Bayreuth,Neudrossenfeld,9,0
+Sparta Prague,Bohemians 1905,14,0
+Sparta Prague,FK Senica,9,0
+Sparta Prague,Jablonec,10,0
+Sparta Prague,Jablonec 97,11,0
+Sparta Prague,Mlada Boleslav,24,1050000
+Sparta Prague,Pribram,10,0
+Sparta Prague,Slovacko,12,300000
+Sparta Prague,Slovan Liberec,23,200000
+Sparta Prague,Teplice,17,0
+Sparta Prague,Viktoria Plzen,11,1450000
+Sparta Prague B,Bohemians 1905,16,0
+Sparta Prague B,C. Budejovice,14,0
+Sparta Prague B,Sparta Prague,34,0
+Sparta Prague B,Viktoria Zizkov,12,0
+Sparta Prague B,Vlasim,21,0
+Sparta R.,AZ Alkmaar,12,5350000
+Sparta R.,Heerenveen,9,2370000
+Sparta R.,PSV Eindhoven,9,3800000
+Sparta R.,RKC Waalwijk,10,750000
+Sparta R.,Twente FC,9,1350000
+Spartaan Yth.,Sparta Youth,9,0
+Spartak 2,Spartak Moscow,22,0
+Spartak Moscow,KS Samara,29,4464000
+Spartak Moscow,Khimki,12,1500000
+Spartak Moscow,Rostov,14,500000
+Spartak Moscow,Tom Tomsk,9,1500000
+Spezia,Inter,15,0
+Spezia Calcio,Atalanta BC,14,0
+Spezia Calcio,Carpi,9,100000
+Spezia Calcio,HNK Rijeka,14,0
+Spezia Calcio,Parma,10,4210000
+Spezia Calcio,Sassuolo,11,10980000
+Sport Recife,ABC FC,9,0
+Sport Recife,América-MG,10,0
+Sport Recife,Atlético-MG,21,0
+Sport Recife,Botafogo-SP,9,0
+Sport Recife,Ceará SC,11,180000
+Sport Recife,Corinthians,13,120000
+Sport Recife,Cruzeiro,13,600000
+Sport Recife,EC Vitória,9,0
+Sport Recife,Goiás,9,0
+Sport Recife,Grêmio,10,2500000
+Sport Recife,Guarani,9,0
+Sport Recife,Internacional,26,1000000
+Sport Recife,Palmeiras,10,0
+Sport Recife,São Paulo,17,3600000
+Sport. Hasselt,Patro Eisden,9,50000
+Sporting B,Sporting CP,50,0
+Sporting B,Sporting Gijón,57,0
+Sporting CP,Belenenses,10,0
+Sporting CP,CF Estrela ,10,0
+Sporting CP,Estoril,9,0
+Sporting CP,Lourinhanense,9,0
+Sporting CP,Rio Ave,10,375000
+Sporting CP,SC Braga,11,3463000
+Sporting CP,Sporting B,16,0
+Sporting CP,Vit. Guimarães,20,0
+Sporting Yth.,Belenenses Yth,9,0
+Sporting Yth.,Sporting Sub-15,236,0
+St-Co Locminé,GSI Pontivy,9,0
+St. Johnstone,Dunfermline A.,10,0
+St. Johnstone,Forfar Athletic,10,0
+St. Johnstone,Heart of Midl.,9,0
+St. Johnstone,Montrose,9,0
+St. Johnstone,Morton,9,0
+St. Johnstone,Queen o. t. S.,11,0
+St. Johnstone,Ross County,10,0
+St. Louis 2,STLSC Academy,23,0
+St. Louis 2,St. Louis CITY,16,0
+St. Louis FC,Chicago,9,0
+St. Mirren,Aberdeen FC,10,400000
+St. Mirren,Dundee FC,10,30000
+St. Mirren,Kilmarnock FC,11,45000
+St. Mirren,Ross County,9,45000
+St. Pölten Jun.,SKN St. Pölten,17,0
+Stabæk Yth.,Stabæk,20,0
+Stade Bordelais,FC Libourne,10,0
+Stade Laval B,Stade Lavallois,38,0
+Stade Lavallois,FC Lorient,10,1000000
+Stade Nyonnais,Etoile Carouge,15,0
+Stade Nyonnais,Lausanne-Sport,11,0
+Stade Nyonnais,Servette FC,17,0
+Stade Nyonnais,StadeLO,14,0
+Stade Nyonnais,Yverdon Sport,12,0
+Stade Reims,Stade Brestois,10,4500000
+Stade Reims B,Stade Reims,51,0
+Stade Rennais,Dijon,10,3000000
+Stade Rennais,FC Lorient,10,4200000
+Stade Rennais,Le Havre AC,9,0
+Stade Rennais,Olympique Lyon,10,30600000
+StadeLO,Lausanne-Sport,10,2500000
+StadeLO,Stade Nyonnais,10,0
+Stal Alchevsk,Metalurg D.,11,0
+Standard Liège,Charlton,10,1300000
+Standard Liège,KV Mechelen,10,200000
+Standard Liège,MVV Maastricht,10,0
+Standard Liège,Sint-Truiden,25,500000
+Start,Fløy,14,0
+Start,Jerv,9,0
+Start,Stabæk,10,0
+Start,Vindbjart FK,9,0
+Stevenage,Barnet,10,0
+Stevenage,QPR,10,0
+Stockport,Altrincham,13,0
+Stockport,Blackburn,9,0
+Stockport,Oldham Athletic,12,0
+Stockport,Rochdale,12,100000
+Stoke City,Barnsley,10,0
+Stoke City,Brighton,9,0
+Stoke City,Bristol Rovers,9,350000
+Stoke City,Burnley,12,24030000
+Stoke City,Derby,9,0
+Stoke City,Leeds,11,775000
+Stoke City,Preston,9,0
+Stoke City,Wolves,11,175000
+Strømsgodset,Mjøndalen,14,0
+Sturm Graz,SCR Altach,9,0
+Sturm Graz,TSV Hartberg,11,0
+Subiza,Osasuna B,13,0
+Sunderland,Burnley,9,1400000
+Sunderland,Hartlepool,9,0
+Sunderland,Hull City,13,7040000
+Sunderland,Ipswich,9,23225000
+Sunderland,Sheff Wed,11,0
+Sunderland,Stoke City,12,21000000
+Sunderland,Wolves,13,9730000
+Suwon Bluewings,Gangwon FC,9,0
+Suwon Bluewings,Gwangju Sangmu,11,0
+Suwon Bluewings,Sangju Sangmu,18,0
+Suwon Bluewings,Seongnam FC,10,0
+Swansea,Brighton,11,285000
+Swansea,Burnley,9,16000000
+Swansea,Newport County,14,0
+Swansea,Yeovil Town,11,50000
+Swindon Town,Charlton,11,1000000
+Swindon Town,Chippenham,11,0
+Swindon Town,Portsmouth,11,100000
+Swindon Town,QPR,10,4990000
+Swindon Town,Tottenham,11,1800000
+Switchbacks FC,Colorado,24,0
+Swope Park,Kansas Academy,13,0
+Swope Park,Kansas City,28,0
+Sydney FC,Central Coast,9,750000
+Sylvia,Norrköping,41,25000
+Szentlőrinc SE,Pécsi MFC,13,0
+Szolnok,Paksi FC,10,0
+São Bento (SP),Desp. Brasil,9,0
+São Bento (SP),Sampaio-MA,12,0
+São Bento (SP),XV Piracicaba,9,0
+São Bernardo,Boa Esporte,10,0
+São Caetano,Corinthians,17,2500000
+São Caetano,Coritiba FC,11,0
+São Caetano,Ferroviária,14,0
+São Caetano,Mirassol-SP,9,0
+São Caetano,Oeste,10,0
+São Caetano,Palmeiras,10,0
+São Caetano,Santo André,20,0
+São Caetano,São Bernardo,9,0
+São Paulo,Atlético-MG,15,1550000
+São Paulo,Botafogo,16,2100000
+São Paulo,Coritiba FC,9,0
+São Paulo,Cruzeiro,17,1000000
+São Paulo,EC Bahia,9,2750000
+São Paulo,EC Vitória,15,2205000
+São Paulo,Flamengo,9,8020000
+São Paulo,Fluminense,21,1150000
+São Paulo,Goiás,9,0
+São Paulo,Grêmio,20,0
+São Paulo,Guarani,9,0
+São Paulo,Internacional,9,6580000
+São Paulo,Portimonense,9,2200000
+São Paulo,Santos,13,4800000
+São Paulo,Sport Recife,22,1405000
+São Paulo,Toledo,9,0
+Sönderjylland,SönderjyskE,9,0
+SönderjyskE,FC Midtjylland,10,540000
+Südtirol,Atalanta BC,9,750000
+TFC Academy,Toronto,10,0
+TSG Hoffenheim,Bayern Munich,9,50300000
+TSG Hoffenheim,Hannover 96,11,5000000
+TSG Hoffenheim,VfL Bochum,11,750000
+TSV 1860 Yth.,B. München Yth.,18,0
+TSV Hartberg,SV Lafnitz,13,0
+Tacoma Defiance,Seattle,46,0
+Tacoma Defiance,Seattle Academy,26,0
+Taksony SE,Dunaharaszti,9,0
+Tampico Madero,Alacranes,9,0
+Tampico Madero,Santos Laguna,10,0
+Tapatío,Chivas,19,0
+Taranto,Andria,9,0
+Taranto,Benevento,10,80000
+Taranto,Cavese,9,0
+Taranto,Paganese,9,0
+Tatabánya,LFC Haladás,9,0
+Tatabánya FCE,Tatabánya,16,0
+Tatran Presov,Bardejov,18,0
+Tatran Presov,Podbrezova,9,0
+Tatran Presov B,Tatran Presov,13,0
+Tecos,Pachuca,9,0
+Teleoptik,Partizan,35,0
+Teplice,Banik Sokolov,9,0
+Teplice,Mlada Boleslav,11,0
+Teplice,Slavia Prague,11,2800000
+Teplice,Sparta Prague,15,0
+Teplice,Varnsdorf,11,0
+Teplice,Viktoria Plzen,9,400000
+Teplice B,Teplice,19,0
+Teramo,Pescara,17,0
+Ternana,Catania,12,65000
+Ternana,Fiorentina,13,0
+Ternana,Inter,9,11000000
+Ternana,Pescara,15,1000000
+Ternana,Salernitana,16,0
+Ternana,Sampdoria,12,850000
+Ternana,Torino,13,0
+The Town FC,SJ Earthquakes,17,0
+The Town FC,SJE Academy,9,0
+Thurrock,Dag & Red FC,9,0
+Tianjin JMT Res,TJ Teda,14,0
+Tiburones Rojos,América,10,0
+Tiburones Rojos,Jaguares,11,0
+Tiburones Rojos,Necaxa,13,0
+Tiburones Rojos,Puebla FC,9,0
+Tiburones Rojos,Querétaro FC,9,0
+Tiburones Rojos,San Luis,18,0
+Tigre,Boca Juniors,13,0
+Tigre,River Plate,9,2300000
+Tigres Jgd.,Tigres SD,9,0
+Timbers Academy,Portland 2,39,0
+Tiverton,Exeter City,16,0
+Tokatspor ,Fethiyespor,10,30000
+Tokyo Verdy,Yokohama F. M.,11,0
+Toledo,São Paulo,9,0
+Toluca,Atlas,12,0
+Toluca,CD Cruz Azul,12,0
+Toluca,Chivas,10,12610000
+Toluca,Club Tijuana,12,0
+Toluca,Mexiquense,15,0
+Toluca,Pachuca,11,0
+Toluca,Querétaro FC,13,0
+Toluca,San Luis,9,0
+Tom Tomsk,Anzhi,11,0
+Tom Tomsk,Rubin Kazan,9,390000
+Tombense,América-MG,23,0
+Tombense,América-RN,11,0
+Tombense,Atlético-GO,12,0
+Tombense,Atlético-MG,9,0
+Tombense,Avaí FC,36,0
+Tombense,Boavista,9,0
+Tombense,Botafogo,10,0
+Tombense,CRB,15,0
+Tombense,Criciúma EC,14,0
+Tombense,Cruzeiro,11,0
+Tombense,Figueirense FC,41,0
+Tombense,Fluminense,13,1200000
+Tombense,Fortaleza,14,0
+Tombense,Guarani,17,0
+Tombense,Joinville-SC,12,0
+Tombense,Madureira,9,0
+Tombense,Náutico,13,0
+Tombense,Palmeiras,11,6947000
+Tombense,Paraná,14,0
+Tombense,Paysandu,10,0
+Tombense,Ponte Preta,15,0
+Tombense,Primavera,13,0
+Tombense,Vila Nova FC,14,0
+Tombense,Volta Redonda,12,0
+Tondela Y15,Tondela Sub-17,9,0
+Torino,AC Milan,11,26250000
+Torino,AC Siena,14,0
+Torino,AS Roma,11,12500000
+Torino,Bologna,9,0
+Torino,Chievo Verona,17,2900000
+Torino,FC Empoli,14,1000000
+Torino,Genoa,12,2150000
+Torino,Hellas Verona,9,660000
+Torino,Inter,11,5790000
+Torino,Juventus,9,65965000
+Torino,Napoli,16,62000000
+Torino,Parma,11,7000000
+Torino,Pro Vercelli,9,200000
+Torino,SPAL,13,13500000
+Torino,Sampdoria,14,3000000
+Torino,Ternana,11,0
+Torino,Vicenza,9,2000000
+Torpedo Moskau,Tom Tomsk,11,10000
+Torquay,Forest Green,11,0
+Torquay,Plymouth,11,18000
+Tottenham,Aston Villa,9,6530000
+Tottenham,Fulham,10,6600000
+Tottenham,Hull City,10,36125000
+Tottenham,Leeds,9,11800000
+Tottenham,Leyton Orient,13,65000
+Tottenham,Millwall,11,0
+Tottenham,Norwich,9,12400000
+Tottenham,Portsmouth,15,23400000
+Tottenham,QPR,19,9220000
+Tottenham,Southampton,9,13700000
+Tottenham,Sunderland,13,28050000
+Tottenham,Swindon Town,13,350000
+Tottenham,Watford,9,12610000
+Tottenham,West Ham,10,4833000
+Toulouse,Lens,14,5800000
+Toulouse B,Toulouse,78,0
+Tours B,Tours FC,18,0
+Trabzonspor,1461 Trabzon,38,0
+Trabzonspor,1461 Trabzon ,11,0
+Trabzonspor,A.Sebatspor,29,0
+Trabzonspor,Akhisar Belediye,9,204000
+Trabzonspor,Antalyaspor,9,200000
+Trabzonspor,Besiktas,9,6156000
+Trabzonspor,C. Rizespor,12,2000000
+Trabzonspor,Galatasaray,9,44628000
+Trabzonspor,Istanbulspor,11,0
+Trabzonspor,Kayserispor,12,792000
+Traiskirchen,Admira Wacker,9,0
+Tranmere,Macclesfield,10,0
+Tranmere,Morecambe FC,10,0
+Tranmere,Southport,12,0
+Tranmere,Stockport,13,771000
+Trapani,Parma,10,280000
+Trelleborg,Malmö FF,11,0
+Triestina,Catania,9,0
+Triestina,Chievo Verona,12,400000
+Trofense,Gondomar,15,0
+Tromsdalen,Tromsø,16,200000
+Tromsø,Tromsdalen,19,0
+Tromsø IL Youth,Tromsø,11,0
+Troyes,FC Metz,14,4500000
+Troyes,Monaco,9,12700000
+Trélissac FC,Bergerac,10,0
+Turgutlu Yth,Turgutluspor ,22,0
+Tuzlaspor,Diyarbekir Spor,29,0
+Tuzlaspor,Eyüpspor,13,0
+Tuzlaspor,Pendikspor ,9,0
+Twente FC,Ajax,13,24160000
+Twente FC,Feyenoord,9,17000000
+Twente FC,Go Ahead Eagles,10,0
+Twente FC,Heracles Almelo,11,0
+Twente FC,PSV Eindhoven,11,14370000
+Türk Tlkm Yth,Türk Telekom,9,0
+V. Bergamo Y.,Inter Youth,11,100000
+V. Bergamo Y.,Virtus Bergamo,12,0
+VVV-Venlo,Fortuna Sittard,11,0
+VVV-Venlo,Helmond Sport,9,0
+VVV-Venlo,Roda JC,10,230000
+Valence,Rhône Vallées,9,0
+Valencia,Atlético Madrid,10,22700000
+Valencia,Barcelona,10,188600000
+Valencia,Celta de Vigo,12,8200000
+Valencia,Getafe,12,4500000
+Valencia,Real Valladolid,11,1800000
+Valencia,Villarreal,13,17550000
+Valencia B,Valencia,51,0
+Valenciennes B,Valenciennes FC,38,0
+Valladolid Prom,Real Valladolid,22,0
+Vancouver,Whitecaps FC 2,11,0
+Vannes B,St-Co Locminé,13,0
+Vannes B,Vannes,24,0
+Vard,Haugesund,18,0
+Varese,AC Milan,9,0
+Varese,Pro Vercelli,9,0
+Varnsdorf,Hradec Kralove,9,0
+Varnsdorf,Jablonec B,9,0
+Varnsdorf,Sl. Liberec B,10,0
+Varnsdorf,Slovan Liberec,10,0
+Varnsdorf,Teplice,11,75000
+Varzim,Coimbra,11,0
+Varzim B,Varzim,12,0
+Varzim CJ,Varzim Sub-15,32,0
+Varzim Sub-15,Varzim Sub-17,33,0
+Vasalunds IF,AIK,9,75000
+Vasas FC,BFC Siófok,12,0
+Vasas FC,Paksi FC,9,0
+Vasas SC,Rákospalota,9,0
+Vasco da Gama,Atlético-MG,14,3450000
+Vasco da Gama,Avaí FC,9,0
+Vasco da Gama,Boavista,12,1300000
+Vasco da Gama,Ceará SC,9,0
+Vasco da Gama,Corinthians,13,5700000
+Vasco da Gama,Coritiba FC,10,270000
+Vasco da Gama,Cruzeiro,14,6000000
+Vasco da Gama,EC Bahia,14,5000000
+Vasco da Gama,Fluminense,12,0
+Vasco da Gama,Grêmio,12,1000000
+Vasco da Gama,Internacional,15,665000
+Vasco da Gama,Madureira,10,0
+Vasco da Gama,Palmeiras,10,3950000
+Vasco da Gama,Paraná,9,0
+Vasco da Gama,Santos,11,0
+Vasco da Gama,São Paulo,11,0
+Vejle BK,FC Fredericia,13,0
+Vejle BK,FC Midtjylland,10,0
+Vejle BK,Odense BK,12,0
+Vejle BK,Vejle-Kolding,14,0
+Vejle-Kolding,Vejle BK,11,0
+Venezia,Triestina,10,0
+Venezia,Vis Pesaro,10,100000
+Ventura County,LA Galaxy,9,0
+Veres Rivne,PFC Lviv,9,0
+VfB Stuttgart,1.FC Nuremberg,9,900000
+VfB Stuttgart,Bayern Munich,9,107000000
+VfB Stuttgart,F. Düsseldorf,10,1800000
+VfB Stuttgart,Greuther Fürth,12,550000
+VfB Stuttgart,VfL Wolfsburg,10,13900000
+VfL Bochum,B. Leverkusen,10,13350000
+VfL Osnabrück,Holstein Kiel,10,0
+VfL Osnabrück,SF Lotte,10,0
+VfL Wolfsburg,1.FC Köln,10,7500000
+VfL Wolfsburg,FC Augsburg,14,12700000
+VfL Wolfsburg,VfB Stuttgart,11,16300000
+Viborg FF,Odense BK,10,1595000
+Viborg FF,Vejle BK,10,0
+Vicenza,Atalanta BC,9,3450000
+Vicenza,Bari,12,1780000
+Vicenza,Chievo Verona,12,5100000
+Vicenza,Genoa,12,500
+Vicenza,Inter,10,16200000
+Vicenza,Juventus,11,2850000
+Vicenza,Perugia,13,0
+Vicenza,Sampdoria,9,1200000
+Vicenza,Torino,11,3320000
+Videoton FC,BFC Siófok,14,0
+Videoton FC,Puskás AFC,32,0
+Vigør,Start,9,0
+Viking FK Youth,Viking,11,0
+Vikt. Plzen B,Domazlice,13,0
+Vikt. Plzen B,Viktoria Plzen,17,0
+Viktoria Berlin,A. Klagenfurt,13,0
+Viktoria Plzen,Banik Ostrava,9,0
+Viktoria Plzen,Banik Sokolov,11,0
+Viktoria Plzen,Bohemians 1905,11,0
+Viktoria Plzen,C. Budejovice,17,0
+Viktoria Plzen,Dukla Prague,11,250000
+Viktoria Plzen,Hradec Kralove,14,0
+Viktoria Plzen,Mlada Boleslav,16,300000
+Viktoria Plzen,Pribram,16,0
+Viktoria Plzen,Slavia Prague,9,5550000
+Viktoria Plzen,Teplice,10,0
+Viktoria Plzen,Zbrojovka Brno,11,0
+Viktoria Zizkov,Slavia Prague,11,250000
+Viktoria Zizkov,Slavia Prague B,15,0
+Viktoria Zizkov,Sparta Prague B,11,0
+Vila Nova B,Vila Nova FC,13,0
+Vila Nova FC,Anápolis,18,0
+Vila Nova FC,Santos,9,110000
+Vila Nova FC,Tombense,13,0
+Vilafranquense,Avs FS,18,0
+Vilaverdense 19,Vilaverdense,9,0
+Villa Nova,Coimbra,28,0
+Villa Rio,Botafogo,10,0
+Villarreal,Atlético Madrid,9,81000000
+Villarreal,Getafe,10,9000000
+Villarreal,Girona,9,2000000
+Villarreal,Real Betis,10,4750000
+Villarreal,Real Valladolid,10,0
+Villarreal,Valencia,10,10216000
+Villarreal CF B,CD Mirandés,9,0
+Villarreal CF B,Villarreal,58,0
+Villefranche B,FC Villefranche,13,0
+Vis Pesaro,Fermana,13,0
+Vis Pesaro,Sampdoria,12,0
+Vis Pesaro,Venezia,14,0
+Vis Pesaro Yout,Vis Pesaro,9,0
+Vissel Kobe,Oita Trinita,11,0
+Vissel Kobe,Yokohama FC,9,0
+Vit. Guimarães,Benfica,12,16600000
+Vit. Guimarães,FC Porto,22,10650000
+Vit. Guimarães,Guimarães B,12,0
+Vit. Guimarães,Moreirense ,11,0
+Vit. Guimarães,Rio Ave,10,1600000
+Vit. Guimarães,Sporting CP,15,18050000
+Viterbese,Ternana,9,0
+Vitesse,Chelsea,21,9400000
+Vitesse,Feyenoord,10,5950000
+Vitkovice,Banik Ostrava,9,0
+Vitkovice,Banik Ostrava B,18,0
+Vitória B,EC Vitória,45,0
+Vitória Setúbal,Benfica,14,4600000
+Vitória Setúbal,FC Porto,25,5280000
+Vitória Setúbal,SC Braga,9,500000
+Vizela,Pedras Salgadas,10,0
+Vizela,SC Braga,9,0
+Vizela,Trofense,9,0
+Vizela Y15,Vizela Y17,12,0
+Vizela Y17,Vizela Y19,20,0
+Vizela Y19,Vizela,18,0
+Vizela Youth,Vizela Y15,11,0
+Vlasim,Sparta Prague B,21,0
+Volos NPS,PAOK Salonika,9,0
+Volta Redonda,Tombense,10,0
+Volyn Lutsk,Dnipro,12,0
+Volyn Lutsk,Karpaty Lviv,10,0
+Volyn-2 Lutsk,Volyn Lutsk,9,0
+Vorskla Poltava,Dynamo Kyiv,15,2000000
+Vorskla Poltava,Girnyk-Sport,10,0
+Vorskla Poltava,Metalist Kharkiv,9,0
+Vorskla Poltava,Shakhtar D.,11,5300000
+Vysehrad,Pribram,12,0
+Vysehrad,Slavia Prague B,12,0
+Vác,Berkenye,9,0
+Vålerenga,Stabæk,10,0
+Vålerenga Yth.,Vålerenga,17,0
+Vélez Sarsfield,Arsenal Sarandí,9,0
+Vélez Sarsfield,Independiente,11,0
+W. Bremen Res.,Werder Bremen,15,0
+WH Zall,WH Yangtze Res.,13,0
+Waiblingen Yth.,Stuttgart Yth.,9,0
+Wake Forest,Carolina Dynamo,19,0
+Walsall,Kidderminster,15,10000
+Walsall,Mansfield Town,10,0
+Wanderers,Nacional,9,0
+Wanderers,Peñarol,9,0
+Warta Poznan,Jarota Jarocin,10,0
+Warta Poznan,Lech Poznan,12,0
+Warta Poznan,Zaglebie Lubin,10,115000
+Washington,Crossfire,11,0
+Watford,Brentford,11,0
+Watford,Granada CF,10,12000000
+Watford,QPR,11,550000
+Watford,Sheff Wed,9,8150000
+Watford,Swindon Town,10,225000
+Wehen Wiesbaden,Hansa Rostock,9,100000
+West Brom,Birmingham,10,3420000
+West Brom,Cardiff,13,6060000
+West Brom,Norwich,9,9080000
+West Brom,Portsmouth,9,0
+West Ham,Bournemouth,10,0
+West Ham,Charlton,10,1160000
+West Ham,Portsmouth,11,3430000
+West Ham,QPR,11,0
+West Ham,Tottenham,10,89400000
+Western Sydney,Newcastle,9,0
+Western Sydney,Perth Glory,10,0
+Weston-super-M.,Exeter City,13,0
+Whitecaps Acad.,Vancouver,10,0
+Whitecaps FC 2,Vancouver,12,0
+Whitecaps Res,Vancouver,14,0
+Whitehawk,Burgess Hill,9,0
+Widzew Lodz,Lechia Gdansk,10,815000
+Widzew Lodz,Pogon Szczecin,11,35000
+Widzew Lodz,Wisla Plock,12,20000
+Wigan,Brighton,11,3550000
+Wigan,Derby,9,2400000
+Wigan,Everton,10,29800000
+Wigan,Hull City,10,6750000
+Wigan,Oldham Athletic,10,0
+Wigan,Portsmouth,9,0
+Wigry Suwalki,Jagiellonia,18,25000
+Wisla Plock,Widzew Lodz,11,190000
+Wisla Sand.,KSZO Ostrowiec,10,0
+Woking,Crawley Town,11,0
+Wolves,Bristol City,9,395000
+Wolves,Bury,9,0
+Wolves,Coventry,9,11500000
+Wolves,Forest,13,34540000
+Wolves,Grasshoppers,12,0
+Wolves,Leeds,9,21100000
+Wolves,Millwall,16,3445000
+Wolves,QPR,11,1200000
+Wolves,Stoke City,14,24250000
+Wolves,Tranmere,9,0
+Wolves,Wigan,10,8170000
+Wrexham,Fleetwood,10,0
+Wrexham,Swansea,9,631000
+Wrexham,Tamworth,10,0
+Wycombe,QPR,12,530000
+Wycombe,Stevenage,9,0
+Y. Malatyaspor,BB Erzurumspor,9,0
+Yeovil Town,Bristol City,13,0
+Yeovil Town,Millwall,10,375000
+Yeovil Town,Swansea,12,450000
+Yokohama F. M.,Sagan Tosu,13,0
+Yokohama F. M.,Vissel Kobe,9,850000
+York City,Grimsby Town,9,0
+Young Reds,Royal Antwerp,14,0
+Young Violets,Austria Vienna,21,0
+Yverdon Sport,AC Bellinzona,11,0
+Yverdon Sport,FC Sion,9,0
+Yverdon Sport,Lausanne-Sport,17,0
+Yverdon Sport,Le Mont LS,10,0
+Yverdon Sport,Stade Nyonnais,14,0
+ZJ FC Res.,HZ Greentown,13,0
+Zacatepec,Chivas,10,0
+Zaglebie Lubin,Arka Gdynia,10,100000
+Zaglebie Lubin,Gornik Polk.,12,0
+Zaglebie Lubin,Górnik Polkowice,14,10000
+Zaglebie Lubin,Legia Warszawa,9,3560000
+Zaglebie Lubin,Pogon Szczecin,10,350000
+Zalaegerszeg,Andráshida,10,0
+Zalaegerszeg,ETO FC Győr ,9,120000
+Zalaegerszeg,Haladás,12,0
+Zalaegerszeg,Honvéd,11,0
+Zalaegerszeg,Hévíz SK,24,0
+Zalaegerszeg,MTK Budapest,9,0
+Zalaegerszeg,NK Nafta 1903,28,0
+Zalaegerszeg,Puskás AFC,9,0
+Zalaegerszeg,Pécsi MFC,12,0
+Zalaegerszeg,Vasas FC,9,0
+Zbroj. Brno B,1. FC Brno,10,0
+Zbroj. Brno B,Blansko,11,0
+Zbroj. Brno B,Zbrojovka Brno,15,0
+Zbrojovka Brno,1.SK Prostejov,10,0
+Zbrojovka Brno,Lisen,18,0
+Zbrojovka Brno,MFK Vyskov,9,0
+Zeeburgia Yth.,AZ Alkmaar Yth.,11,0
+Zeeburgia Yth.,Ajax Youth ,32,0
+Zenit 2 S-Pb,Zenit S-Pb,12,0
+Zenit S-Pb,FK Sochi,16,10135000
+Zenit S-Pb,Rostov,16,3550000
+Zenit S-Pb,Rubin Kazan,10,6500000
+Zeytinburnu Yth,Zeytinburnuspor,10,0
+Zorya Lugansk,Chornomorets,9,0
+Zorya Lugansk,Dynamo Kyiv,19,6200000
+Zorya Lugansk,Shakhtar D.,16,800000
+Zrinjski Mostar,Dinamo Zagreb,13,0
+Zulte Waregem,Club Brugge,9,2150000
+Zulte Waregem,KAA Gent,9,5900000
+Zulte Waregem,KV Kortrijk,14,0
+Zwarte Leeuw,Hoogstraten VV,11,0
+Zébra Élites,R Charleroi SC,11,0
+Água Santa-SP,Ituano,10,0
+Água Santa-SP,Vila Nova FC,9,0
+Ängelholms FF,Helsingborgs IF,22,0
+Örebro SK,Degerfors,10,0
+Östersund,IFK Östersund,17,0
+Újpest FC,BFC Siófok,11,0
+Újpest FC,Kecskeméti TE,9,0
+Újpest FC,Rákospalota,9,0
+Újpest FC,Vasas SC,9,0
+Újpest FC,Videoton FC,10,805000
