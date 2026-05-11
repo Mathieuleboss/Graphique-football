@@ -1,0 +1,52 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Mathieu Siegel Helios Lott"
+  },
+  "text": {
+    "more": "",
+    "intro": "",
+    "title": "Graph des transferts entre clubs de 1960 à 2024"
+  },
+  "legend": {
+    "edgeLabel": "nombre de transfert",
+    "nodeLabel": "Club"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Modularity Class"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 1,
+      "minEdgeSize": 0.1,
+      "minNodeSize": 0.5,
+      "maxNodeSize": 1
+    },
+    "mouseProperties": {
+      "maxRatio": 75,
+      "minRatio": 1
+    }
+  }
+}
